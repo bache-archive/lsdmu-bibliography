@@ -1,0 +1,30 @@
+{
+  "id": "pollan-2018-how-to-change",
+  "type": "book",
+  "title": "How to Change Your Mind",
+  "author": [
+    {
+      "family": "Pollan",
+      "given": ""
+    },
+    {
+      "family": "Michael",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "publisher": "Penguin Press",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

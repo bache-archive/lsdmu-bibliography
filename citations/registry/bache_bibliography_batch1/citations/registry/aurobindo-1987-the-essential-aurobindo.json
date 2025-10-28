@@ -1,0 +1,34 @@
+{
+  "id": "aurobindo-1987-the-essential-aurobindo",
+  "type": "book",
+  "title": "The Essential Aurobindo",
+  "author": [
+    {
+      "family": "Aurobindo",
+      "given": "Sri"
+    }
+  ],
+  "editor": [
+    {
+      "family": "McDermott",
+      "given": "Robert"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1987
+      ]
+    ]
+  },
+  "publisher": "Lindisfarne Books",
+  "publisher-place": "Herndon, VA",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "integral-yoga",
+    "vedic-philosophy",
+    "nonduality"
+  ],
+  "notes": null
+}

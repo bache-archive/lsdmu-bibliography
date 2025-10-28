@@ -1,0 +1,26 @@
+{
+  "id": "elgin-1993-awakening-earth",
+  "type": "book",
+  "title": "Awakening Earth",
+  "author": [
+    {
+      "family": "Elgin",
+      "given": "Duane"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "publisher": "Morrow",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

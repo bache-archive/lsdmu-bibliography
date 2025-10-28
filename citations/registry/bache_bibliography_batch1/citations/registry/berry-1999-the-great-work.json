@@ -1,0 +1,26 @@
+{
+  "id": "berry-1999-the-great-work",
+  "type": "book",
+  "title": "The Great Work",
+  "author": [
+    {
+      "family": "Berry",
+      "given": "Thomas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1999
+      ]
+    ]
+  },
+  "publisher": "Bell Tower/Random House",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

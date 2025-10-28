@@ -1,0 +1,30 @@
+{
+  "id": "macy-2014-coming-back-to",
+  "type": "book",
+  "title": "Coming Back to Life",
+  "author": [
+    {
+      "family": "Macy",
+      "given": ""
+    },
+    {
+      "family": "Joanna",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "New Society Publishers",
+  "publisher-place": "Gabriola Islands, British Columbia, Canada",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

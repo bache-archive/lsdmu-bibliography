@@ -1,0 +1,30 @@
+{
+  "id": "lipski-2007-the-essential-r",
+  "type": "book",
+  "title": "The Essential Śrī Ānandamayī Mā",
+  "author": [
+    {
+      "family": "Lipski",
+      "given": ""
+    },
+    {
+      "family": "Alexander",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "publisher": "World Wisdom",
+  "publisher-place": "Bloomington, Ind.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "scientific-american-2014-end-the-ban-on-psychoactive-drug-research",
+  "type": "article-magazine",
+  "title": "End the Ban on Psychoactive Drug Research",
+  "author": [
+    {
+      "literal": "Scientific American Editors"
+    }
+  ],
+  "container-title": "Scientific American",
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        2
+      ]
+    ]
+  },
+  "page": "1-2",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "policy",
+    "psychedelic-research",
+    "editorial"
+  ],
+  "notes": "Editorial advocating easing restrictions on psychedelic research."
+}

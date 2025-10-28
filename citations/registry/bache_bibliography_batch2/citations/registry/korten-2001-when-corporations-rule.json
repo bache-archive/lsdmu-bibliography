@@ -1,0 +1,30 @@
+{
+  "id": "korten-2001-when-corporations-rule",
+  "type": "book",
+  "title": "When Corporations Rule the World",
+  "author": [
+    {
+      "family": "Korten",
+      "given": ""
+    },
+    {
+      "family": "(1995)",
+      "given": "David."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "publisher": "Berrett-Koehler",
+  "publisher-place": "San Francisco",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ferrer-2002-revisioning-transpersonal-theory",
+  "type": "book",
+  "title": "Revisioning Transpersonal Theory",
+  "author": [
+    {
+      "family": "Ferrer",
+      "given": "Jorge"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2002
+      ]
+    ]
+  },
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

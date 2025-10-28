@@ -1,0 +1,27 @@
+{
+  "id": "eisenstein-2007-the-ascent-of",
+  "type": "book",
+  "title": "The Ascent of Humanity",
+  "author": [
+    {
+      "family": "Eisenstein",
+      "given": "Charles"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "publisher": "Evolver Editions",
+  "publisher-place": "Berkeley, Calif.",
+  "note": "The Ascent of Humanity. Berkeley, Calif.: Evolver Editions.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "netherton-1978-past-lives-therapy",
+  "type": "book",
+  "title": "Past Lives Therapy",
+  "author": [
+    {
+      "family": "Netherton",
+      "given": "Morris"
+    },
+    {
+      "family": "Paul",
+      "given": "Thomas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1978
+      ]
+    ]
+  },
+  "publisher": "William Morrow Co",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

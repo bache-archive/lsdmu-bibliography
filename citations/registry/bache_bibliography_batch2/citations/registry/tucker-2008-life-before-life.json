@@ -1,0 +1,28 @@
+{
+  "id": "tucker-2008-life-before-life",
+  "type": "book",
+  "title": "Life Before Life: Children’s Memories of Previous Lives",
+  "author": [
+    {
+      "family": "Tucker",
+      "given": ""
+    },
+    {
+      "family": "Jim",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2008
+      ]
+    ]
+  },
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "metzner-1997-sacred-vine-of",
+  "type": "book",
+  "title": "Sacred Vine of Spirits: Ayahuasca",
+  "author": [
+    {
+      "family": "Metzner",
+      "given": ""
+    },
+    {
+      "family": "Ralph",
+      "given": "ed"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "Park Street Press",
+  "publisher-place": "Rochester, Vt.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bowman-1997-children-s-past",
+  "type": "book",
+  "title": "Children’s Past Lives",
+  "author": [
+    {
+      "family": "Bowman",
+      "given": "Carol"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "William Morrow Co",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "clark-1964-untitled",
+  "type": "book",
+  "title": "Untitled",
+  "author": [
+    {
+      "family": "Clark",
+      "given": "W. C"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1964
+      ]
+    ]
+  },
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

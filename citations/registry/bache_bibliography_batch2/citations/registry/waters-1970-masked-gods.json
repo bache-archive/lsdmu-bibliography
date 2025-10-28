@@ -1,0 +1,30 @@
+{
+  "id": "waters-1970-masked-gods",
+  "type": "book",
+  "title": "Masked Gods",
+  "author": [
+    {
+      "family": "Waters",
+      "given": ""
+    },
+    {
+      "family": "Frank",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1970
+      ]
+    ]
+  },
+  "publisher": "Ballantine Books",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

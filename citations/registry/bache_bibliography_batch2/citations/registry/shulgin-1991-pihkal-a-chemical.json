@@ -1,0 +1,30 @@
+{
+  "id": "shulgin-1991-pihkal-a-chemical",
+  "type": "book",
+  "title": "PIHKAL—A Chemical Love Story",
+  "author": [
+    {
+      "family": "Shulgin",
+      "given": "Alexander"
+    },
+    {
+      "family": "Shulgin",
+      "given": "Ann"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1991
+      ]
+    ]
+  },
+  "publisher": "Transform Press",
+  "publisher-place": "Berkeley, Calif.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

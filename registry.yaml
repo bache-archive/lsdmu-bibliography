@@ -1,0 +1,36 @@
+# LSDMU Bibliography Registry — Summary Metadata
+# Version: 1.0  |  Date: 2025-10-29
+# Repository: bache-archive/lsdmu-bibliography
+
+version: 1.0
+title: "LSD and the Mind of the Universe — Bibliography Registry"
+source_work:
+  title: "LSD and the Mind of the Universe"
+  author: "Christopher M. Bache"
+  published: 2019
+  publisher: "Inner Traditions / Park Street Press"
+  isbn: "978-1-62055-970-3"
+curator: "H. K. Locke"
+maintained_by: "Bache Archive Stewardship Team"
+license: "CC0 1.0 Universal"
+created_at: "2025-10-29"
+
+stats:
+  total_works: 154
+  total_authors: 153
+  batches: 2
+  schema_version: "2025.10"
+  enrichment_version: "v2"
+  validated: true
+
+repositories:
+  corpus_layer: "chris-bache-archive"
+  registry_layer: "bache-archive/lsdmu-bibliography"
+  edge_layer: "bache-graph"
+  index_layer: "lsdmu-rag-api"
+
+notes: |
+  This registry encodes every bibliographic citation and footnote in
+  *LSD and the Mind of the Universe* as machine-readable CSL-JSON and YAML.
+  It forms the influence layer of the Bache Graph and a prototype for
+  future Lumen Graph bibliographies.

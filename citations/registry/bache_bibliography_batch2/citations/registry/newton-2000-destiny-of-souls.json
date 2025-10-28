@@ -1,0 +1,30 @@
+{
+  "id": "newton-2000-destiny-of-souls",
+  "type": "book",
+  "title": "Destiny of Souls",
+  "author": [
+    {
+      "family": "Newton",
+      "given": ""
+    },
+    {
+      "family": "Michael",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2000
+      ]
+    ]
+  },
+  "publisher": "Llewellyn",
+  "publisher-place": "Paul, Minn.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

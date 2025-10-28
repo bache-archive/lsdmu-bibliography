@@ -1,0 +1,30 @@
+{
+  "id": "osto-2016-altered-states",
+  "type": "book",
+  "title": "Altered States",
+  "author": [
+    {
+      "family": "Osto",
+      "given": ""
+    },
+    {
+      "family": "Douglas",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016
+      ]
+    ]
+  },
+  "publisher": "Columbia University Press",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

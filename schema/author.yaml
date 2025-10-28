@@ -1,0 +1,39 @@
+# Author Object Schema — LSDMU Bibliography
+# Version 1.0  |  Date: 2025-10-29
+
+$schema: "http://json-schema.org/draft-07/schema#"
+title: "Author Object Schema"
+type: object
+required:
+  - id
+  - full_name
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    description: "Canonical author slug (family-given)"
+  full_name:
+    type: string
+  lifespan:
+    type: string
+    description: "Optional (e.g., 1886–1967)"
+  nationality:
+    type: string
+  fields:
+    type: array
+    items:
+      type: string
+  wikidata:
+    type: string
+  orcid:
+    type: string
+  notable_works:
+    type: array
+    items:
+      type: string
+  notes:
+    type: string
+  curator:
+    type: string
+    description: "Curator or steward who created this record"
+additionalProperties: false
