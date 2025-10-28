@@ -1,0 +1,25 @@
+{
+  "id": "underhill-1961-mysticism",
+  "type": "book",
+  "title": "Mysticism",
+  "author": [
+    {
+      "family": "Underhill",
+      "given": "Evelyn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1961
+      ]
+    ]
+  },
+  "publisher": "E. P. Dutton",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "mysticism"
+  ]
+}

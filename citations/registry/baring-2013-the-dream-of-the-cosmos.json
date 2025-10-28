@@ -1,0 +1,22 @@
+{
+  "id": "baring-2013-the-dream-of-the-cosmos",
+  "type": "book",
+  "title": "The Dream of the Cosmos",
+  "author": [
+    {
+      "family": "Baring",
+      "given": "Anne"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "publisher": "Archive Publishing",
+  "publisher-place": "Dorset, England",
+  "language": "en",
+  "source": "LSDMU bibliography (reconstructed from reference list)"
+}

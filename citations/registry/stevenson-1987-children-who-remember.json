@@ -1,0 +1,25 @@
+{
+  "id": "stevenson-1987-children-who-remember",
+  "type": "book",
+  "title": "Children Who Remember Previous Lives",
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1987
+      ]
+    ]
+  },
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "reincarnation"
+  ]
+}

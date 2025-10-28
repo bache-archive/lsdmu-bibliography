@@ -1,0 +1,25 @@
+{
+  "id": "watkins-1987-hypnotherapeutic-techniques",
+  "type": "book",
+  "title": "Hypnotherapeutic Techniques",
+  "author": [
+    {
+      "family": "Watkins",
+      "given": "John"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1987
+      ]
+    ]
+  },
+  "publisher": "Irvington Publishers",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "psychology"
+  ]
+}

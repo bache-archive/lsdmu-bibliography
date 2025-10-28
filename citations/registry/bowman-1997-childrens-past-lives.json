@@ -1,0 +1,25 @@
+{
+  "id": "bowman-1997-childrens-past-lives",
+  "type": "book",
+  "title": "Children’s Past Lives",
+  "author": [
+    {
+      "family": "Bowman",
+      "given": "Carol"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "William Morrow Co.",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "topics": [
+    "reincarnation"
+  ]
+}

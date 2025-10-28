@@ -1,0 +1,27 @@
+{
+  "id": "lommel-2010-consciousness-beyond-life",
+  "type": "book",
+  "title": "Consciousness Beyond Life",
+  "author": [
+    {
+      "family": "van Lommel",
+      "given": "Pim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2010
+      ]
+    ]
+  },
+  "publisher": "HarperCollins",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "afterlife",
+    "clinical",
+    "psychology"
+  ]
+}

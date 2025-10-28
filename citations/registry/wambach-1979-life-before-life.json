@@ -1,0 +1,25 @@
+{
+  "id": "wambach-1979-life-before-life",
+  "type": "book",
+  "title": "Life Before Life",
+  "author": [
+    {
+      "family": "Wambach",
+      "given": "Helen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1979
+      ]
+    ]
+  },
+  "publisher": "Bantam Books",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "reincarnation"
+  ]
+}

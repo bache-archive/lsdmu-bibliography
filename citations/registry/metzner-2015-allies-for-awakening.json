@@ -1,0 +1,27 @@
+{
+  "id": "metzner-2015-allies-for-awakening",
+  "type": "book",
+  "title": "Allies for Awakening",
+  "author": [
+    {
+      "family": "Metzner",
+      "given": "Ralph"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "publisher": "Regent Press",
+  "publisher-place": "Berkeley, Calif.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "mysticism",
+    "psychedelics",
+    "transpersonal"
+  ]
+}

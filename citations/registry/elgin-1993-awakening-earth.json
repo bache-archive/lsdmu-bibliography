@@ -1,0 +1,26 @@
+{
+  "id": "elgin-1993-awakening-earth",
+  "type": "book",
+  "title": "Awakening Earth",
+  "author": [
+    {
+      "family": "Elgin",
+      "given": "Duane"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "publisher": "Morrow",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "topics": [
+    "culture",
+    "ecospirituality"
+  ]
+}

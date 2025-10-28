@@ -1,0 +1,25 @@
+{
+  "id": "stevenson-1974-a",
+  "type": "book",
+  "title": "Twenty Cases Suggestive of Reincarnation (2nd rev. ed.)",
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1974
+      ]
+    ]
+  },
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "reincarnation"
+  ]
+}

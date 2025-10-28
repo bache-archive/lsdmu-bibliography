@@ -1,0 +1,26 @@
+{
+  "id": "nicol-2015-subtle-activism",
+  "type": "book",
+  "title": "Subtle Activism",
+  "author": [
+    {
+      "family": "Nicol",
+      "given": "David"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "contemplative-practice",
+    "ecospirituality"
+  ]
+}

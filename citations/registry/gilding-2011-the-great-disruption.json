@@ -1,0 +1,27 @@
+{
+  "id": "gilding-2011-the-great-disruption",
+  "type": "book",
+  "title": "The Great Disruption",
+  "author": [
+    {
+      "family": "Gilding",
+      "given": "Paul"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "publisher": "Bloomsbury Press",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "culture",
+    "ecospirituality",
+    "policy"
+  ]
+}

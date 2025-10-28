@@ -1,0 +1,25 @@
+{
+  "id": "wilber-1995-sex-ecology-spirituality",
+  "type": "book",
+  "title": "Sex, Ecology, Spirituality",
+  "author": [
+    {
+      "family": "Wilber",
+      "given": "Ken"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "publisher": "Shambhala",
+  "publisher-place": "Boston",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "transpersonal"
+  ]
+}

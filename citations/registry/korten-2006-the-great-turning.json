@@ -1,0 +1,27 @@
+{
+  "id": "korten-2006-the-great-turning",
+  "type": "book",
+  "title": "The Great Turning",
+  "author": [
+    {
+      "family": "Korten",
+      "given": "David"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "publisher": "Berrett-Koehler",
+  "publisher-place": "San Francisco",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "culture",
+    "ecospirituality",
+    "policy"
+  ]
+}

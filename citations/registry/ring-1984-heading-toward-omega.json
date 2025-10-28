@@ -1,0 +1,26 @@
+{
+  "id": "ring-1984-heading-toward-omega",
+  "type": "book",
+  "title": "Heading Toward Omega",
+  "author": [
+    {
+      "family": "Ring",
+      "given": "Kenneth"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1984
+      ]
+    ]
+  },
+  "publisher": "Morrow",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "afterlife",
+    "psychology"
+  ]
+}

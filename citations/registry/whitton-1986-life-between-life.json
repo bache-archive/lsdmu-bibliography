@@ -1,0 +1,29 @@
+{
+  "id": "whitton-1986-life-between-life",
+  "type": "book",
+  "title": "Life Between Life",
+  "author": [
+    {
+      "family": "Whitton",
+      "given": "Joel"
+    },
+    {
+      "family": "Fisher",
+      "given": "Joe"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1986
+      ]
+    ]
+  },
+  "publisher": "Doubleday",
+  "publisher-place": "Garden City, NY",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "reincarnation"
+  ]
+}

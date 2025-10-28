@@ -1,23 +1,31 @@
-# Makefile
-PY := python3
 
+# Makefile — minimal, safe tabs, no heredocs
+PY := python3
 CIT_DIR := citations/registry
 SCHEMA := schema/work.json
 TOPICS := topics.yaml
 
-# Format all CSL-JSON files consistently with jq (if installed).
+.PHONY: format validate normalize check audit sample open-sample
+
 format:
 	@command -v jq >/dev/null 2>&1 || { echo "jq not found (optional). Skipping format."; exit 0; }
-	@find $(CIT_DIR) -type f -name '*.json' -print0 | xargs -0 -I {} sh -c 'jq -S . "{}" > "{}.tmp" && mv "{}.tmp" "{}"'
+	@echo "Formatting JSON with jq (sorted keys)…"
+	@find $(CIT_DIR) -type f -name '*.json' -exec sh -c 'f="$$1"; jq -S . "$$f" > "$$f.tmp" && mv "$$f.tmp" "$$f"' sh {} \;
 	@echo "JSON formatted."
 
-# Validate against schema, filename<->id match, allowed topics, duplicate ids, author cross-refs
 validate:
 	@$(PY) validation/validate_registry.py
 
-# Normalize minor field issues across all files (publisher-place spelling, language, topics, etc.)
 normalize:
 	@$(PY) validation/normalize_csl.py
 
-# Run everything
 check: format normalize validate
+
+audit:
+	@$(PY) validation/audit_registry.py
+
+sample:
+	@$(PY) validation/make_sample.py
+
+open-sample:
+	@$(PY) validation/open_sample.py
