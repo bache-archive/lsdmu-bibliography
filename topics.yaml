@@ -1,0 +1,174 @@
+# Controlled Vocabulary — LSDMU Bibliography Registry
+# Purpose: a stable tag set for works (citations/registry/*.json) and authors (citations/authors/*.yaml)
+# Scope: bibliography- and author-facing (NOT the concept graph of the book’s ideas)
+# Version: 1.1 — 2025-10-29
+
+topics:
+
+  # --- Psychedelic Science & Therapy ---
+  - psychedelic therapy
+  - psychedelic science
+  - psychopharmacology
+  - research safety & ethics
+  - set and setting
+  - high-dose lsd protocol
+  - music-guided process
+  - integration (post-session)
+
+  # --- Grof / Phenomenology / Cartography ---
+  - perinatal matrices (bpm)
+  - ego dissolution
+  - catharsis
+  - somatic processing
+  - spiritual emergency
+  - archetypal astrology
+
+  # --- Entheogens & Traditions ---
+  - entheogens & religion
+  - ayahuasca studies
+  - buddhism & psychedelics
+  - tibetan buddhism
+  - comparative mysticism
+  - comparative religion
+  - philosophy of religion
+
+  # --- Mysticism / Philosophy / Classics ---
+  - phenomenology
+  - pragmatism & psychology
+  - mysticism studies
+  - christian mysticism
+  - vedic philosophy
+  - integral yoga
+  - literature & spiritual classics
+
+  # --- Survival / Afterlife / Anomalies ---
+  - reincarnation research
+  - xenoglossy
+  - children’s past-life reports
+  - life-between-lives
+  - near-death studies
+  - out-of-body experiences
+  - hypnosis & regression therapy
+  - subpersonalities & ego states
+  - subtle energy psychology
+  - subtle activism
+
+  # --- Chemistry / Pharmacology / Materials ---
+  - psychedelic chemistry
+  - tryptamines
+  - 5-meo-dmt
+
+  # --- Systems / Ecology / Futures ---
+  - systems theory
+  - systems dynamics & limits to growth
+  - ecological economics & inequality
+  - climate change
+  - evolutionary consciousness
+  - connectivity & akashic models
+  - global brain
+
+  # --- Culture / Policy / Renaissance ---
+  - prohibition & policy
+  - clinical renaissance
+  - science communication
+
+# -----------------------------
+# Aliases (synonyms -> canonical)
+# Use these freely in drafts; CI can normalize them to canonical topics.
+# -----------------------------
+aliases:
+  # Psychedelic science & therapy
+  psychedelic_research: psychedelic science
+  hallucinogen_research: psychedelic science
+  clinical_psychedelics: psychedelic therapy
+  therapy_with_psychedelics: psychedelic therapy
+  safety_guidelines: research safety & ethics
+  guidelines_for_hallucinogen_research: research safety & ethics
+  set_setting: set and setting
+  high_dose_lsd: high-dose lsd protocol
+  music_therapy: music-guided process
+  post_session_integration: integration (post-session)
+
+  # Grof / phenomenology
+  bpm: perinatal matrices (bpm)
+  basic_perinatal_matrices: perinatal matrices (bpm)
+  spiritual_emergence: spiritual emergency
+  somatic_alchemy: somatic processing
+
+  # Entheogens & traditions
+  religion_and_entheogens: entheogens & religion
+  ayahuasca: ayahuasca studies
+  buddhism_psychedelics: buddhism & psychedelics
+  tibetan: tibetan buddhism
+  comp_mysticism: comparative mysticism
+  comp_religion: comparative religion
+  phil_of_religion: philosophy of religion
+
+  # Mysticism / philosophy / classics
+  husserl_phenomenology: phenomenology
+  james_varieties: pragmatism & psychology
+  mysticism: mysticism studies
+  christian_mysticism: christian mysticism
+  vedanta: vedic philosophy
+  aurobindo_studies: integral yoga
+  classics_dante: literature & spiritual classics
+
+  # Survival / afterlife / anomalies
+  reincarnation: reincarnation research
+  past_lives_children: children’s past-life reports
+  lbl: life-between-lives
+  nde: near-death studies
+  obe: out-of-body experiences
+  regression: hypnosis & regression therapy
+  past_life_regression: hypnosis & regression therapy
+  ego_state_therapy: subpersonalities & ego states
+  energy_psychology: subtle energy psychology
+
+  # Chemistry / materials
+  chem_psychedelics: psychedelic chemistry
+  shulgin_phenethylamines_tryptamines: psychedelic chemistry
+  5meodmt: 5-meo-dmt
+  tryptamine_family: tryptamines
+
+  # Systems / ecology / futures
+  systems_dynamics: systems dynamics & limits to growth
+  limits_to_growth: systems dynamics & limits to growth
+  inequality_oxfam: ecological economics & inequality
+  ecology_of_commerce: ecological economics & inequality
+  climate: climate change
+  conscious_evolution: evolutionary consciousness
+  akashic_field: connectivity & akashic models
+  morphic_resonance_connectivity: connectivity & akashic models
+  global_brain_awakens: global brain
+
+  # Culture / policy / renaissance
+  drug_policy: prohibition & policy
+  psychedelic_policy: prohibition & policy
+  maps_renaissance: clinical renaissance
+  psychedelic_renaissance: clinical renaissance
+  public_understanding_of_science: science communication
+  sci_comm: science communication
+
+# -----------------------------
+# Notes for Curators
+# -----------------------------
+notes: |
+  • This vocabulary is bibliography-facing: attach tags to cited works and author profiles.
+  • Book-specific metaphysical ideas (e.g., Diamond Luminosity, Future Human) belong in the Bache Graph concepts layer, not here.
+  • Keep tags lowercase, singular nouns/noun-phrases. Prefer canonical forms in `topics`, but `aliases` are accepted and normalized by CI.
+  • Typical mappings from the current reference list:
+      - Grof corpus → perinatal matrices (bpm); psychedelic therapy; spiritual emergency; archetypal astrology
+      - Pahnke/Richards/Griffiths (2008) → research safety & ethics; psychedelic therapy
+      - Shulgin, Trachsel, Ott → psychedelic chemistry; tryptamines; 5-meo-dmt (for Oroc)
+      - Metzner, Alverga, St John → ayahuasca studies; entheogens & religion
+      - Underhill, Stace, Zaehner, Huston Smith → comparative mysticism; philosophy of religion
+      - Aurobindo, Satprem → vedic philosophy; integral yoga
+      - Tarnas (Cosmos & Psyche), Archai papers → archetypal astrology
+      - Stevenson, Tucker, Bowman, Whitton, Wambach, Weiss, Snow → reincarnation research; children’s past-life reports; life-between-lives; hypnosis & regression therapy; xenoglossy
+      - van Lommel, Ring/Valarino → near-death studies
+      - Monroe → out-of-body experiences
+      - Rowan, Watkins, Emmerson, Zinser → subpersonalities & ego states; hypnosis & regression therapy; subtle energy psychology
+      - Laszlo (Akashic), Sheldrake → connectivity & akashic models
+      - Meadows/Randers, Korten, Hawken, Gilding, Wallace-Wells → systems dynamics & limits to growth; ecological economics & inequality; climate change
+      - Scientific American (2014), Pollan (2018), Shroder (2014) → clinical renaissance; science communication; prohibition & policy
+      - James, Husserl, Dante → pragmatism & psychology; phenomenology; literature & spiritual classics

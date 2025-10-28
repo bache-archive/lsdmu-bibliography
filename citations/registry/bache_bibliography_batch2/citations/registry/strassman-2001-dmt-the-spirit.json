@@ -1,0 +1,30 @@
+{
+  "id": "strassman-2001-dmt-the-spirit",
+  "type": "book",
+  "title": "DMT: The Spirit Molecule",
+  "author": [
+    {
+      "family": "Strassman",
+      "given": ""
+    },
+    {
+      "family": "Rick",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "publisher": "Park Street Press",
+  "publisher-place": "Rochester, Vt.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

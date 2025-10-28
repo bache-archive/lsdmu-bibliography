@@ -1,0 +1,30 @@
+{
+  "id": "leininger-2009-soul-survivor",
+  "type": "book",
+  "title": "Soul Survivor",
+  "author": [
+    {
+      "family": "Leininger",
+      "given": "Bruce"
+    },
+    {
+      "family": "Leininger",
+      "given": "Andrea"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2009
+      ]
+    ]
+  },
+  "publisher": "Grand Central Publishing",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

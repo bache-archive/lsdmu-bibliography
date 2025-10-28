@@ -1,0 +1,30 @@
+{
+  "id": "zinser-2011-soul-centered-healing",
+  "type": "book",
+  "title": "Soul-Centered Healing",
+  "author": [
+    {
+      "family": "Zinser",
+      "given": ""
+    },
+    {
+      "family": "Thomas",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "publisher": "Union Street Press",
+  "publisher-place": "Grand Rapids, Mich.",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

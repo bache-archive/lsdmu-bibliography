@@ -1,0 +1,30 @@
+{
+  "id": "meadows-1972-the-limits-to",
+  "type": "book",
+  "title": "The Limits to Growth",
+  "author": [
+    {
+      "family": "Meadows",
+      "given": "Meadows, Donella, Dennis"
+    },
+    {
+      "family": "Randers",
+      "given": "Jorgen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1972
+      ]
+    ]
+  },
+  "publisher": "Universe Books",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

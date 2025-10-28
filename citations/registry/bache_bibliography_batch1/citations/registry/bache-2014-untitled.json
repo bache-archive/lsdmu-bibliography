@@ -1,0 +1,24 @@
+{
+  "id": "bache-2014-untitled",
+  "type": "book",
+  "title": "Untitled",
+  "author": [
+    {
+      "family": "Bache",
+      "given": "Christopher"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

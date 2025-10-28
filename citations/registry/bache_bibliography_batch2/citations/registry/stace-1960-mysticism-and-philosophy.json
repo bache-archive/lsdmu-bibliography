@@ -1,0 +1,30 @@
+{
+  "id": "stace-1960-mysticism-and-philosophy",
+  "type": "book",
+  "title": "Mysticism and Philosophy",
+  "author": [
+    {
+      "family": "Stace",
+      "given": ""
+    },
+    {
+      "family": "Walter",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1960
+      ]
+    ]
+  },
+  "publisher": "Macmillan Press",
+  "publisher-place": "London",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

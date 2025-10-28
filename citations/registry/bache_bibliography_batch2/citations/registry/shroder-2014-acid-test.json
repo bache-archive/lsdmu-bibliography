@@ -1,0 +1,30 @@
+{
+  "id": "shroder-2014-acid-test",
+  "type": "book",
+  "title": "Acid Test",
+  "author": [
+    {
+      "family": "Shroder",
+      "given": ""
+    },
+    {
+      "family": "Tom",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "Penguin Press",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

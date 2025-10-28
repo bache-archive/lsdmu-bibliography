@@ -1,0 +1,28 @@
+{
+  "id": "almeder-1992-death-and-personal",
+  "type": "book",
+  "title": "Death and Personal Survival",
+  "author": [
+    {
+      "family": "Almeder",
+      "given": "Robert"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1992
+      ]
+    ]
+  },
+  "publisher": "Littlefield Adams",
+  "publisher-place": "Lanham, MD",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "survival",
+    "afterlife",
+    "philosophy-of-mind"
+  ],
+  "notes": null
+}

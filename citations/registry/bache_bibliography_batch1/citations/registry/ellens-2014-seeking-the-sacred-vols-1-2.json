@@ -1,0 +1,29 @@
+{
+  "id": "ellens-2014-seeking-the-sacred-vols-1-2",
+  "type": "book",
+  "title": "Seeking the Sacred with Psychoactive Substances (Volumes 1 & 2)",
+  "editor": [
+    {
+      "family": "Ellens",
+      "given": "J. Harold"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "Praeger",
+  "publisher-place": "Santa Barbara, CA",
+  "ISBN": null,
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "psychedelics",
+    "religion",
+    "comparative religion"
+  ],
+  "notes": "Two-volume edited set on sacred/therapeutic use of psychoactives."
+}

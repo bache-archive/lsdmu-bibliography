@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Work Object Schema — LSDMU Bibliography",
+  "type": "object",
+  "required": ["id", "type", "title", "author", "issued"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Canonical ID: author-year-shorttitle"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["book", "article-journal", "chapter", "report", "webpage", "interview"],
+      "description": "CSL-JSON type"
+    },
+    "title": { "type": "string" },
+    "author": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "family": { "type": "string" },
+          "given": { "type": "string" }
+        },
+        "required": ["family"]
+      }
+    },
+    "issued": {
+      "type": "object",
+      "properties": {
+        "date-parts": {
+          "type": "array",
+          "items": { "type": "array", "items": { "type": "integer" } }
+        }
+      }
+    },
+    "publisher": { "type": "string" },
+    "publisher-place": { "type": "string" },
+    "topics": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "identifiers": {
+      "type": "object",
+      "properties": {
+        "isbn": { "type": "string" },
+        "doi": { "type": "string" },
+        "wikidata": { "type": "string" }
+      }
+    },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

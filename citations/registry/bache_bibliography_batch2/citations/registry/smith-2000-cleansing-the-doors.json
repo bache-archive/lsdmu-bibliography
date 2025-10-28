@@ -1,0 +1,30 @@
+{
+  "id": "smith-2000-cleansing-the-doors",
+  "type": "book",
+  "title": "Cleansing the Doors of Perception",
+  "author": [
+    {
+      "family": "Smith",
+      "given": ""
+    },
+    {
+      "family": "Huston",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2000
+      ]
+    ]
+  },
+  "publisher": "Jeremy Tarcher/ Putnam",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

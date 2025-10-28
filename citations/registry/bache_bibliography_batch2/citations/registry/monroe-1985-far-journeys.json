@@ -1,0 +1,30 @@
+{
+  "id": "monroe-1985-far-journeys",
+  "type": "book",
+  "title": "Far Journeys",
+  "author": [
+    {
+      "family": "Monroe",
+      "given": ""
+    },
+    {
+      "family": "Robert",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1985
+      ]
+    ]
+  },
+  "publisher": "N.J.: Doubleday",
+  "publisher-place": "Garden City",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

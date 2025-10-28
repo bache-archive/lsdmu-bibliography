@@ -1,0 +1,28 @@
+{
+  "id": "laszlo-2016-what-is-reality",
+  "type": "book",
+  "title": "What Is Reality? New York: Select Books",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": ""
+    },
+    {
+      "family": "Ervin",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016
+      ]
+    ]
+  },
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

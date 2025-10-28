@@ -1,0 +1,30 @@
+{
+  "id": "laszlo-2010-the-chaos-point",
+  "type": "book",
+  "title": "The Chaos Point",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": ""
+    },
+    {
+      "family": "Ervin",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2010
+      ]
+    ]
+  },
+  "publisher": "Piatkus/Little, Brown",
+  "publisher-place": "London",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}

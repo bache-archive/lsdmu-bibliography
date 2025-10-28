@@ -1,0 +1,37 @@
+# Registry Manifest — LSDMU Bibliography
+# Documents provenance and normalization batches
+# Version 1.0 — 2025-10-29
+
+batches:
+  - name: batch1-A-to-G
+    source_file: bache_bibliography_batch1_A-to-G.zip
+    normalized_count: 58
+    date_normalized: 2025-10-28
+    curator: hk-locke
+
+  - name: batch2-H-to-Z
+    source_file: bache_bibliography_batch2_H-to-Z.zip
+    normalized_count: 96
+    date_normalized: 2025-10-28
+    curator: hk-locke
+
+authors:
+  total_count: 153
+  enrichment_versions:
+    - v1: initial YAML stubs
+    - v2: ORCID/Wikidata + field enrichment (current)
+  last_enriched: 2025-10-29
+
+validation:
+  schema_version: "2025.10"
+  checksum_manifest: "checksums/RELEASE-v1.0.sha256"
+  changelog: "citations/author_fields_changelog.csv"
+  validated_by: "Bache Archive Stewardship Team"
+
+source_work:
+  title: "LSD and the Mind of the Universe"
+  author: "Christopher M. Bache"
+  publication_year: 2019
+  publisher: "Inner Traditions / Park Street Press"
+
+license: "CC0 1.0 Universal"

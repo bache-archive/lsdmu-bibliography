@@ -1,0 +1,30 @@
+{
+  "id": "tarnas-1991-the-passion-of",
+  "type": "book",
+  "title": "The Passion of the Western Mind",
+  "author": [
+    {
+      "family": "Tarnas",
+      "given": ""
+    },
+    {
+      "family": "Richard",
+      "given": ""
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1991
+      ]
+    ]
+  },
+  "publisher": "Harmony Books",
+  "publisher-place": "New York",
+  "bache": {
+    "source_work": "LSD and the Mind of the Universe (2019)",
+    "relation": "cites",
+    "curator": "hk-locke",
+    "confidence": 0.85
+  }
+}
