@@ -1,0 +1,35 @@
+{
+  "id": "meadows-1992-beyond-the-limits",
+  "type": "book",
+  "title": "Beyond the Limits",
+  "author": [
+    {
+      "family": "Meadows",
+      "given": "Donella"
+    },
+    {
+      "family": "Meadows",
+      "given": "Dennis"
+    },
+    {
+      "family": "Randers",
+      "given": "Jorgen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1992
+      ]
+    ]
+  },
+  "publisher": "Chelsea Green Publishing Co.",
+  "publisher-place": "White River Junction, Vt.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "culture",
+    "ecospirituality",
+    "policy"
+  ]
+}

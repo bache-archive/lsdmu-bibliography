@@ -1,0 +1,25 @@
+{
+  "id": "stevenson-1974-b",
+  "type": "book",
+  "title": "Xenoglossy",
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1974
+      ]
+    ]
+  },
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "reincarnation"
+  ]
+}

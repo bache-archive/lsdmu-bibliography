@@ -1,0 +1,27 @@
+{
+  "id": "laszlo-2003-the-connectivity-hypothesis",
+  "type": "book",
+  "title": "The Connectivity Hypothesis",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2003
+      ]
+    ]
+  },
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "cosmology",
+    "ecospirituality",
+    "philosophy-of-mind"
+  ]
+}

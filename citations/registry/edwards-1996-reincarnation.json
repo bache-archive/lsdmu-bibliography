@@ -1,0 +1,25 @@
+{
+  "id": "edwards-1996-reincarnation",
+  "type": "book",
+  "title": "Reincarnation",
+  "author": [
+    {
+      "family": "Edwards",
+      "given": "Paul"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1996
+      ]
+    ]
+  },
+  "publisher": "Prometheus Books",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "topics": [
+    "reincarnation"
+  ]
+}

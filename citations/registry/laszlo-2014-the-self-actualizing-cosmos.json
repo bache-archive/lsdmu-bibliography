@@ -1,0 +1,27 @@
+{
+  "id": "laszlo-2014-the-self-actualizing-cosmos",
+  "type": "book",
+  "title": "The Self-Actualizing Cosmos",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "Inner Traditions",
+  "publisher-place": "Rochester, Vt.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "cosmology",
+    "ecospirituality",
+    "philosophy-of-mind"
+  ]
+}

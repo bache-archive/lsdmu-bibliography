@@ -1,0 +1,26 @@
+{
+  "id": "sheldrake-1988-the-presence-of",
+  "type": "book",
+  "title": "The Presence of the Past",
+  "author": [
+    {
+      "family": "Sheldrake",
+      "given": "Rupert"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1988
+      ]
+    ]
+  },
+  "publisher": "Vintage",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "philosophy-of-mind"
+  ],
+  "notes": "Extends morphic resonance to memory and habit in nature."
+}

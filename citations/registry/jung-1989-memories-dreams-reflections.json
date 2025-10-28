@@ -1,0 +1,26 @@
+{
+  "id": "jung-1989-memories-dreams-reflections",
+  "type": "book",
+  "title": "Memories, Dreams, Reflections",
+  "author": [
+    {
+      "family": "Jung",
+      "given": "Carl G."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1989
+      ]
+    ]
+  },
+  "publisher": "Vintage Books",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "mysticism",
+    "psychology"
+  ]
+}

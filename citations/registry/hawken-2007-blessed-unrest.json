@@ -1,0 +1,26 @@
+{
+  "id": "hawken-2007-blessed-unrest",
+  "type": "book",
+  "title": "Blessed Unrest",
+  "author": [
+    {
+      "family": "Hawken",
+      "given": "Paul"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "publisher": "Penguin",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "culture",
+    "ecospirituality"
+  ]
+}

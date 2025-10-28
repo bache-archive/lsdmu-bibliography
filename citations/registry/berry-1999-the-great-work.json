@@ -1,0 +1,22 @@
+{
+  "id": "berry-1999-the-great-work",
+  "type": "book",
+  "title": "The Great Work",
+  "author": [
+    {
+      "family": "Berry",
+      "given": "Thomas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1999
+      ]
+    ]
+  },
+  "publisher": "Bell Tower / Random House",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography (reconstructed from reference list)"
+}

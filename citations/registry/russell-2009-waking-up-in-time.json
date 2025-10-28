@@ -1,0 +1,26 @@
+{
+  "id": "russell-2009-waking-up-in-time",
+  "type": "book",
+  "title": "Waking Up in Time",
+  "author": [
+    {
+      "family": "Russell",
+      "given": "Peter"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2009
+      ]
+    ]
+  },
+  "publisher": "Origins Press",
+  "publisher-place": "San Rafael, Calif.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "ecospirituality",
+    "philosophy-of-mind"
+  ]
+}

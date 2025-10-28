@@ -1,0 +1,27 @@
+{
+  "id": "lucas-1993-regression-therapy",
+  "type": "book",
+  "title": "Regression Therapy (Vols. I–II)",
+  "author": [
+    {
+      "family": "Lucas",
+      "given": "Winafred"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "publisher": "Deep Forest Press",
+  "publisher-place": "Crest Park, Calif.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "contemplative-practice",
+    "psychology",
+    "reincarnation"
+  ]
+}

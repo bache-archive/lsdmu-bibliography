@@ -1,0 +1,28 @@
+{
+  "id": "grof-1980-lsd-psychotherapy",
+  "type": "book",
+  "title": "LSD Psychotherapy",
+  "author": [
+    {
+      "family": "Grof",
+      "given": "Stanislav"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1980
+      ]
+    ]
+  },
+  "publisher": "Hunter House",
+  "publisher-place": "Pomona, Calif.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "lsd",
+    "psychedelic-research",
+    "psychology",
+    "transpersonal"
+  ]
+}

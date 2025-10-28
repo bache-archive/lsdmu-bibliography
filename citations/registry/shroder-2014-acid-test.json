@@ -1,0 +1,26 @@
+{
+  "id": "shroder-2014-acid-test",
+  "type": "book",
+  "title": "Acid Test",
+  "author": [
+    {
+      "family": "Shroder",
+      "given": "Tom"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "Penguin Press",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "psychedelic-research"
+  ],
+  "notes": "Narrative history of the modern psychedelic renaissance."
+}

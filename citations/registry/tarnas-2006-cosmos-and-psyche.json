@@ -1,0 +1,25 @@
+{
+  "id": "tarnas-2006-cosmos-and-psyche",
+  "type": "book",
+  "title": "Cosmos and Psyche",
+  "author": [
+    {
+      "family": "Tarnas",
+      "given": "Richard"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "publisher": "Penguin",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "culture"
+  ]
+}

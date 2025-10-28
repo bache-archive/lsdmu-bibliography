@@ -1,0 +1,25 @@
+{
+  "id": "stevenson-1983-cases-of-the",
+  "type": "book",
+  "title": "Cases of the Reincarnation Type (Vols. I–IV)",
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1983
+      ]
+    ]
+  },
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "reincarnation"
+  ]
+}

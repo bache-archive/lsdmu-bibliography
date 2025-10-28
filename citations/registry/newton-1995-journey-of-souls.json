@@ -1,0 +1,27 @@
+{
+  "id": "newton-1995-journey-of-souls",
+  "type": "book",
+  "title": "Journey of Souls",
+  "author": [
+    {
+      "family": "Newton",
+      "given": "Michael"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "publisher": "Llewellyn",
+  "publisher-place": "St. Paul, Minn.",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "afterlife",
+    "psychology",
+    "reincarnation"
+  ]
+}

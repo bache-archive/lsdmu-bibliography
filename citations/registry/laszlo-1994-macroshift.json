@@ -1,0 +1,27 @@
+{
+  "id": "laszlo-1994-macroshift",
+  "type": "book",
+  "title": "MacroShift",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1994
+      ]
+    ]
+  },
+  "publisher": "Berrett-Koehler",
+  "publisher-place": "San Francisco",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "cosmology",
+    "ecospirituality",
+    "philosophy-of-mind"
+  ]
+}

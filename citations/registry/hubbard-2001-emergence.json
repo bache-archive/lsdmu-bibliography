@@ -1,0 +1,26 @@
+{
+  "id": "hubbard-2001-emergence",
+  "type": "book",
+  "title": "Emergence",
+  "author": [
+    {
+      "family": "Hubbard",
+      "given": "Barbara Marx"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "publisher": "Hampton Roads",
+  "publisher-place": "San Francisco",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "culture",
+    "ecospirituality"
+  ]
+}

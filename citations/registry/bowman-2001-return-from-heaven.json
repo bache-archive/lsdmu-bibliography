@@ -1,0 +1,25 @@
+{
+  "id": "bowman-2001-return-from-heaven",
+  "type": "book",
+  "title": "Return from Heaven",
+  "author": [
+    {
+      "family": "Bowman",
+      "given": "Carol"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "publisher": "HarperCollins",
+  "publisher-place": "New York",
+  "language": "en",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "topics": [
+    "reincarnation"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "zaehner-1959-mysticism-sacred-and",
+  "type": "book",
+  "title": "Mysticism: Sacred and Profane",
+  "author": [
+    {
+      "family": "Zaehner",
+      "given": "R. C."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1959
+      ]
+    ]
+  },
+  "publisher": "Oxford University Press",
+  "publisher-place": "London",
+  "language": "en",
+  "source": "LSDMU bibliography",
+  "topics": [
+    "mysticism"
+  ]
+}
