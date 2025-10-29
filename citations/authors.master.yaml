@@ -1,2075 +1,2490 @@
 version: 1
 package_curator: bibliography-team
 package_created_at: 2025-10-29
-
 authors:
-  - id: almaas-a-h
-    entity_type: person
-    full_name: A. H. Almaas
-    family: Almaas
-    given: A. H.
-    lifespan: null
-    nationality: American
-    fields: [psychology, spirituality]
-    wikidata: Q2837888
-    orcid: null
-    aliases:
-      variants: [Hameed Ali, Almaas, A.H.]
-      misspellings: []
-    notable_works: [almaas-2014-runaway-realization]
-    notes: Founder of the Diamond Approach; author of Runaway Realization (2014).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: almeder-robert
-    entity_type: person
-    full_name: Robert Almeder
-    family: Almeder
-    given: Robert
-    lifespan: 1939–2022
-    nationality: American
-    fields: [philosophy, philosophy-of-mind]
-    wikidata: Q7346273
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [almeder-1992-death-and-personal-survival]
-    notes: Philosopher noted for works on personal identity and reincarnation.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: alverga-alex-polari-de
-    entity_type: person
-    full_name: Alex Polari de Alverga
-    family: Alverga
-    given: Alex Polari de
-    lifespan: null
-    nationality: Brazilian
-    fields: [ayahuasca, spirituality]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Polari de Alverga, Alex]
-      misspellings: []
-    notable_works: [alverga-1999-forest-of-visions]
-    notes: Author of Forest of Visions (1999) — pioneer of Santo Daime literature.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: aurobindo-sri
-    entity_type: person
-    full_name: Sri Aurobindo
-    family: Aurobindo
-    given: Sri
-    lifespan: 1872–1950
-    nationality: Indian
-    fields: [philosophy, spirituality, mysticism]
-    wikidata: Q280236
-    orcid: null
-    aliases:
-      variants: [Aurobindo Ghose]
-      misspellings: []
-    notable_works: [aurobindo-1987-essential-aurobindo]
-    notes: Indian philosopher and yogi, founder of Integral Yoga.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: mcdermott-robert
-    entity_type: person
-    full_name: Robert McDermott
-    family: McDermott
-    given: Robert
-    lifespan: null
-    nationality: American
-    fields: [philosophy, religious-studies, editor]
-    wikidata: Q7346315
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [aurobindo-1987-essential-aurobindo]
-    notes: Editor of The Essential Aurobindo (1987).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: bache-christopher
-    entity_type: person
-    full_name: Christopher M. Bache
-    family: Bache
-    given: Christopher M.
-    lifespan: 1949–
-    nationality: American
-    fields: [philosophy, transpersonal-psychology, psychedelics]
-    wikidata: Q111452483
-    orcid: 0000-0002-1234-5678
-    aliases:
-      variants: [Chris Bache, Christopher Bache]
-      misspellings: []
-    notable_works: [bache-1990-lifecycles, bache-2000-dark-night-early-dawn, bache-2008-living-classroom, bache-2019-lsd-mind-universe]
-    notes: Philosopher and LSD researcher; author of LSD and the Mind of the Universe (2019).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: badiner-allen
-    entity_type: person
-    full_name: Allen Badiner
-    family: Badiner
-    given: Allen
-    lifespan: null
-    nationality: American
-    fields: [editor, buddhism]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [badiner-2002-zig-zag-zen]
-    notes: Co-editor of Zig Zag Zen (2002).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: grey-alex
-    entity_type: person
-    full_name: Alex Grey
-    family: Grey
-    given: Alex
-    lifespan: 1953–
-    nationality: American
-    fields: [art, mysticism]
-    wikidata: Q283762
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [badiner-2002-zig-zag-zen]
-    notes: Visionary artist and co-editor of Zig Zag Zen.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: baring-anne
-    entity_type: person
-    full_name: Anne Baring
-    family: Baring
-    given: Anne
-    lifespan: 1931–
-    nationality: British
-    fields: [mythology, spirituality]
-    wikidata: Q4755566
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [baring-2013-dream-of-the-cosmos]
-    notes: Author of The Dream of the Cosmos (2013), exploring the re-sacralization of the feminine.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: berry-thomas
-    entity_type: person
-    full_name: Thomas Berry
-    family: Berry
-    given: Thomas
-    lifespan: 1914–2009
-    nationality: American
-    fields: [ecotheology, cosmology]
-    wikidata: Q779967
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [berry-1988-dream-of-the-earth, berry-1999-great-work]
-    notes: Cultural historian and eco-theologian, author of The Dream of the Earth (1988) and The Great Work (1999).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: blewett-d-b
-    entity_type: person
-    full_name: D. B. Blewett
-    family: Blewett
-    given: D. B.
-    lifespan: null
-    nationality: Canadian
-    fields: [psychiatry, psychotherapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [blewett-1959-handbook-therapeutic-lsd]
-    notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: chwelos-n
-    entity_type: person
-    full_name: N. Chwelos
-    family: Chwelos
-    given: N.
-    lifespan: null
-    nationality: Canadian
-    fields: [psychiatry, psychotherapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [blewett-1959-handbook-therapeutic-lsd]
-    notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: bowman-carol
-    entity_type: person
-    full_name: Carol Bowman
-    family: Bowman
-    given: Carol
-    lifespan: 1950–
-    nationality: American
-    fields: [reincarnation, psychology]
-    wikidata: Q5043103
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [bowman-1997-childrens-past-lives, bowman-2001-return-from-heaven]
-    notes: Author known for researching children’s past life memories.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: carhart-harris-robin
-    entity_type: person
-    full_name: Robin Carhart-Harris
-    family: Carhart-Harris
-    given: Robin
-    lifespan: 1981–
-    nationality: British
-    fields: [neuroscience, psychedelics]
-    wikidata: Q55254205
-    orcid: 0000-0003-0592-6694
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [carhart-harris-2016-paradoxical-psychological-effects-lsd]
-    notes: Neuroscientist and pioneer in psychedelic brain research.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: kaelen-mendel
-    entity_type: person
-    full_name: Mendel Kaelen
-    family: Kaelen
-    given: Mendel
-    lifespan: null
-    nationality: Dutch
-    fields: [music-therapy, psychedelics]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [carhart-harris-2016-paradoxical-psychological-effects-lsd]
-    notes: Researcher focused on music and psychedelic therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: bolstridge-mark
-    entity_type: person
-    full_name: Mark Bolstridge
-    family: Bolstridge
-    given: Mark
-    lifespan: null
-    nationality: British
-    fields: [psychiatry, psychedelics]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [carhart-harris-2016-paradoxical-psychological-effects-lsd]
-    notes: Co-author of LSD and depression clinical studies.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: nutt-david-j
-    entity_type: person
-    full_name: David J. Nutt
-    family: Nutt
-    given: David J.
-    lifespan: 1951–
-    nationality: British
-    fields: [psychopharmacology, neuroscience]
-    wikidata: Q1172250
-    orcid: null
-    aliases:
-      variants: [Nutt, David]
-      misspellings: []
-    notable_works: [carhart-harris-2016-paradoxical-psychological-effects-lsd]
-    notes: Leading researcher in drug policy and psychedelic science.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: clark-w-c
-    entity_type: person
-    full_name: W. C. Clark
-    family: Clark
-    given: W. C.
-    lifespan: null
-    nationality: American
-    fields: [religious-studies, psychedelics]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [clark-1964-religion-consciousness-expanding-substances, clark-1969-chemical-mysticism]
-    notes: Early researcher exploring religion and psychedelic consciousness.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: cranston-sylvia
-    entity_type: person
-    full_name: Sylvia Cranston
-    family: Cranston
-    given: Sylvia
-    lifespan: 1915–2000
-    nationality: American
-    fields: [reincarnation, theosophy]
-    wikidata: Q7635532
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [cranston-1984-reincarnation]
-    notes: Author and theosophist known for works on reincarnation.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: williams-carey
-    entity_type: person
-    full_name: Carey Williams
-    family: Williams
-    given: Carey
-    lifespan: null
-    nationality: American
-    fields: [reincarnation, spirituality]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [cranston-1984-reincarnation]
-    notes: Co-author with Sylvia Cranston of Reincarnation (1984).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: dalai-lama
-    entity_type: person
-    full_name: His Holiness the Dalai Lama
-    family: Dalai Lama
-    given: null
-    lifespan: 1935–
-    nationality: Tibetan
-    fields: [spirituality, buddhism]
-    wikidata: Q8409
-    orcid: null
-    aliases:
-      variants: [Tenzin Gyatso, 14th Dalai Lama]
-      misspellings: []
-    notable_works: [dalai-lama-2005-universe-in-a-single-atom]
-    notes: Tibetan spiritual leader and author of The Universe in a Single Atom (2005).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: alighieri-dante
-    entity_type: person
-    full_name: Dante Alighieri
-    family: Alighieri
-    given: Dante
-    lifespan: 1265–1321
-    nationality: Italian
-    fields: [poetry, mysticism]
-    wikidata: Q1067
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [alighieri-1995-divine-comedy]
-    notes: Classical poet and mystic cited for metaphysical cosmology parallels.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: devereux-paul
-    entity_type: person
-    full_name: Paul Devereux
-    family: Devereux
-    given: Paul
-    lifespan: 1945–
-    nationality: British
-    fields: [archaeology, consciousness, sacred-landscape]
-    wikidata: Q3380667
-    orcid: null
-    aliases:
-      variants: [Deveraux, Paul]
-      misspellings: []
-    notable_works: [devereux-1997-long-trip]
-    notes: Researcher of consciousness, earth mysteries, and sacred landscapes.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: diamond-jared
-    entity_type: person
-    full_name: Jared Diamond
-    family: Diamond
-    given: Jared
-    lifespan: 1937–
-    nationality: American
-    fields: [geography, anthropology]
-    wikidata: Q313871
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [diamond-2005-collapse]
-    notes: Author of Collapse and Guns, Germs, and Steel; studies societal evolution and decline.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: edwards-paul
-    entity_type: person
-    full_name: Paul Edwards
-    family: Edwards
-    given: Paul
-    lifespan: 1923–2004
-    nationality: Austrian-American
-    fields: [philosophy]
-    wikidata: Q715103
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [edwards-1986-case-against-reincarnation, edwards-1996-reincarnation]
-    notes: Philosopher known for critical work on reincarnation and philosophy of religion.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: eisenstein-charles
-    entity_type: person
-    full_name: Charles Eisenstein
-    family: Eisenstein
-    given: Charles
-    lifespan: 1967–
-    nationality: American
-    fields: [philosophy, ecology, economics]
-    wikidata: Q5073032
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [eisenstein-2007-ascent-of-humanity]
-    notes: Philosopher and author exploring civilization, ecology, and sacred economics.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: elgin-duane
-    entity_type: person
-    full_name: Duane Elgin
-    family: Elgin
-    given: Duane
-    lifespan: 1940–
-    nationality: American
-    fields: [systems-theory, sustainability, spirituality]
-    wikidata: Q5312119
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [elgin-1993-awakening-earth, elgin-2001-promise-ahead]
-    notes: Author of Awakening Earth and advocate for conscious evolution.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: ellens-j-harold
-    entity_type: person
-    full_name: J. Harold Ellens
-    family: Ellens
-    given: J. Harold
-    lifespan: 1932–2018
-    nationality: American
-    fields: [theology, psychology, psychedelics]
-    wikidata: Q30514154
-    orcid: null
-    aliases:
-      variants: [Ellens, Harold]
-      misspellings: []
-    notable_works: [ellens-2014-seeking-sacred-psychoactive-substances]
-    notes: Theologian and psychologist; editor of Seeking the Sacred with Psychoactive Substances.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: elliott-larry
-    entity_type: person
-    full_name: Larry Elliott
-    family: Elliott
-    given: Larry
-    lifespan: null
-    nationality: British
-    fields: [journalism, economics]
-    wikidata: Q6489018
-    orcid: null
-    aliases:
-      variants: [Elliot, Larry]
-      misspellings: []
-    notable_works: [elliott-2019-worlds-26-richest]
-    notes: Economics editor at The Guardian; author of inequality-focused journalism.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: emmerson-gordon
-    entity_type: person
-    full_name: Gordon Emmerson
-    family: Emmerson
-    given: Gordon
-    lifespan: null
-    nationality: Australian
-    fields: [psychology, ego-state-therapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [emmerson-2007-ego-state-therapy]
-    notes: Psychologist known for Ego State Therapy methodology.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: ferrer-jorge
-    entity_type: person
-    full_name: Jorge N. Ferrer
-    family: Ferrer
-    given: Jorge N.
-    lifespan: 1968–
-    nationality: Spanish-American
-    fields: [transpersonal-psychology, philosophy, spirituality]
-    wikidata: Q6276421
-    orcid: null
-    aliases:
-      variants: [Ferrer, Jorge]
-      misspellings: []
-    notable_works: [ferrer-2002-revisioning-transpersonal-theory, ferrer-2011-participation-metaphysics-enlightenment, ferrer-2013-participation-and-spirit]
-    notes: Philosopher and transpersonal theorist; founder of participatory spirituality framework.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: sherman-justin
-    entity_type: person
-    full_name: Justin Sherman
-    family: Sherman
-    given: Justin
-    lifespan: null
-    nationality: American
-    fields: [psychology, editor]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [ferrer-2008-participatory-turn]
-    notes: Co-editor with Jorge Ferrer of The Participatory Turn (2008).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: fiore-edith
-    entity_type: person
-    full_name: Edith Fiore
-    family: Fiore
-    given: Edith
-    lifespan: null
-    nationality: American
-    fields: [hypnotherapy, regression-therapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [fiore-1978-you-have-been-here-before]
-    notes: Psychologist and pioneer in past-life regression therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: forte-robert
-    entity_type: person
-    full_name: Robert Forte
-    family: Forte
-    given: Robert
-    lifespan: null
-    nationality: American
-    fields: [psychedelics, editor]
-    wikidata: Q123270290
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [forte-1997-entheogens-future-of-religion]
-    notes: Psychedelic historian and editor of Entheogens and the Future of Religion (1997).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: gilding-paul
-    entity_type: person
-    full_name: Paul Gilding
-    family: Gilding
-    given: Paul
-    lifespan: 1959–
-    nationality: Australian
-    fields: [sustainability, environmentalism]
-    wikidata: Q7130342
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [gilding-2011-great-disruption]
-    notes: Environmentalist and author of The Great Disruption (2011).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: grof-stanislav
-    entity_type: person
-    full_name: Stanislav Grof
-    family: Grof
-    given: Stanislav
-    lifespan: 1931–2024
-    nationality: Czech-American
-    fields: [psychiatry, transpersonal-psychology]
-    wikidata: Q76122
-    orcid: null
-    aliases:
-      variants: [Grof, S.]
-      misspellings: []
-    notable_works: [grof-1976-realms, grof-1980-lsd-psychotherapy, grof-1985-beyond-brain, grof-1988-adventure-self-discovery, grof-1998-cosmic-game, grof-2000-psychology-future, grof-2006-ultimate-journey]
-    notes: Psychiatrist and LSD pioneer; founder of transpersonal psychology and holotropic breathwork.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: hames-richard
-    entity_type: person
-    full_name: Richard Hames
-    family: Hames
-    given: Richard
-    lifespan: 1946–
-    nationality: Australian
-    fields: [futures-studies, systems-thinking]
-    wikidata: Q22956806
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [hames-2010-real-global-emergency]
-    notes: Futurist and systems thinker; author of The Five Literacies of Global Leadership.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: harvey-andrew
-    entity_type: person
-    full_name: Andrew Harvey
-    family: Harvey
-    given: Andrew
-    lifespan: 1952–
-    nationality: British
-    fields: [spirituality, mysticism]
-    wikidata: Q4758321
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [harvey-2005-servant-of-transformed-future]
-    notes: Mystic and author focusing on sacred activism and divine love traditions.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: havens-joseph
-    entity_type: person
-    full_name: Joseph Havens
-    family: Havens
-    given: Joseph
-    lifespan: null
-    nationality: American
-    fields: [religious-studies, psychedelics]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [havens-1964-religious-implications-consciousness-changing-drugs]
-    notes: Early contributor to religious studies on psychedelic experience.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: hawken-paul
-    entity_type: person
-    full_name: Paul Hawken
-    family: Hawken
-    given: Paul
-    lifespan: 1946–
-    nationality: American
-    fields: [environmentalism, business, sustainability]
-    wikidata: Q7130323
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [hawken-1993-ecology-of-commerce, hawken-2007-blessed-unrest]
-    notes: Environmentalist and author integrating business and ecology.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: houston-jean
-    entity_type: person
-    full_name: Jean Houston
-    family: Houston
-    given: Jean
-    lifespan: 1937–
-    nationality: American
-    fields: [psychology, human-potential, spirituality]
-    wikidata: Q3161388
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [houston-2004-jump-time]
-    notes: Pioneer in the human potential movement; author of Jump Time (2004).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: hubbard-barbara-marx
-    entity_type: person
-    full_name: Barbara Marx Hubbard
-    family: Hubbard
-    given: Barbara Marx
-    lifespan: 1929–2019
-    nationality: American
-    fields: [conscious-evolution, spirituality]
-    wikidata: Q485634
-    orcid: null
-    aliases:
-      variants: [Hubbard, Barbara M.]
-      misspellings: []
-    notable_works: [hubbard-1998-conscious-evolution, hubbard-2001-emergence]
-    notes: Futurist and visionary known for the concept of conscious evolution.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: husserl-edmund
-    entity_type: person
-    full_name: Edmund Husserl
-    family: Husserl
-    given: Edmund
-    lifespan: 1859–1938
-    nationality: German
-    fields: [philosophy, phenomenology]
-    wikidata: Q937
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [husserl-1931-ideas]
-    notes: Founder of phenomenology; influenced existential and transpersonal thought.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: huxley-aldous
-    entity_type: person
-    full_name: Aldous Huxley
-    family: Huxley
-    given: Aldous
-    lifespan: 1894–1963
-    nationality: British
-    fields: [literature, philosophy, psychedelics]
-    wikidata: Q44432
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [huxley-1954-doors-of-perception, huxley-1977-moksha]
-    notes: Novelist and philosopher whose writings on psychedelics shaped Western mysticism.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: james-william
-    entity_type: person
-    full_name: William James
-    family: James
-    given: William
-    lifespan: 1842–1910
-    nationality: American
-    fields: [psychology, philosophy, religion]
-    wikidata: Q173746
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [james-1902-varieties-of-religious-experience]
-    notes: Founding figure in psychology and modern study of religious experience.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: johnson-m
-    entity_type: person
-    full_name: M. Johnson
-    family: Johnson
-    given: M.
-    lifespan: null
-    nationality: American
-    fields: [psychopharmacology, psychedelics]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Matthew W. Johnson]
-      misspellings: []
-    notable_works: [johnson-2008-human-hallucinogen-research-guidelines]
-    notes: Co-author of Johns Hopkins guidelines for human hallucinogen research.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: richards-william
-    entity_type: person
-    full_name: William A. Richards
-    family: Richards
-    given: William A.
-    lifespan: 1940–
-    nationality: American
-    fields: [psychedelic-therapy, psychology]
-    wikidata: Q7934677
-    orcid: null
-    aliases:
-      variants: [Richards, W. A.]
-      misspellings: []
-    notable_works: [richards-2016-sacred-knowledge, pahnke-1966-implications-lsd-experimental-mysticism]
-    notes: Johns Hopkins researcher in psychedelic therapy and religious experience.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: griffiths-roland
-    entity_type: person
-    full_name: Roland Griffiths
-    family: Griffiths
-    given: Roland
-    lifespan: 1946–2023
-    nationality: American
-    fields: [psychopharmacology, psychedelics]
-    wikidata: Q55645406
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [johnson-2008-human-hallucinogen-research-guidelines]
-    notes: Pioneering psychedelic researcher and founding figure at Johns Hopkins Center for Psychedelic Research.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: jung-carl-g
-    entity_type: person
-    full_name: Carl Gustav Jung
-    family: Jung
-    given: Carl Gustav
-    lifespan: 1875–1961
-    nationality: Swiss
-    fields: [psychology, analytical-psychology, mysticism]
-    wikidata: Q91128
-    orcid: null
-    aliases:
-      variants: [C. G. Jung]
-      misspellings: []
-    notable_works: [jung-1961-memories-dreams-reflections]
-    notes: Founder of analytical psychology; explored archetypes and the collective unconscious.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: klein-anne
-    entity_type: person
-    full_name: Anne Carolyn Klein
-    family: Klein
-    given: Anne Carolyn
-    lifespan: null
-    nationality: American
-    fields: [buddhist-studies, philosophy]
-    wikidata: Q4745736
-    orcid: null
-    aliases:
-      variants: [Klein, Anne]
-      misspellings: []
-    notable_works: [klein-1995-meeting-great-bliss-queen]
-    notes: Buddhist scholar and author of Meeting the Great Bliss Queen.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: korten-david
-    entity_type: person
-    full_name: David C. Korten
-    family: Korten
-    given: David C.
-    lifespan: 1937–
-    nationality: American
-    fields: [economics, sustainability, social-justice]
-    wikidata: Q1182267
-    orcid: null
-    aliases:
-      variants: [Korten, David]
-      misspellings: []
-    notable_works: [korten-1995-when-corporations-rule-the-world, korten-2006-great-turning]
-    notes: Economist and author known for The Great Turning and When Corporations Rule the World.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: laszlo-ervin
-    entity_type: person
-    full_name: Ervin Laszlo
-    family: Laszlo
-    given: Ervin
-    lifespan: 1932–
-    nationality: Hungarian
-    fields: [systems-theory, philosophy, consciousness-studies]
-    wikidata: Q303534
-    orcid: null
-    aliases:
-      variants: [László, Ervin]
-      misspellings: []
-    notable_works: [laszlo-1994-macroshift, laszlo-2004-science-and-akashic-field, laszlo-2017-intelligence-of-cosmos]
-    notes: Systems theorist and philosopher of science; developer of the Akashic Field theory.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: leininger-bruce
-    entity_type: person
-    full_name: Bruce Leininger
-    family: Leininger
-    given: Bruce
-    lifespan: null
-    nationality: American
-    fields: [reincarnation, personal-narrative]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [leininger-2009-soul-survivor]
-    notes: Co-author of Soul Survivor, chronicling his son’s apparent past-life memories.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: leininger-andrea
-    entity_type: person
-    full_name: Andrea Leininger
-    family: Leininger
-    given: Andrea
-    lifespan: null
-    nationality: American
-    fields: [memoir, reincarnation]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [leininger-2009-soul-survivor]
-    notes: Co-author with Bruce Leininger of Soul Survivor (2009).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: gross-ken
-    entity_type: person
-    full_name: Ken Gross
-    family: Gross
-    given: Ken
-    lifespan: null
-    nationality: American
-    fields: [journalism, coauthor]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [leininger-2009-soul-survivor]
-    notes: Journalist and co-author of Soul Survivor (2009).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: lipski-alexander
-    entity_type: person
-    full_name: Alexander Lipski
-    family: Lipski
-    given: Alexander
-    lifespan: 1913–2009
-    nationality: Polish-American
-    fields: [religious-studies, indian-philosophy]
-    wikidata: Q4713212
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [lipski-2007-essential-sri-anandamayi-ma]
-    notes: Scholar of Indian philosophy and editor of The Essential Śrī Ānandamayī Mā.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: lommel-pim-van
-    entity_type: person
-    full_name: Pim van Lommel
-    family: van Lommel
-    given: Pim
-    lifespan: 1943–
-    nationality: Dutch
-    fields: [cardiology, near-death-studies]
-    wikidata: Q578401
-    orcid: null
-    aliases:
-      variants: [Lommel, Pim van]
-      misspellings: []
-    notable_works: [lommel-2010-consciousness-beyond-life]
-    notes: Cardiologist and researcher known for work on near-death experiences.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: lucas-winafred
-    entity_type: person
-    full_name: Winafred Lucas
-    family: Lucas
-    given: Winafred
-    lifespan: 1920–2002
-    nationality: American
-    fields: [psychology, regression-therapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Lucas, Winafred B.]
-      misspellings: []
-    notable_works: [lucas-1993-regression-therapy]
-    notes: Psychologist and editor of Regression Therapy volumes I & II.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: macy-joanna
-    entity_type: person
-    full_name: Joanna Macy
-    family: Macy
-    given: Joanna
-    lifespan: 1929–
-    nationality: American
-    fields: [eco-philosophy, buddhism, systems-theory]
-    wikidata: Q1684917
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [macy-1991-world-as-lover, macy-2014-coming-back-to-life]
-    notes: Eco-philosopher integrating Buddhism, systems theory, and deep ecology.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: meadows-donella
-    entity_type: person
-    full_name: Donella Meadows
-    family: Meadows
-    given: Donella
-    lifespan: 1941–2001
-    nationality: American
-    fields: [systems-analysis, sustainability]
-    wikidata: Q1177313
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [meadows-1972-limits-to-growth, meadows-1992-beyond-the-limits]
-    notes: Lead author of The Limits to Growth and pioneer in systems thinking for sustainability.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: meadows-dennis
-    entity_type: person
-    full_name: Dennis Meadows
-    family: Meadows
-    given: Dennis
-    lifespan: 1942–
-    nationality: American
-    fields: [systems-analysis, sustainability]
-    wikidata: Q441901
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [meadows-1972-limits-to-growth, meadows-2004-limits-to-growth-update]
-    notes: Co-author of The Limits to Growth series; expert in systems modeling and sustainability.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: randers-jorgen
-    entity_type: person
-    full_name: Jorgen Randers
-    family: Randers
-    given: Jorgen
-    lifespan: 1945–
-    nationality: Norwegian
-    fields: [climate-science, economics, sustainability]
-    wikidata: Q620268
-    orcid: null
-    aliases:
-      variants: [Randers, Jørgen]
-      misspellings: []
-    notable_works: [meadows-1972-limits-to-growth, meadows-2004-limits-to-growth-update]
-    notes: Systems analyst and co-author of The Limits to Growth; professor of climate strategy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: metzner-ralph
-    entity_type: person
-    full_name: Ralph Metzner
-    family: Metzner
-    given: Ralph
-    lifespan: 1936–2019
-    nationality: German-American
-    fields: [psychology, psychedelics]
-    wikidata: Q1011899
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [metzner-1997-sacred-vine-of-spirits, metzner-2015-allies-for-awakening]
-    notes: Psychologist and early LSD researcher; editor of Sacred Vine of Spirits and Allies for Awakening.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: monroe-robert
-    entity_type: person
-    full_name: Robert A. Monroe
-    family: Monroe
-    given: Robert A.
-    lifespan: 1915–1995
-    nationality: American
-    fields: [consciousness-research, out-of-body-experiences]
-    wikidata: Q752116
-    orcid: null
-    aliases:
-      variants: [Monroe, Robert]
-      misspellings: []
-    notable_works: [monroe-1985-far-journeys]
-    notes: Pioneer in out-of-body experience research; founder of the Monroe Institute.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: netherton-morris
-    entity_type: person
-    full_name: Morris Netherton
-    family: Netherton
-    given: Morris
-    lifespan: 1925–2020
-    nationality: American
-    fields: [psychotherapy, regression-therapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [netherton-1978-past-lives-therapy]
-    notes: Founder of Past Life Therapy; pioneer in regression therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: paul-thomas
-    entity_type: person
-    full_name: Thomas Paul
-    family: Paul
-    given: Thomas
-    lifespan: null
-    nationality: American
-    fields: [psychology, regression-therapy]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [netherton-1978-past-lives-therapy]
-    notes: Co-author of Past Lives Therapy with Morris Netherton (1978).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: newton-michael
-    entity_type: person
-    full_name: Michael Newton
-    family: Newton
-    given: Michael
-    lifespan: 1931–2016
-    nationality: American
-    fields: [hypnotherapy, afterlife-research]
-    wikidata: Q6841235
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [newton-1995-journey-of-souls, newton-2000-destiny-of-souls, newton-2009-memories-of-afterlife]
-    notes: Hypnotherapist and author of influential afterlife regression books.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: nicol-david
-    entity_type: person
-    full_name: David Nicol
-    family: Nicol
-    given: David
-    lifespan: null
-    nationality: British
-    fields: [transpersonal-psychology, subtle-activism]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [nicol-2015-subtle-activism]
-    notes: Scholar and author known for introducing the concept of subtle activism.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: oroc-james
-    entity_type: person
-    full_name: James Oroc
-    family: Oroc
-    given: James
-    lifespan: null
-    nationality: Australian
-    fields: [psychedelics, journalism]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Oroc, J.]
-      misspellings: []
-    notable_works: [oroc-2009-tryptamine-palace]
-    notes: Writer on 5-MeO-DMT and entheogenic experience; author of Tryptamine Palace.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: osto-douglas
-    entity_type: person
-    full_name: Douglas Osto
-    family: Osto
-    given: Douglas
-    lifespan: null
-    nationality: British
-    fields: [religious-studies, buddhism]
-    wikidata: Q39179221
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [osto-2016-altered-states]
-    notes: Scholar of Buddhism and psychedelics; author of Altered States (2016).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: ott-jonathan
-    entity_type: person
-    full_name: Jonathan Ott
-    family: Ott
-    given: Jonathan
-    lifespan: 1949–
-    nationality: American
-    fields: [ethnobotany, chemistry, psychedelics]
-    wikidata: Q380525
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [ott-1993-pharmacotheon]
-    notes: Ethnobotanist and author of Pharmacotheon, foundational in entheogen research.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: pahnke-walter
-    entity_type: person
-    full_name: Walter N. Pahnke
-    family: Pahnke
-    given: Walter N.
-    lifespan: 1931–1971
-    nationality: American
-    fields: [psychiatry, theology, psychedelics]
-    wikidata: Q7968797
-    orcid: null
-    aliases:
-      variants: [Pahnke, W.]
-      misspellings: []
-    notable_works: [pahnke-1966-implications-lsd-experimental-mysticism]
-    notes: Conducted the 1962 Good Friday Experiment; pioneer in experimental mysticism research.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: pollan-michael
-    entity_type: person
-    full_name: Michael Pollan
-    family: Pollan
-    given: Michael
-    lifespan: 1955–
-    nationality: American
-    fields: [journalism, psychedelics, food-studies]
-    wikidata: Q162154
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [pollan-2018-how-to-change-your-mind]
-    notes: Author and journalist; popularized modern psychedelic research through How to Change Your Mind.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: ring-kenneth
-    entity_type: person
-    full_name: Kenneth Ring
-    family: Ring
-    given: Kenneth
-    lifespan: 1935–
-    nationality: American
-    fields: [psychology, near-death-studies]
-    wikidata: Q6382456
-    orcid: null
-    aliases:
-      variants: [Ring, K.]
-      misspellings: []
-    notable_works: [ring-1980-life-at-death, ring-1984-heading-toward-omega, ring-1998-lessons-from-the-light]
-    notes: Founding researcher in near-death studies and co-author of Lessons from the Light.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: valarino-evelyn
-    entity_type: person
-    full_name: Evelyn Valarino
-    family: Valarino
-    given: Evelyn
-    lifespan: null
-    nationality: Swiss
-    fields: [psychology, near-death-studies]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Valarino, E.]
-      misspellings: []
-    notable_works: [ring-1998-lessons-from-the-light]
-    notes: Co-author with Kenneth Ring of Lessons from the Light (1998).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: rowan-john
-    entity_type: person
-    full_name: John Rowan
-    family: Rowan
-    given: John
-    lifespan: 1925–2018
-    nationality: British
-    fields: [psychology, humanistic-psychotherapy]
-    wikidata: Q16983336
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [rowan-1990-subpersonalities]
-    notes: Psychologist who developed influential models of subpersonalities in therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: russell-peter
-    entity_type: person
-    full_name: Peter Russell
-    family: Russell
-    given: Peter
-    lifespan: 1946–
-    nationality: British
-    fields: [consciousness, physics, philosophy]
-    wikidata: Q7175104
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [russell-1995-global-brain-awakens, russell-2009-waking-up-in-time]
-    notes: Futurist and consciousness researcher; author of The Global Brain Awakens.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: satprem
-    entity_type: person
-    full_name: Satprem
-    family: Satprem
-    given: null
-    lifespan: 1923–2007
-    nationality: French
-    fields: [spirituality, philosophy]
-    wikidata: Q306445
-    orcid: null
-    aliases:
-      variants: [Bernard Enginger]
-      misspellings: []
-    notable_works: [satprem-1993-sri-aurobindo-adventure-of-consciousness]
-    notes: Disciple of Sri Aurobindo and The Mother; author of Sri Aurobindo or The Adventure of Consciousness.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: shroder-tom
-    entity_type: person
-    full_name: Tom Shroder
-    family: Shroder
-    given: Tom
-    lifespan: 1954–
-    nationality: American
-    fields: [journalism, psychedelics, biography]
-    wikidata: Q7816628
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [shroder-2014-acid-test]
-    notes: Journalist and author of Acid Test, chronicling modern psychedelic research.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: sheldrake-rupert
-    entity_type: person
-    full_name: Rupert Sheldrake
-    family: Sheldrake
-    given: Rupert
-    lifespan: 1942–
-    nationality: British
-    fields: [biology, philosophy-of-science]
-    wikidata: Q937083
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [sheldrake-1981-new-science-of-life, sheldrake-1988-presence-of-the-past, sheldrake-1991-rebirth-of-nature]
-    notes: Biologist and author of morphic resonance theory; frequent influence in consciousness studies.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: shulgin-alexander
-    entity_type: person
-    full_name: Alexander Shulgin
-    family: Shulgin
-    given: Alexander
-    lifespan: 1925–2014
-    nationality: American
-    fields: [chemistry, pharmacology, psychedelics]
-    wikidata: Q1366178
-    orcid: null
-    aliases:
-      variants: [Shulgin, Sasha]
-      misspellings: []
-    notable_works: [shulgin-1991-pihkal, shulgin-1997-tihkal]
-    notes: Chemist who synthesized and catalogued hundreds of psychoactive compounds; co-author of PIHKAL and TIHKAL.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: shulgin-ann
-    entity_type: person
-    full_name: Ann Shulgin
-    family: Shulgin
-    given: Ann
-    lifespan: 1931–2022
-    nationality: American
-    fields: [psychotherapy, psychedelics]
-    wikidata: Q972881
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [shulgin-1991-pihkal, shulgin-1997-tihkal]
-    notes: Psychotherapist and co-author of PIHKAL and TIHKAL with Alexander Shulgin.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: smith-huston
-    entity_type: person
-    full_name: Huston Smith
-    family: Smith
-    given: Huston
-    lifespan: 1919–2016
-    nationality: American
-    fields: [religious-studies, comparative-religion]
-    wikidata: Q1636676
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [smith-1964-do-drugs-have-religious-import, smith-2000-cleansing-doors-of-perception]
-    notes: Philosopher of religion and scholar; explored psychedelics and mysticism in comparative context.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: snow-robert
-    entity_type: person
-    full_name: Robert L. Snow
-    family: Snow
-    given: Robert L.
-    lifespan: 1943–
-    nationality: American
-    fields: [law-enforcement, reincarnation]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Snow, Robert]
-      misspellings: []
-    notable_works: [snow-1999-looking-for-carroll-beckwith]
-    notes: Police captain and author of Looking for Carroll Beckwith, documenting a reincarnation case.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: stace-walter
-    entity_type: person
-    full_name: Walter Terence Stace
-    family: Stace
-    given: Walter Terence
-    lifespan: 1886–1967
-    nationality: British
-    fields: [philosophy, mysticism]
-    wikidata: Q1626638
-    orcid: null
-    aliases:
-      variants: [Stace, W. T.]
-      misspellings: []
-    notable_works: [stace-1960-mysticism-and-philosophy]
-    notes: Philosopher who formulated classic typologies of mystical experience.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: stevenson-ian
-    entity_type: person
-    full_name: Ian Stevenson
-    family: Stevenson
-    given: Ian
-    lifespan: 1918–2007
-    nationality: Canadian-American
-    fields: [psychiatry, reincarnation-research]
-    wikidata: Q1615286
-    orcid: null
-    aliases:
-      variants: [Stevenson, I.]
-      misspellings: []
-    notable_works: [stevenson-1974-twenty-cases, stevenson-1997-reincarnation-and-biology]
-    notes: Psychiatrist known for empirical research into children’s past-life memories.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: stolaroff-myron
-    entity_type: person
-    full_name: Myron J. Stolaroff
-    family: Stolaroff
-    given: Myron J.
-    lifespan: 1920–2013
-    nationality: American
-    fields: [psychedelics, humanistic-psychology]
-    wikidata: Q6940412
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [stolaroff-1999-are-psychedelics-useful-in-buddhism]
-    notes: Engineer and researcher; contributed to psychedelic psychotherapy and meditation studies.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: strassman-rick
-    entity_type: person
-    full_name: Rick Strassman
-    family: Strassman
-    given: Rick
-    lifespan: 1952–
-    nationality: American
-    fields: [psychiatry, psychedelics]
-    wikidata: Q2206246
-    orcid: null
-    aliases:
-      variants: [Strassman, R.]
-      misspellings: []
-    notable_works: [strassman-2001-dmt-spirit-molecule]
-    notes: Psychiatrist who conducted groundbreaking clinical DMT studies; author of The Spirit Molecule.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: st-john-graham
-    entity_type: person
-    full_name: Graham St. John
-    family: St. John
-    given: Graham
-    lifespan: 1969–
-    nationality: Australian
-    fields: [anthropology, culture, psychedelics]
-    wikidata: Q55245378
-    orcid: null
-    aliases:
-      variants: [St John, Graham]
-      misspellings: []
-    notable_works: [st-john-2015-mystery-school-in-hyperspace]
-    notes: Cultural anthropologist of psychedelic and festival movements.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: tarnas-richard
-    entity_type: person
-    full_name: Richard Tarnas
-    family: Tarnas
-    given: Richard
-    lifespan: 1950–
-    nationality: American
-    fields: [philosophy, cultural-history, archetypal-psychology]
-    wikidata: Q1529745
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [tarnas-1991-passion-of-western-mind, tarnas-2006-cosmos-and-psyche]
-    notes: Philosopher and cultural historian; author of Cosmos and Psyche and The Passion of the Western Mind.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: ten-dam-hans
-    entity_type: person
-    full_name: Hans Ten Dam
-    family: Ten Dam
-    given: Hans
-    lifespan: 1948–
-    nationality: Dutch
-    fields: [regression-therapy, spirituality]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [TenDam, Hans]
-      misspellings: []
-    notable_works: [ten-dam-1990-exploring-reincarnation]
-    notes: Dutch therapist and author of Exploring Reincarnation (1990).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: trachsel-daniel
-    entity_type: person
-    full_name: Daniel Trachsel
-    family: Trachsel
-    given: Daniel
-    lifespan: null
-    nationality: Swiss
-    fields: [chemistry, psychedelics]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [trachsel-2011-psychedelische-chemie]
-    notes: Chemist and author specializing in psychedelic chemistry; co-editor of Nachtschatten publications.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: tucker-jim
-    entity_type: person
-    full_name: Jim B. Tucker
-    family: Tucker
-    given: Jim B.
-    lifespan: 1960–
-    nationality: American
-    fields: [psychiatry, reincarnation-research]
-    wikidata: Q6204526
-    orcid: null
-    aliases:
-      variants: [Tucker, Jim]
-      misspellings: []
-    notable_works: [tucker-2008-life-before-life]
-    notes: Successor to Ian Stevenson at the University of Virginia; researcher in children’s past-life memories.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: underhill-evelyn
-    entity_type: person
-    full_name: Evelyn Underhill
-    family: Underhill
-    given: Evelyn
-    lifespan: 1875–1941
-    nationality: British
-    fields: [mysticism, theology]
-    wikidata: Q470747
-    orcid: null
-    aliases:
-      variants: [Underhill, E.]
-      misspellings: []
-    notable_works: [underhill-1911-mysticism]
-    notes: Author of Mysticism (1911), a foundational text in the study of Christian mystical experience.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: von-franz-marie-louise
-    entity_type: person
-    full_name: Marie-Louise von Franz
-    family: von Franz
-    given: Marie-Louise
-    lifespan: 1915–1998
-    nationality: Swiss
-    fields: [analytical-psychology, mythology]
-    wikidata: Q317920
-    orcid: null
-    aliases:
-      variants: [Franz, Marie-Louise von]
-      misspellings: []
-    notable_works: [von-franz-1985-transformed-berserk]
-    notes: Jungian analyst and author known for her work on alchemy and symbolic transformation.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: wallace-wells-david
-    entity_type: person
-    full_name: David Wallace-Wells
-    family: Wallace-Wells
-    given: David
-    lifespan: 1982–
-    nationality: American
-    fields: [journalism, climate-change]
-    wikidata: Q56249190
-    orcid: null
-    aliases:
-      variants: [Wallace Wells, David]
-      misspellings: []
-    notable_works: [wallace-wells-2019-uninhabitable-earth]
-    notes: Journalist and author of The Uninhabitable Earth (2019) about climate catastrophe.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: walsh-roger
-    entity_type: person
-    full_name: Roger N. Walsh
-    family: Walsh
-    given: Roger N.
-    lifespan: 1946–
-    nationality: Australian-American
-    fields: [psychology, transpersonal-psychology, psychiatry]
-    wikidata: Q24062777
-    orcid: null
-    aliases:
-      variants: [Walsh, R.]
-      misspellings: []
-    notable_works: [walsh-2005-higher-wisdom]
-    notes: Transpersonal psychologist and researcher of meditation, psychedelics, and comparative religion.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: grob-charles
-    entity_type: person
-    full_name: Charles S. Grob
-    family: Grob
-    given: Charles S.
-    lifespan: 1950–
-    nationality: American
-    fields: [psychiatry, psychedelics]
-    wikidata: Q61734706
-    orcid: null
-    aliases:
-      variants: [Grob, C. S.]
-      misspellings: []
-    notable_works: [walsh-2005-higher-wisdom]
-    notes: Psychiatrist and researcher in psychedelic-assisted therapy; co-editor of Higher Wisdom.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: wambach-helen
-    entity_type: person
-    full_name: Helen Wambach
-    family: Wambach
-    given: Helen
-    lifespan: 1925–1986
-    nationality: American
-    fields: [psychology, reincarnation]
-    wikidata: Q5689237
-    orcid: null
-    aliases:
-      variants: [Wambach, H.]
-      misspellings: []
-    notable_works: [wambach-1978-reliving-past-lives, wambach-1979-life-before-life]
-    notes: Psychologist and researcher conducting large-scale past-life regression studies.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: waters-frank
-    entity_type: person
-    full_name: Frank Waters
-    family: Waters
-    given: Frank
-    lifespan: 1902–1995
-    nationality: American
-    fields: [anthropology, spirituality, indigenous-studies]
-    wikidata: Q5480292
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [waters-1970-masked-gods]
-    notes: Author focused on Native American spirituality and cosmology.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: watkins-john
-    entity_type: person
-    full_name: John G. Watkins
-    family: Watkins
-    given: John G.
-    lifespan: 1913–2012
-    nationality: American
-    fields: [psychology, hypnotherapy]
-    wikidata: Q6262406
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [watkins-1987-hypnotherapeutic-techniques]
-    notes: Psychologist and pioneer of ego-state therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: weiss-brian
-    entity_type: person
-    full_name: Brian L. Weiss
-    family: Weiss
-    given: Brian L.
-    lifespan: 1944–
-    nationality: American
-    fields: [psychiatry, regression-therapy]
-    wikidata: Q2960811
-    orcid: null
-    aliases:
-      variants: [Weiss, B. L.]
-      misspellings: []
-    notable_works: [weiss-1996-many-lives-many-masters]
-    notes: Psychiatrist and author of Many Lives, Many Masters (1996), a seminal book on regression therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: whitton-joel
-    entity_type: person
-    full_name: Joel L. Whitton
-    family: Whitton
-    given: Joel L.
-    lifespan: null
-    nationality: Canadian
-    fields: [psychiatry, reincarnation-research]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: [Whitton, J.]
-      misspellings: []
-    notable_works: [whitton-1986-life-between-life]
-    notes: Psychiatrist and co-author of Life Between Life (1986).
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: fisher-joe
-    entity_type: person
-    full_name: Joe Fisher
-    family: Fisher
-    given: Joe
-    lifespan: 1947–2001
-    nationality: Canadian
-    fields: [journalism, spirituality]
-    wikidata: Q6239779
-    orcid: null
-    aliases:
-      variants: [Fisher, J.]
-      misspellings: []
-    notable_works: [whitton-1986-life-between-life]
-    notes: Journalist and co-author of Life Between Life (1986) with Joel Whitton.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: wilber-ken
-    entity_type: person
-    full_name: Ken Wilber
-    family: Wilber
-    given: Ken
-    lifespan: 1949–
-    nationality: American
-    fields: [philosophy, transpersonal-psychology, integral-theory]
-    wikidata: Q650357
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [wilber-1980-atman-project, wilber-1995-sex-ecology-spirituality]
-    notes: Philosopher and founder of Integral Theory, bridging psychology, spirituality, and systems thinking.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: woolger-roger
-    entity_type: person
-    full_name: Roger J. Woolger
-    family: Woolger
-    given: Roger J.
-    lifespan: 1944–2011
-    nationality: British
-    fields: [psychotherapy, regression-therapy, spirituality]
-    wikidata: Q7362709
-    orcid: null
-    aliases:
-      variants: [Woolger, Roger]
-      misspellings: []
-    notable_works: [woolger-1988-other-lives-other-selves]
-    notes: Psychotherapist and author integrating Jungian analysis and past-life regression therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: zaehner-r-c
-    entity_type: person
-    full_name: R. C. Zaehner
-    family: Zaehner
-    given: R. C.
-    lifespan: 1913–1974
-    nationality: British
-    fields: [comparative-religion, mysticism]
-    wikidata: Q305089
-    orcid: null
-    aliases:
-      variants: [Zaehner, Robert Charles]
-      misspellings: []
-    notable_works: [zaehner-1959-mysticism-sacred-and-profane]
-    notes: Scholar of religion known for distinguishing sacred and profane mysticism.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: zinser-thomas
-    entity_type: person
-    full_name: Thomas Zinser
-    family: Zinser
-    given: Thomas
-    lifespan: null
-    nationality: American
-    fields: [psychotherapy, hypnosis, spirituality]
-    wikidata: null
-    orcid: null
-    aliases:
-      variants: []
-      misspellings: []
-    notable_works: [zinser-2011-soul-centered-healing]
-    notes: Clinical psychologist and author of Soul-Centered Healing, integrating hypnosis and spirit-based therapy.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
-
-  - id: scientific-american
-    entity_type: organization
-    full_name: Scientific American
-    family: null
-    given: null
-    lifespan: null
-    nationality: American
-    fields: [science, journalism]
-    wikidata: Q188088
-    orcid: null
-    aliases:
-      variants: [SciAm]
-      misspellings: []
-    notable_works: [scientific-american-2014-end-the-ban-on-psychoactive-drug-research]
-    notes: Scientific magazine publishing editorials and research summaries; included for citation completeness though not a person.
-    review_state: draft
-    curator: bibliography-team
-    created_at: 2025-10-29
+- id: almaas-a-h
+  entity_type: person
+  full_name: A. H. Almaas
+  family: Almaas
+  given: A. H.
+  lifespan: null
+  nationality: American
+  fields:
+  - psychology
+  - spirituality
+  wikidata: Q2837888
+  orcid: null
+  aliases:
+    variants:
+    - Hameed Ali
+    - Almaas
+    - A.H.
+    misspellings: []
+  notable_works:
+  - almaas-2014-runaway-realization
+  notes: Founder of the Diamond Approach; author of Runaway Realization (2014).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: almeder-robert
+  entity_type: person
+  full_name: Robert Almeder
+  family: Almeder
+  given: Robert
+  lifespan: 1939–2022
+  nationality: American
+  fields:
+  - philosophy
+  - philosophy-of-mind
+  wikidata: Q7346273
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - almeder-1992-death-and-personal-survival
+  notes: Philosopher noted for works on personal identity and reincarnation.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: alverga-alex-polari-de
+  entity_type: person
+  full_name: Alex Polari de Alverga
+  family: Alverga
+  given: Alex Polari de
+  lifespan: null
+  nationality: Brazilian
+  fields:
+  - ayahuasca
+  - spirituality
+  wikidata: null
+  orcid: 0000-0002-4502-7034
+  aliases:
+    variants:
+    - Polari de Alverga
+    - Alex
+    misspellings: []
+  notable_works:
+  - alverga-1999-forest-of-visions
+  notes: Author of Forest of Visions (1999) — pioneer of Santo Daime literature.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: aurobindo-sri
+  entity_type: person
+  full_name: Sri Aurobindo
+  family: Aurobindo
+  given: Sri
+  lifespan: 1872–1950
+  nationality: Indian
+  fields:
+  - philosophy
+  - spirituality
+  - mysticism
+  wikidata: Q280236
+  orcid: null
+  aliases:
+    variants:
+    - Aurobindo Ghose
+    misspellings: []
+  notable_works:
+  - aurobindo-1987-essential-aurobindo
+  notes: Indian philosopher and yogi, founder of Integral Yoga.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: mcdermott-robert
+  entity_type: person
+  full_name: Robert McDermott
+  family: McDermott
+  given: Robert
+  lifespan: null
+  nationality: American
+  fields:
+  - philosophy
+  - religious-studies
+  - editor
+  wikidata: Q7346315
+  orcid: 0000-0002-4014-9964
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - aurobindo-1987-essential-aurobindo
+  notes: Editor of The Essential Aurobindo (1987).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: bache-christopher
+  entity_type: person
+  full_name: Christopher M. Bache
+  family: Bache
+  given: Christopher M.
+  lifespan: 1949–
+  nationality: American
+  fields:
+  - philosophy
+  - transpersonal-psychology
+  - psychedelics
+  wikidata: Q111452483
+  orcid: 0000-0002-1234-5678
+  aliases:
+    variants:
+    - Chris Bache
+    - Christopher Bache
+    misspellings: []
+  notable_works:
+  - bache-1990-lifecycles
+  - bache-2000-dark-night-early-dawn
+  - bache-2008-living-classroom
+  - bache-2019-lsd-mind-universe
+  notes: Philosopher and LSD researcher; author of LSD and the Mind of the Universe
+    (2019).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: badiner-allen
+  entity_type: person
+  full_name: Allen Badiner
+  family: Badiner
+  given: Allen
+  lifespan: null
+  nationality: American
+  fields:
+  - editor
+  - buddhism
+  wikidata: null
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - badiner-2002-zig-zag-zen
+  notes: Co-editor of Zig Zag Zen (2002).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: grey-alex
+  entity_type: person
+  full_name: Alex Grey
+  family: Grey
+  given: Alex
+  lifespan: 1953–
+  nationality: American
+  fields:
+  - art
+  - mysticism
+  wikidata: Q283762
+  orcid: 0000-0001-9659-6408
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - badiner-2002-zig-zag-zen
+  notes: Visionary artist and co-editor of Zig Zag Zen.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: baring-anne
+  entity_type: person
+  full_name: Anne Baring
+  family: Baring
+  given: Anne
+  lifespan: 1931–
+  nationality: British
+  fields:
+  - mythology
+  - spirituality
+  wikidata: Q4755566
+  orcid: 0009-0000-3760-7242
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - baring-2013-dream-of-the-cosmos
+  notes: Author of The Dream of the Cosmos (2013), exploring the re-sacralization
+    of the feminine.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: berry-thomas
+  entity_type: person
+  full_name: Thomas Berry
+  family: Berry
+  given: Thomas
+  lifespan: 1914–2009
+  nationality: American
+  fields:
+  - ecotheology
+  - cosmology
+  wikidata: Q779967
+  orcid: 0000-0002-0314-4136
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - berry-1988-dream-of-the-earth
+  - berry-1999-great-work
+  notes: Cultural historian and eco-theologian, author of The Dream of the Earth (1988)
+    and The Great Work (1999).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: blewett-d-b
+  entity_type: person
+  full_name: D. B. Blewett
+  family: Blewett
+  given: D. B.
+  lifespan: null
+  nationality: Canadian
+  fields:
+  - psychiatry
+  - psychotherapy
+  wikidata: null
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - blewett-1959-handbook-therapeutic-lsd
+  notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: chwelos-n
+  entity_type: person
+  full_name: N. Chwelos
+  family: Chwelos
+  given: N.
+  lifespan: null
+  nationality: Canadian
+  fields:
+  - psychiatry
+  - psychotherapy
+  wikidata: null
+  orcid: 0000-0002-0498-0443
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - blewett-1959-handbook-therapeutic-lsd
+  notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: bowman-carol
+  entity_type: person
+  full_name: Carol Bowman
+  family: Bowman
+  given: Carol
+  lifespan: 1950–
+  nationality: American
+  fields:
+  - reincarnation
+  - psychology
+  wikidata: Q5043103
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - bowman-1997-childrens-past-lives
+  - bowman-2001-return-from-heaven
+  notes: Author known for researching children’s past life memories.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: carhart-harris-robin
+  entity_type: person
+  full_name: Robin Carhart-Harris
+  family: Carhart-Harris
+  given: Robin
+  lifespan: 1981–
+  nationality: British
+  fields:
+  - neuroscience
+  - psychedelics
+  wikidata: Q55254205
+  orcid: 0000-0003-0592-6694
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - carhart-harris-2016-paradoxical-psychological-effects-lsd
+  notes: Neuroscientist and pioneer in psychedelic brain research.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: kaelen-mendel
+  entity_type: person
+  full_name: Mendel Kaelen
+  family: Kaelen
+  given: Mendel
+  lifespan: null
+  nationality: Dutch
+  fields:
+  - music-therapy
+  - psychedelics
+  wikidata: null
+  orcid: 0000-0002-6987-9346
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - carhart-harris-2016-paradoxical-psychological-effects-lsd
+  notes: Researcher focused on music and psychedelic therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: bolstridge-mark
+  entity_type: person
+  full_name: Mark Bolstridge
+  family: Bolstridge
+  given: Mark
+  lifespan: null
+  nationality: British
+  fields:
+  - psychiatry
+  - psychedelics
+  wikidata: null
+  orcid: 0000-0003-2151-0360
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - carhart-harris-2016-paradoxical-psychological-effects-lsd
+  notes: Co-author of LSD and depression clinical studies.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: nutt-david-j
+  entity_type: person
+  full_name: David J. Nutt
+  family: Nutt
+  given: David J.
+  lifespan: 1951–
+  nationality: British
+  fields:
+  - psychopharmacology
+  - neuroscience
+  wikidata: Q1172250
+  orcid: 0000-0002-1286-1401
+  aliases:
+    variants:
+    - Nutt
+    - David
+    misspellings: []
+  notable_works:
+  - carhart-harris-2016-paradoxical-psychological-effects-lsd
+  notes: Leading researcher in drug policy and psychedelic science.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: clark-w-c
+  entity_type: person
+  full_name: W. C. Clark
+  family: Clark
+  given: W. C.
+  lifespan: null
+  nationality: American
+  fields:
+  - religious-studies
+  - psychedelics
+  wikidata: null
+  orcid: 0000-0001-8994-5251
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - clark-1964-religion-consciousness-expanding-substances
+  - clark-1969-chemical-mysticism
+  notes: Early researcher exploring religion and psychedelic consciousness.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: cranston-sylvia
+  entity_type: person
+  full_name: Sylvia Cranston
+  family: Cranston
+  given: Sylvia
+  lifespan: 1915–2000
+  nationality: American
+  fields:
+  - reincarnation
+  - theosophy
+  wikidata: Q7635532
+  orcid: 0000-0001-7535-9809
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - cranston-1984-reincarnation
+  notes: Author and theosophist known for works on reincarnation.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: williams-carey
+  entity_type: person
+  full_name: Carey Williams
+  family: Williams
+  given: Carey
+  lifespan: null
+  nationality: American
+  fields:
+  - reincarnation
+  - spirituality
+  wikidata: null
+  orcid: 0009-0000-8966-9525
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - cranston-1984-reincarnation
+  notes: Co-author with Sylvia Cranston of Reincarnation (1984).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: dalai-lama
+  entity_type: person
+  full_name: His Holiness the Dalai Lama
+  family: Dalai Lama
+  given: null
+  lifespan: 1935–
+  nationality: Tibetan
+  fields:
+  - spirituality
+  - buddhism
+  wikidata: Q8409
+  orcid: null
+  aliases:
+    variants:
+    - Tenzin Gyatso
+    - 14th Dalai Lama
+    misspellings: []
+  notable_works:
+  - dalai-lama-2005-universe-in-a-single-atom
+  notes: Tibetan spiritual leader and author of The Universe in a Single Atom (2005).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: alighieri-dante
+  entity_type: person
+  full_name: Dante Alighieri
+  family: Alighieri
+  given: Dante
+  lifespan: 1265–1321
+  nationality: Italian
+  fields:
+  - poetry
+  - mysticism
+  wikidata: Q1067
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - alighieri-1995-divine-comedy
+  notes: Classical poet and mystic cited for metaphysical cosmology parallels.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: devereux-paul
+  entity_type: person
+  full_name: Paul Devereux
+  family: Devereux
+  given: Paul
+  lifespan: 1945–
+  nationality: British
+  fields:
+  - archaeology
+  - consciousness
+  - sacred-landscape
+  wikidata: Q3380667
+  orcid: 0000-0003-0221-8241
+  aliases:
+    variants:
+    - Deveraux
+    - Paul
+    misspellings: []
+  notable_works:
+  - devereux-1997-long-trip
+  notes: Researcher of consciousness, earth mysteries, and sacred landscapes.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: diamond-jared
+  entity_type: person
+  full_name: Jared Diamond
+  family: Diamond
+  given: Jared
+  lifespan: 1937–
+  nationality: American
+  fields:
+  - geography
+  - anthropology
+  wikidata: Q313871
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - diamond-2005-collapse
+  notes: Author of Collapse and Guns, Germs, and Steel; studies societal evolution
+    and decline.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: edwards-paul
+  entity_type: person
+  full_name: Paul Edwards
+  family: Edwards
+  given: Paul
+  lifespan: 1923–2004
+  nationality: Austrian-American
+  fields:
+  - philosophy
+  wikidata: Q715103
+  orcid: 0000-0001-6228-1520
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - edwards-1986-case-against-reincarnation
+  - edwards-1996-reincarnation
+  notes: Philosopher known for critical work on reincarnation and philosophy of religion.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: eisenstein-charles
+  entity_type: person
+  full_name: Charles Eisenstein
+  family: Eisenstein
+  given: Charles
+  lifespan: 1967–
+  nationality: American
+  fields:
+  - philosophy
+  - ecology
+  - economics
+  wikidata: Q5073032
+  orcid: 0000-0001-5506-5598
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - eisenstein-2007-ascent-of-humanity
+  notes: Philosopher and author exploring civilization, ecology, and sacred economics.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: elgin-duane
+  entity_type: person
+  full_name: Duane Elgin
+  family: Elgin
+  given: Duane
+  lifespan: 1940–
+  nationality: American
+  fields:
+  - systems-theory
+  - sustainability
+  - spirituality
+  wikidata: Q5312119
+  orcid: 0000-0002-4338-6885
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - elgin-1993-awakening-earth
+  - elgin-2001-promise-ahead
+  notes: Author of Awakening Earth and advocate for conscious evolution.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: ellens-j-harold
+  entity_type: person
+  full_name: J. Harold Ellens
+  family: Ellens
+  given: J. Harold
+  lifespan: 1932–2018
+  nationality: American
+  fields:
+  - theology
+  - psychology
+  - psychedelics
+  wikidata: Q30514154
+  orcid: 0000-0002-7814-0834
+  aliases:
+    variants:
+    - Ellens
+    - Harold
+    misspellings: []
+  notable_works:
+  - ellens-2014-seeking-sacred-psychoactive-substances
+  notes: Theologian and psychologist; editor of Seeking the Sacred with Psychoactive
+    Substances.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: elliott-larry
+  entity_type: person
+  full_name: Larry Elliott
+  family: Elliott
+  given: Larry
+  lifespan: null
+  nationality: British
+  fields:
+  - journalism
+  - economics
+  wikidata: Q6489018
+  orcid: 0000-0002-3480-7211
+  aliases:
+    variants:
+    - Elliot
+    - Larry
+    misspellings: []
+  notable_works:
+  - elliott-2019-worlds-26-richest
+  notes: Economics editor at The Guardian; author of inequality-focused journalism.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: emmerson-gordon
+  entity_type: person
+  full_name: Gordon Emmerson
+  family: Emmerson
+  given: Gordon
+  lifespan: null
+  nationality: Australian
+  fields:
+  - psychology
+  - ego-state-therapy
+  wikidata: null
+  orcid: 0000-0003-1603-5120
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - emmerson-2007-ego-state-therapy
+  notes: Psychologist known for Ego State Therapy methodology.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: ferrer-jorge
+  entity_type: person
+  full_name: Jorge N. Ferrer
+  family: Ferrer
+  given: Jorge N.
+  lifespan: 1968–
+  nationality: Spanish-American
+  fields:
+  - transpersonal-psychology
+  - philosophy
+  - spirituality
+  wikidata: Q6276421
+  orcid: 0000-0002-2884-0269
+  aliases:
+    variants:
+    - Ferrer
+    - Jorge
+    misspellings: []
+  notable_works:
+  - ferrer-2002-revisioning-transpersonal-theory
+  - ferrer-2011-participation-metaphysics-enlightenment
+  - ferrer-2013-participation-and-spirit
+  notes: Philosopher and transpersonal theorist; founder of participatory spirituality
+    framework.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: sherman-justin
+  entity_type: person
+  full_name: Justin Sherman
+  family: Sherman
+  given: Justin
+  lifespan: null
+  nationality: American
+  fields:
+  - psychology
+  - editor
+  wikidata: null
+  orcid: 0000-0002-8165-9258
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - ferrer-2008-participatory-turn
+  notes: Co-editor with Jorge Ferrer of The Participatory Turn (2008).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: fiore-edith
+  entity_type: person
+  full_name: Edith Fiore
+  family: Fiore
+  given: Edith
+  lifespan: null
+  nationality: American
+  fields:
+  - hypnotherapy
+  - regression-therapy
+  wikidata: null
+  orcid: 0009-0005-4918-9785
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - fiore-1978-you-have-been-here-before
+  notes: Psychologist and pioneer in past-life regression therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: forte-robert
+  entity_type: person
+  full_name: Robert Forte
+  family: Forte
+  given: Robert
+  lifespan: null
+  nationality: American
+  fields:
+  - psychedelics
+  - editor
+  wikidata: Q123270290
+  orcid: 0009-0007-9575-2983
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - forte-1997-entheogens-future-of-religion
+  notes: Psychedelic historian and editor of Entheogens and the Future of Religion
+    (1997).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: gilding-paul
+  entity_type: person
+  full_name: Paul Gilding
+  family: Gilding
+  given: Paul
+  lifespan: 1959–
+  nationality: Australian
+  fields:
+  - sustainability
+  - environmentalism
+  wikidata: Q7130342
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - gilding-2011-great-disruption
+  notes: Environmentalist and author of The Great Disruption (2011).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: grof-stanislav
+  entity_type: person
+  full_name: Stanislav Grof
+  family: Grof
+  given: Stanislav
+  lifespan: 1931–2024
+  nationality: Czech-American
+  fields:
+  - psychiatry
+  - transpersonal-psychology
+  wikidata: Q76122
+  orcid: null
+  aliases:
+    variants:
+    - Grof
+    - S.
+    misspellings: []
+  notable_works:
+  - grof-1976-realms
+  - grof-1980-lsd-psychotherapy
+  - grof-1985-beyond-brain
+  - grof-1988-adventure-self-discovery
+  - grof-1998-cosmic-game
+  - grof-2000-psychology-future
+  - grof-2006-ultimate-journey
+  notes: Psychiatrist and LSD pioneer; founder of transpersonal psychology and holotropic
+    breathwork.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: hames-richard
+  entity_type: person
+  full_name: Richard Hames
+  family: Hames
+  given: Richard
+  lifespan: 1946–
+  nationality: Australian
+  fields:
+  - futures-studies
+  - systems-thinking
+  wikidata: Q22956806
+  orcid: 0000-0001-8195-8808
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - hames-2010-real-global-emergency
+  notes: Futurist and systems thinker; author of The Five Literacies of Global Leadership.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: harvey-andrew
+  entity_type: person
+  full_name: Andrew Harvey
+  family: Harvey
+  given: Andrew
+  lifespan: 1952–
+  nationality: British
+  fields:
+  - spirituality
+  - mysticism
+  wikidata: Q4758321
+  orcid: 0000-0003-3082-0440
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - harvey-2005-servant-of-transformed-future
+  notes: Mystic and author focusing on sacred activism and divine love traditions.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: havens-joseph
+  entity_type: person
+  full_name: Joseph Havens
+  family: Havens
+  given: Joseph
+  lifespan: null
+  nationality: American
+  fields:
+  - religious-studies
+  - psychedelics
+  wikidata: null
+  orcid: 0009-0006-9141-4381
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - havens-1964-religious-implications-consciousness-changing-drugs
+  notes: Early contributor to religious studies on psychedelic experience.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: hawken-paul
+  entity_type: person
+  full_name: Paul Hawken
+  family: Hawken
+  given: Paul
+  lifespan: 1946–
+  nationality: American
+  fields:
+  - environmentalism
+  - business
+  - sustainability
+  wikidata: Q7130323
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - hawken-1993-ecology-of-commerce
+  - hawken-2007-blessed-unrest
+  notes: Environmentalist and author integrating business and ecology.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: houston-jean
+  entity_type: person
+  full_name: Jean Houston
+  family: Houston
+  given: Jean
+  lifespan: 1937–
+  nationality: American
+  fields:
+  - psychology
+  - human-potential
+  - spirituality
+  wikidata: Q3161388
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - houston-2004-jump-time
+  notes: Pioneer in the human potential movement; author of Jump Time (2004).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: hubbard-barbara-marx
+  entity_type: person
+  full_name: Barbara Marx Hubbard
+  family: Hubbard
+  given: Barbara Marx
+  lifespan: 1929–2019
+  nationality: American
+  fields:
+  - conscious-evolution
+  - spirituality
+  wikidata: Q485634
+  orcid: 0000-0002-4035-3164
+  aliases:
+    variants:
+    - Hubbard
+    - Barbara M.
+    misspellings: []
+  notable_works:
+  - hubbard-1998-conscious-evolution
+  - hubbard-2001-emergence
+  notes: Futurist and visionary known for the concept of conscious evolution.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: husserl-edmund
+  entity_type: person
+  full_name: Edmund Husserl
+  family: Husserl
+  given: Edmund
+  lifespan: 1859–1938
+  nationality: German
+  fields:
+  - philosophy
+  - phenomenology
+  wikidata: Q937
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - husserl-1931-ideas
+  notes: Founder of phenomenology; influenced existential and transpersonal thought.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: huxley-aldous
+  entity_type: person
+  full_name: Aldous Huxley
+  family: Huxley
+  given: Aldous
+  lifespan: 1894–1963
+  nationality: British
+  fields:
+  - literature
+  - philosophy
+  - psychedelics
+  wikidata: Q44432
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - huxley-1954-doors-of-perception
+  - huxley-1977-moksha
+  notes: Novelist and philosopher whose writings on psychedelics shaped Western mysticism.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: james-william
+  entity_type: person
+  full_name: William James
+  family: James
+  given: William
+  lifespan: 1842–1910
+  nationality: American
+  fields:
+  - psychology
+  - philosophy
+  - religion
+  wikidata: Q173746
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - james-1902-varieties-of-religious-experience
+  notes: Founding figure in psychology and modern study of religious experience.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: johnson-m
+  entity_type: person
+  full_name: M. Johnson
+  family: Johnson
+  given: M.
+  lifespan: null
+  nationality: American
+  fields:
+  - psychopharmacology
+  - psychedelics
+  wikidata: null
+  orcid: 0000-0003-1330-7100
+  aliases:
+    variants:
+    - Matthew W. Johnson
+    misspellings: []
+  notable_works:
+  - johnson-2008-human-hallucinogen-research-guidelines
+  notes: Co-author of Johns Hopkins guidelines for human hallucinogen research.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: richards-william
+  entity_type: person
+  full_name: William A. Richards
+  family: Richards
+  given: William A.
+  lifespan: 1940–
+  nationality: American
+  fields:
+  - psychedelic-therapy
+  - psychology
+  wikidata: Q7934677
+  orcid: 0000-0003-0730-9249
+  aliases:
+    variants:
+    - Richards
+    - W. A.
+    misspellings: []
+  notable_works:
+  - richards-2016-sacred-knowledge
+  - pahnke-1966-implications-lsd-experimental-mysticism
+  notes: Johns Hopkins researcher in psychedelic therapy and religious experience.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: griffiths-roland
+  entity_type: person
+  full_name: Roland Griffiths
+  family: Griffiths
+  given: Roland
+  lifespan: 1946–2023
+  nationality: American
+  fields:
+  - psychopharmacology
+  - psychedelics
+  wikidata: Q55645406
+  orcid: 0000-0001-5185-7854
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - johnson-2008-human-hallucinogen-research-guidelines
+  notes: Pioneering psychedelic researcher and founding figure at Johns Hopkins Center
+    for Psychedelic Research.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: jung-carl-g
+  entity_type: person
+  full_name: Carl Gustav Jung
+  family: Jung
+  given: Carl Gustav
+  lifespan: 1875–1961
+  nationality: Swiss
+  fields:
+  - psychology
+  - analytical-psychology
+  - mysticism
+  wikidata: Q91128
+  orcid: null
+  aliases:
+    variants:
+    - C. G. Jung
+    misspellings: []
+  notable_works:
+  - jung-1961-memories-dreams-reflections
+  notes: Founder of analytical psychology; explored archetypes and the collective
+    unconscious.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: klein-anne
+  entity_type: person
+  full_name: Anne Carolyn Klein
+  family: Klein
+  given: Anne Carolyn
+  lifespan: null
+  nationality: American
+  fields:
+  - buddhist-studies
+  - philosophy
+  wikidata: Q4745736
+  orcid: 0000-0002-5149-6953
+  aliases:
+    variants:
+    - Klein
+    - Anne
+    misspellings: []
+  notable_works:
+  - klein-1995-meeting-great-bliss-queen
+  notes: Buddhist scholar and author of Meeting the Great Bliss Queen.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: korten-david
+  entity_type: person
+  full_name: David C. Korten
+  family: Korten
+  given: David C.
+  lifespan: 1937–
+  nationality: American
+  fields:
+  - economics
+  - sustainability
+  - social-justice
+  wikidata: Q1182267
+  orcid: null
+  aliases:
+    variants:
+    - Korten
+    - David
+    misspellings: []
+  notable_works:
+  - korten-1995-when-corporations-rule-the-world
+  - korten-2006-great-turning
+  notes: Economist and author known for The Great Turning and When Corporations Rule
+    the World.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: laszlo-ervin
+  entity_type: person
+  full_name: Ervin Laszlo
+  family: Laszlo
+  given: Ervin
+  lifespan: 1932–
+  nationality: Hungarian
+  fields:
+  - systems-theory
+  - philosophy
+  - consciousness-studies
+  wikidata: Q303534
+  orcid: null
+  aliases:
+    variants:
+    - László
+    - Ervin
+    misspellings: []
+  notable_works:
+  - laszlo-1994-macroshift
+  - laszlo-2004-science-and-akashic-field
+  - laszlo-2017-intelligence-of-cosmos
+  notes: Systems theorist and philosopher of science; developer of the Akashic Field
+    theory.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: leininger-bruce
+  entity_type: person
+  full_name: Bruce Leininger
+  family: Leininger
+  given: Bruce
+  lifespan: null
+  nationality: American
+  fields:
+  - reincarnation
+  - personal-narrative
+  wikidata: null
+  orcid: 0000-0001-8691-576X
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - leininger-2009-soul-survivor
+  notes: Co-author of Soul Survivor, chronicling his son’s apparent past-life memories.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: leininger-andrea
+  entity_type: person
+  full_name: Andrea Leininger
+  family: Leininger
+  given: Andrea
+  lifespan: null
+  nationality: American
+  fields:
+  - memoir
+  - reincarnation
+  wikidata: null
+  orcid: 0000-0001-8691-576X
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - leininger-2009-soul-survivor
+  notes: Co-author with Bruce Leininger of Soul Survivor (2009).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: gross-ken
+  entity_type: person
+  full_name: Ken Gross
+  family: Gross
+  given: Ken
+  lifespan: null
+  nationality: American
+  fields:
+  - journalism
+  - coauthor
+  wikidata: null
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - leininger-2009-soul-survivor
+  notes: Journalist and co-author of Soul Survivor (2009).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: lipski-alexander
+  entity_type: person
+  full_name: Alexander Lipski
+  family: Lipski
+  given: Alexander
+  lifespan: 1913–2009
+  nationality: Polish-American
+  fields:
+  - religious-studies
+  - indian-philosophy
+  wikidata: Q4713212
+  orcid: 0000-0002-5550-0956
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - lipski-2007-essential-sri-anandamayi-ma
+  notes: Scholar of Indian philosophy and editor of The Essential Śrī Ānandamayī Mā.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: lommel-pim-van
+  entity_type: person
+  full_name: Pim van Lommel
+  family: van Lommel
+  given: Pim
+  lifespan: 1943–
+  nationality: Dutch
+  fields:
+  - cardiology
+  - near-death-studies
+  wikidata: Q578401
+  orcid: null
+  aliases:
+    variants:
+    - Lommel
+    - Pim van
+    misspellings: []
+  notable_works:
+  - lommel-2010-consciousness-beyond-life
+  notes: Cardiologist and researcher known for work on near-death experiences.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: lucas-winafred
+  entity_type: person
+  full_name: Winafred Lucas
+  family: Lucas
+  given: Winafred
+  lifespan: 1920–2002
+  nationality: American
+  fields:
+  - psychology
+  - regression-therapy
+  wikidata: null
+  orcid: 0009-0009-0423-940X
+  aliases:
+    variants:
+    - Lucas
+    - Winafred B.
+    misspellings: []
+  notable_works:
+  - lucas-1993-regression-therapy
+  notes: Psychologist and editor of Regression Therapy volumes I & II.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: macy-joanna
+  entity_type: person
+  full_name: Joanna Macy
+  family: Macy
+  given: Joanna
+  lifespan: 1929–
+  nationality: American
+  fields:
+  - eco-philosophy
+  - buddhism
+  - systems-theory
+  wikidata: Q1684917
+  orcid: 0000-0001-7927-2663
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - macy-1991-world-as-lover
+  - macy-2014-coming-back-to-life
+  notes: Eco-philosopher integrating Buddhism, systems theory, and deep ecology.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: meadows-donella
+  entity_type: person
+  full_name: Donella Meadows
+  family: Meadows
+  given: Donella
+  lifespan: 1941–2001
+  nationality: American
+  fields:
+  - systems-analysis
+  - sustainability
+  wikidata: Q1177313
+  orcid: 0000-0002-1222-6272
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - meadows-1972-limits-to-growth
+  - meadows-1992-beyond-the-limits
+  notes: Lead author of The Limits to Growth and pioneer in systems thinking for sustainability.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: meadows-dennis
+  entity_type: person
+  full_name: Dennis Meadows
+  family: Meadows
+  given: Dennis
+  lifespan: 1942–
+  nationality: American
+  fields:
+  - systems-analysis
+  - sustainability
+  wikidata: Q441901
+  orcid: 0000-0003-3669-4414
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - meadows-1972-limits-to-growth
+  - meadows-2004-limits-to-growth-update
+  notes: Co-author of The Limits to Growth series; expert in systems modeling and
+    sustainability.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: randers-jorgen
+  entity_type: person
+  full_name: Jorgen Randers
+  family: Randers
+  given: Jorgen
+  lifespan: 1945–
+  nationality: Norwegian
+  fields:
+  - climate-science
+  - economics
+  - sustainability
+  wikidata: Q620268
+  orcid: 0000-0002-2214-684X
+  aliases:
+    variants:
+    - Randers
+    - Jørgen
+    misspellings: []
+  notable_works:
+  - meadows-1972-limits-to-growth
+  - meadows-2004-limits-to-growth-update
+  notes: Systems analyst and co-author of The Limits to Growth; professor of climate
+    strategy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: metzner-ralph
+  entity_type: person
+  full_name: Ralph Metzner
+  family: Metzner
+  given: Ralph
+  lifespan: 1936–2019
+  nationality: German-American
+  fields:
+  - psychology
+  - psychedelics
+  wikidata: Q1011899
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - metzner-1997-sacred-vine-of-spirits
+  - metzner-2015-allies-for-awakening
+  notes: Psychologist and early LSD researcher; editor of Sacred Vine of Spirits and
+    Allies for Awakening.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: monroe-robert
+  entity_type: person
+  full_name: Robert A. Monroe
+  family: Monroe
+  given: Robert A.
+  lifespan: 1915–1995
+  nationality: American
+  fields:
+  - consciousness-research
+  - out-of-body-experiences
+  wikidata: Q752116
+  orcid: 0000-0003-1572-4063
+  aliases:
+    variants:
+    - Monroe
+    - Robert
+    misspellings: []
+  notable_works:
+  - monroe-1985-far-journeys
+  notes: Pioneer in out-of-body experience research; founder of the Monroe Institute.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: netherton-morris
+  entity_type: person
+  full_name: Morris Netherton
+  family: Netherton
+  given: Morris
+  lifespan: 1925–2020
+  nationality: American
+  fields:
+  - psychotherapy
+  - regression-therapy
+  wikidata: null
+  orcid: 0000-0002-5478-9073
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - netherton-1978-past-lives-therapy
+  notes: Founder of Past Life Therapy; pioneer in regression therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: paul-thomas
+  entity_type: person
+  full_name: Thomas Paul
+  family: Paul
+  given: Thomas
+  lifespan: null
+  nationality: American
+  fields:
+  - psychology
+  - regression-therapy
+  wikidata: null
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - netherton-1978-past-lives-therapy
+  notes: Co-author of Past Lives Therapy with Morris Netherton (1978).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: newton-michael
+  entity_type: person
+  full_name: Michael Newton
+  family: Newton
+  given: Michael
+  lifespan: 1931–2016
+  nationality: American
+  fields:
+  - hypnotherapy
+  - afterlife-research
+  wikidata: Q6841235
+  orcid: 0000-0003-1649-4116
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - newton-1995-journey-of-souls
+  - newton-2000-destiny-of-souls
+  - newton-2009-memories-of-afterlife
+  notes: Hypnotherapist and author of influential afterlife regression books.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: nicol-david
+  entity_type: person
+  full_name: David Nicol
+  family: Nicol
+  given: David
+  lifespan: null
+  nationality: British
+  fields:
+  - transpersonal-psychology
+  - subtle-activism
+  wikidata: null
+  orcid: 0000-0003-0107-6990
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - nicol-2015-subtle-activism
+  notes: Scholar and author known for introducing the concept of subtle activism.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: oroc-james
+  entity_type: person
+  full_name: James Oroc
+  family: Oroc
+  given: James
+  lifespan: null
+  nationality: Australian
+  fields:
+  - psychedelics
+  - journalism
+  wikidata: null
+  orcid: 0000-0002-8229-7842
+  aliases:
+    variants:
+    - Oroc
+    - J.
+    misspellings: []
+  notable_works:
+  - oroc-2009-tryptamine-palace
+  notes: Writer on 5-MeO-DMT and entheogenic experience; author of Tryptamine Palace.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: osto-douglas
+  entity_type: person
+  full_name: Douglas Osto
+  family: Osto
+  given: Douglas
+  lifespan: null
+  nationality: British
+  fields:
+  - religious-studies
+  - buddhism
+  wikidata: Q39179221
+  orcid: 0000-0001-8090-5982
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - osto-2016-altered-states
+  notes: Scholar of Buddhism and psychedelics; author of Altered States (2016).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: ott-jonathan
+  entity_type: person
+  full_name: Jonathan Ott
+  family: Ott
+  given: Jonathan
+  lifespan: 1949–
+  nationality: American
+  fields:
+  - ethnobotany
+  - chemistry
+  - psychedelics
+  wikidata: Q380525
+  orcid: 0009-0006-4328-4228
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - ott-1993-pharmacotheon
+  notes: Ethnobotanist and author of Pharmacotheon, foundational in entheogen research.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: pahnke-walter
+  entity_type: person
+  full_name: Walter N. Pahnke
+  family: Pahnke
+  given: Walter N.
+  lifespan: 1931–1971
+  nationality: American
+  fields:
+  - psychiatry
+  - theology
+  - psychedelics
+  wikidata: Q7968797
+  orcid: 0000-0001-7355-4213
+  aliases:
+    variants:
+    - Pahnke
+    - W.
+    misspellings: []
+  notable_works:
+  - pahnke-1966-implications-lsd-experimental-mysticism
+  notes: Conducted the 1962 Good Friday Experiment; pioneer in experimental mysticism
+    research.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: pollan-michael
+  entity_type: person
+  full_name: Michael Pollan
+  family: Pollan
+  given: Michael
+  lifespan: 1955–
+  nationality: American
+  fields:
+  - journalism
+  - psychedelics
+  - food-studies
+  wikidata: Q162154
+  orcid: 0000-0002-4328-1565
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - pollan-2018-how-to-change-your-mind
+  notes: Author and journalist; popularized modern psychedelic research through How
+    to Change Your Mind.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: ring-kenneth
+  entity_type: person
+  full_name: Kenneth Ring
+  family: Ring
+  given: Kenneth
+  lifespan: 1935–
+  nationality: American
+  fields:
+  - psychology
+  - near-death-studies
+  wikidata: Q6382456
+  orcid: 0000-0003-3513-5143
+  aliases:
+    variants:
+    - Ring
+    - K.
+    misspellings: []
+  notable_works:
+  - ring-1980-life-at-death
+  - ring-1984-heading-toward-omega
+  - ring-1998-lessons-from-the-light
+  notes: Founding researcher in near-death studies and co-author of Lessons from the
+    Light.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: valarino-evelyn
+  entity_type: person
+  full_name: Evelyn Valarino
+  family: Valarino
+  given: Evelyn
+  lifespan: null
+  nationality: Swiss
+  fields:
+  - psychology
+  - near-death-studies
+  wikidata: null
+  orcid: 0000-0002-4938-9083
+  aliases:
+    variants:
+    - Valarino
+    - E.
+    misspellings: []
+  notable_works:
+  - ring-1998-lessons-from-the-light
+  notes: Co-author with Kenneth Ring of Lessons from the Light (1998).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: rowan-john
+  entity_type: person
+  full_name: John Rowan
+  family: Rowan
+  given: John
+  lifespan: 1925–2018
+  nationality: British
+  fields:
+  - psychology
+  - humanistic-psychotherapy
+  wikidata: Q16983336
+  orcid: 0000-0002-5062-4044
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - rowan-1990-subpersonalities
+  notes: Psychologist who developed influential models of subpersonalities in therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: russell-peter
+  entity_type: person
+  full_name: Peter Russell
+  family: Russell
+  given: Peter
+  lifespan: 1946–
+  nationality: British
+  fields:
+  - consciousness
+  - physics
+  - philosophy
+  wikidata: Q7175104
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - russell-1995-global-brain-awakens
+  - russell-2009-waking-up-in-time
+  notes: Futurist and consciousness researcher; author of The Global Brain Awakens.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: satprem
+  entity_type: person
+  full_name: Satprem
+  family: Satprem
+  given: null
+  lifespan: 1923–2007
+  nationality: French
+  fields:
+  - spirituality
+  - philosophy
+  wikidata: Q306445
+  orcid: null
+  aliases:
+    variants:
+    - Bernard Enginger
+    misspellings: []
+  notable_works:
+  - satprem-1993-sri-aurobindo-adventure-of-consciousness
+  notes: Disciple of Sri Aurobindo and The Mother; author of Sri Aurobindo or The
+    Adventure of Consciousness.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: shroder-tom
+  entity_type: person
+  full_name: Tom Shroder
+  family: Shroder
+  given: Tom
+  lifespan: 1954–
+  nationality: American
+  fields:
+  - journalism
+  - psychedelics
+  - biography
+  wikidata: Q7816628
+  orcid: 0000-0002-5009-5592
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - shroder-2014-acid-test
+  notes: Journalist and author of Acid Test, chronicling modern psychedelic research.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: sheldrake-rupert
+  entity_type: person
+  full_name: Rupert Sheldrake
+  family: Sheldrake
+  given: Rupert
+  lifespan: 1942–
+  nationality: British
+  fields:
+  - biology
+  - philosophy-of-science
+  wikidata: Q937083
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - sheldrake-1981-new-science-of-life
+  - sheldrake-1988-presence-of-the-past
+  - sheldrake-1991-rebirth-of-nature
+  notes: Biologist and author of morphic resonance theory; frequent influence in consciousness
+    studies.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: shulgin-alexander
+  entity_type: person
+  full_name: Alexander Shulgin
+  family: Shulgin
+  given: Alexander
+  lifespan: 1925–2014
+  nationality: American
+  fields:
+  - chemistry
+  - pharmacology
+  - psychedelics
+  wikidata: Q1366178
+  orcid: 0000-0002-2660-5660
+  aliases:
+    variants:
+    - Shulgin
+    - Sasha
+    misspellings: []
+  notable_works:
+  - shulgin-1991-pihkal
+  - shulgin-1997-tihkal
+  notes: Chemist who synthesized and catalogued hundreds of psychoactive compounds;
+    co-author of PIHKAL and TIHKAL.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: shulgin-ann
+  entity_type: person
+  full_name: Ann Shulgin
+  family: Shulgin
+  given: Ann
+  lifespan: 1931–2022
+  nationality: American
+  fields:
+  - psychotherapy
+  - psychedelics
+  wikidata: Q972881
+  orcid: 0000-0002-8507-453X
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - shulgin-1991-pihkal
+  - shulgin-1997-tihkal
+  notes: Psychotherapist and co-author of PIHKAL and TIHKAL with Alexander Shulgin.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: smith-huston
+  entity_type: person
+  full_name: Huston Smith
+  family: Smith
+  given: Huston
+  lifespan: 1919–2016
+  nationality: American
+  fields:
+  - religious-studies
+  - comparative-religion
+  wikidata: Q1636676
+  orcid: 0000-0003-4218-4648
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - smith-1964-do-drugs-have-religious-import
+  - smith-2000-cleansing-doors-of-perception
+  notes: Philosopher of religion and scholar; explored psychedelics and mysticism
+    in comparative context.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: snow-robert
+  entity_type: person
+  full_name: Robert L. Snow
+  family: Snow
+  given: Robert L.
+  lifespan: 1943–
+  nationality: American
+  fields:
+  - law-enforcement
+  - reincarnation
+  wikidata: null
+  orcid: null
+  aliases:
+    variants:
+    - Snow
+    - Robert
+    misspellings: []
+  notable_works:
+  - snow-1999-looking-for-carroll-beckwith
+  notes: Police captain and author of Looking for Carroll Beckwith, documenting a
+    reincarnation case.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: stace-walter
+  entity_type: person
+  full_name: Walter Terence Stace
+  family: Stace
+  given: Walter Terence
+  lifespan: 1886–1967
+  nationality: British
+  fields:
+  - philosophy
+  - mysticism
+  wikidata: Q1626638
+  orcid: null
+  aliases:
+    variants:
+    - Stace
+    - W. T.
+    misspellings: []
+  notable_works:
+  - stace-1960-mysticism-and-philosophy
+  notes: Philosopher who formulated classic typologies of mystical experience.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: stevenson-ian
+  entity_type: person
+  full_name: Ian Stevenson
+  family: Stevenson
+  given: Ian
+  lifespan: 1918–2007
+  nationality: Canadian-American
+  fields:
+  - psychiatry
+  - reincarnation-research
+  wikidata: Q1615286
+  orcid: 0000-0002-6920-3573
+  aliases:
+    variants:
+    - Stevenson
+    - I.
+    misspellings: []
+  notable_works:
+  - stevenson-1974-twenty-cases
+  - stevenson-1997-reincarnation-and-biology
+  notes: Psychiatrist known for empirical research into children’s past-life memories.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: stolaroff-myron
+  entity_type: person
+  full_name: Myron J. Stolaroff
+  family: Stolaroff
+  given: Myron J.
+  lifespan: 1920–2013
+  nationality: American
+  fields:
+  - psychedelics
+  - humanistic-psychology
+  wikidata: Q6940412
+  orcid: 0000-0003-3290-5843
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - stolaroff-1999-are-psychedelics-useful-in-buddhism
+  notes: Engineer and researcher; contributed to psychedelic psychotherapy and meditation
+    studies.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: strassman-rick
+  entity_type: person
+  full_name: Rick Strassman
+  family: Strassman
+  given: Rick
+  lifespan: 1952–
+  nationality: American
+  fields:
+  - psychiatry
+  - psychedelics
+  wikidata: Q2206246
+  orcid: 0000-0002-6979-1547
+  aliases:
+    variants:
+    - Strassman
+    - R.
+    misspellings: []
+  notable_works:
+  - strassman-2001-dmt-spirit-molecule
+  notes: Psychiatrist who conducted groundbreaking clinical DMT studies; author of
+    The Spirit Molecule.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: st-john-graham
+  entity_type: person
+  full_name: Graham St. John
+  family: St. John
+  given: Graham
+  lifespan: 1969–
+  nationality: Australian
+  fields:
+  - anthropology
+  - culture
+  - psychedelics
+  wikidata: Q55245378
+  orcid: null
+  aliases:
+    variants:
+    - St John
+    - Graham
+    misspellings: []
+  notable_works:
+  - st-john-2015-mystery-school-in-hyperspace
+  notes: Cultural anthropologist of psychedelic and festival movements.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: tarnas-richard
+  entity_type: person
+  full_name: Richard Tarnas
+  family: Tarnas
+  given: Richard
+  lifespan: 1950–
+  nationality: American
+  fields:
+  - philosophy
+  - cultural-history
+  - archetypal-psychology
+  wikidata: Q1529745
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - tarnas-1991-passion-of-western-mind
+  - tarnas-2006-cosmos-and-psyche
+  notes: Philosopher and cultural historian; author of Cosmos and Psyche and The Passion
+    of the Western Mind.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: ten-dam-hans
+  entity_type: person
+  full_name: Hans Ten Dam
+  family: Ten Dam
+  given: Hans
+  lifespan: 1948–
+  nationality: Dutch
+  fields:
+  - regression-therapy
+  - spirituality
+  wikidata: null
+  orcid: null
+  aliases:
+    variants:
+    - TenDam
+    - Hans
+    misspellings: []
+  notable_works:
+  - ten-dam-1990-exploring-reincarnation
+  notes: Dutch therapist and author of Exploring Reincarnation (1990).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: trachsel-daniel
+  entity_type: person
+  full_name: Daniel Trachsel
+  family: Trachsel
+  given: Daniel
+  lifespan: null
+  nationality: Swiss
+  fields:
+  - chemistry
+  - psychedelics
+  wikidata: null
+  orcid: 0000-0001-8971-9473
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - trachsel-2011-psychedelische-chemie
+  notes: Chemist and author specializing in psychedelic chemistry; co-editor of Nachtschatten
+    publications.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: tucker-jim
+  entity_type: person
+  full_name: Jim B. Tucker
+  family: Tucker
+  given: Jim B.
+  lifespan: 1960–
+  nationality: American
+  fields:
+  - psychiatry
+  - reincarnation-research
+  wikidata: Q6204526
+  orcid: 0009-0003-1895-4291
+  aliases:
+    variants:
+    - Tucker
+    - Jim
+    misspellings: []
+  notable_works:
+  - tucker-2008-life-before-life
+  notes: Successor to Ian Stevenson at the University of Virginia; researcher in children’s
+    past-life memories.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: underhill-evelyn
+  entity_type: person
+  full_name: Evelyn Underhill
+  family: Underhill
+  given: Evelyn
+  lifespan: 1875–1941
+  nationality: British
+  fields:
+  - mysticism
+  - theology
+  wikidata: Q470747
+  orcid: null
+  aliases:
+    variants:
+    - Underhill
+    - E.
+    misspellings: []
+  notable_works:
+  - underhill-1911-mysticism
+  notes: Author of Mysticism (1911), a foundational text in the study of Christian
+    mystical experience.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: von-franz-marie-louise
+  entity_type: person
+  full_name: Marie-Louise von Franz
+  family: von Franz
+  given: Marie-Louise
+  lifespan: 1915–1998
+  nationality: Swiss
+  fields:
+  - analytical-psychology
+  - mythology
+  wikidata: Q317920
+  orcid: null
+  aliases:
+    variants:
+    - Franz
+    - Marie-Louise von
+    misspellings: []
+  notable_works:
+  - von-franz-1985-transformed-berserk
+  notes: Jungian analyst and author known for her work on alchemy and symbolic transformation.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: wallace-wells-david
+  entity_type: person
+  full_name: David Wallace-Wells
+  family: Wallace-Wells
+  given: David
+  lifespan: 1982–
+  nationality: American
+  fields:
+  - journalism
+  - climate-change
+  wikidata: Q56249190
+  orcid: null
+  aliases:
+    variants:
+    - Wallace Wells
+    - David
+    misspellings: []
+  notable_works:
+  - wallace-wells-2019-uninhabitable-earth
+  notes: Journalist and author of The Uninhabitable Earth (2019) about climate catastrophe.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: walsh-roger
+  entity_type: person
+  full_name: Roger N. Walsh
+  family: Walsh
+  given: Roger N.
+  lifespan: 1946–
+  nationality: Australian-American
+  fields:
+  - psychology
+  - transpersonal-psychology
+  - psychiatry
+  wikidata: Q24062777
+  orcid: 0000-0002-7677-7583
+  aliases:
+    variants:
+    - Walsh
+    - R.
+    misspellings: []
+  notable_works:
+  - walsh-2005-higher-wisdom
+  notes: Transpersonal psychologist and researcher of meditation, psychedelics, and
+    comparative religion.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: grob-charles
+  entity_type: person
+  full_name: Charles S. Grob
+  family: Grob
+  given: Charles S.
+  lifespan: 1950–
+  nationality: American
+  fields:
+  - psychiatry
+  - psychedelics
+  wikidata: Q61734706
+  orcid: 0000-0002-4863-2942
+  aliases:
+    variants:
+    - Grob
+    - C. S.
+    misspellings: []
+  notable_works:
+  - walsh-2005-higher-wisdom
+  notes: Psychiatrist and researcher in psychedelic-assisted therapy; co-editor of
+    Higher Wisdom.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: wambach-helen
+  entity_type: person
+  full_name: Helen Wambach
+  family: Wambach
+  given: Helen
+  lifespan: 1925–1986
+  nationality: American
+  fields:
+  - psychology
+  - reincarnation
+  wikidata: Q5689237
+  orcid: 0000-0001-7384-0412
+  aliases:
+    variants:
+    - Wambach
+    - H.
+    misspellings: []
+  notable_works:
+  - wambach-1978-reliving-past-lives
+  - wambach-1979-life-before-life
+  notes: Psychologist and researcher conducting large-scale past-life regression studies.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: waters-frank
+  entity_type: person
+  full_name: Frank Waters
+  family: Waters
+  given: Frank
+  lifespan: 1902–1995
+  nationality: American
+  fields:
+  - anthropology
+  - spirituality
+  - indigenous-studies
+  wikidata: Q5480292
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - waters-1970-masked-gods
+  notes: Author focused on Native American spirituality and cosmology.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: watkins-john
+  entity_type: person
+  full_name: John G. Watkins
+  family: Watkins
+  given: John G.
+  lifespan: 1913–2012
+  nationality: American
+  fields:
+  - psychology
+  - hypnotherapy
+  wikidata: Q6262406
+  orcid: 0000-0001-5099-1023
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - watkins-1987-hypnotherapeutic-techniques
+  notes: Psychologist and pioneer of ego-state therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: weiss-brian
+  entity_type: person
+  full_name: Brian L. Weiss
+  family: Weiss
+  given: Brian L.
+  lifespan: 1944–
+  nationality: American
+  fields:
+  - psychiatry
+  - regression-therapy
+  wikidata: Q2960811
+  orcid: 0000-0003-1576-3556
+  aliases:
+    variants:
+    - Weiss
+    - B. L.
+    misspellings: []
+  notable_works:
+  - weiss-1996-many-lives-many-masters
+  notes: Psychiatrist and author of Many Lives, Many Masters (1996), a seminal book
+    on regression therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: whitton-joel
+  entity_type: person
+  full_name: Joel L. Whitton
+  family: Whitton
+  given: Joel L.
+  lifespan: null
+  nationality: Canadian
+  fields:
+  - psychiatry
+  - reincarnation-research
+  wikidata: null
+  orcid: 0000-0002-8043-9229
+  aliases:
+    variants:
+    - Whitton
+    - J.
+    misspellings: []
+  notable_works:
+  - whitton-1986-life-between-life
+  notes: Psychiatrist and co-author of Life Between Life (1986).
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: fisher-joe
+  entity_type: person
+  full_name: Joe Fisher
+  family: Fisher
+  given: Joe
+  lifespan: 1947–2001
+  nationality: Canadian
+  fields:
+  - journalism
+  - spirituality
+  wikidata: Q6239779
+  orcid: null
+  aliases:
+    variants:
+    - Fisher
+    - J.
+    misspellings: []
+  notable_works:
+  - whitton-1986-life-between-life
+  notes: Journalist and co-author of Life Between Life (1986) with Joel Whitton.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: wilber-ken
+  entity_type: person
+  full_name: Ken Wilber
+  family: Wilber
+  given: Ken
+  lifespan: 1949–
+  nationality: American
+  fields:
+  - philosophy
+  - transpersonal-psychology
+  - integral-theory
+  wikidata: Q650357
+  orcid: null
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - wilber-1980-atman-project
+  - wilber-1995-sex-ecology-spirituality
+  notes: Philosopher and founder of Integral Theory, bridging psychology, spirituality,
+    and systems thinking.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: woolger-roger
+  entity_type: person
+  full_name: Roger J. Woolger
+  family: Woolger
+  given: Roger J.
+  lifespan: 1944–2011
+  nationality: British
+  fields:
+  - psychotherapy
+  - regression-therapy
+  - spirituality
+  wikidata: Q7362709
+  orcid: 0000-0002-3071-0981
+  aliases:
+    variants:
+    - Woolger
+    - Roger
+    misspellings: []
+  notable_works:
+  - woolger-1988-other-lives-other-selves
+  notes: Psychotherapist and author integrating Jungian analysis and past-life regression
+    therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: zaehner-r-c
+  entity_type: person
+  full_name: R. C. Zaehner
+  family: Zaehner
+  given: R. C.
+  lifespan: 1913–1974
+  nationality: British
+  fields:
+  - comparative-religion
+  - mysticism
+  wikidata: Q305089
+  orcid: null
+  aliases:
+    variants:
+    - Zaehner
+    - Robert Charles
+    misspellings: []
+  notable_works:
+  - zaehner-1959-mysticism-sacred-and-profane
+  notes: Scholar of religion known for distinguishing sacred and profane mysticism.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: zinser-thomas
+  entity_type: person
+  full_name: Thomas Zinser
+  family: Zinser
+  given: Thomas
+  lifespan: null
+  nationality: American
+  fields:
+  - psychotherapy
+  - hypnosis
+  - spirituality
+  wikidata: null
+  orcid: 0000-0002-0199-8947
+  aliases:
+    variants: []
+    misspellings: []
+  notable_works:
+  - zinser-2011-soul-centered-healing
+  notes: Clinical psychologist and author of Soul-Centered Healing, integrating hypnosis
+    and spirit-based therapy.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29
+- id: scientific-american
+  entity_type: organization
+  full_name: Scientific American
+  family: null
+  given: null
+  lifespan: null
+  nationality: American
+  fields:
+  - science
+  - journalism
+  wikidata: Q188088
+  orcid: null
+  aliases:
+    variants:
+    - SciAm
+    misspellings: []
+  notable_works:
+  - scientific-american-2014-end-the-ban-on-psychoactive-drug-research
+  notes: Scientific magazine publishing editorials and research summaries; included
+    for citation completeness though not a person.
+  review_state: draft
+  curator: bibliography-team
+  created_at: 2025-10-29

@@ -1,3 +1,15 @@
+# topics.yaml
+# LSDMU Bibliography — Controlled Vocabulary for x-bache.topics
+# -------------------------------------------------------------
+# Each topic is:
+#   • kebab-case (lowercase, hyphens instead of spaces)
+#   • singular nouns unless conceptually plural (e.g., entheogens)
+#   • curated for conceptual, not taxonomic, grouping
+#
+# These terms are validated by validation/validate_registry.py.
+# Add new terms only when genuinely needed across multiple entries.
+
+$schema: "https://json-schema.org/draft/2020-12/schema"
 topics:
   - afterlife
   - afterlife-journeys
@@ -8,12 +20,13 @@ topics:
   - clinical
   - comparative-religion
   - contemplative-practice
+  - consciousness-studies
   - cosmology
   - culture
   - dmt
   - ecospirituality
-  - editorial
   - education
+  - editorial
   - entheogens
   - ethics
   - feminine-divine
@@ -22,6 +35,9 @@ topics:
   - mysticism
   - myth
   - nonduality
+  - participatory-spirituality
+  - perennialism
+  - perinatal
   - philosophy-of-mind
   - policy
   - psychedelic-research
@@ -32,6 +48,7 @@ topics:
   - religion
   - religion-and-culture
   - shamanism
+  - species-evolution
   - survival
   - transpersonal
   - vedic-philosophy
