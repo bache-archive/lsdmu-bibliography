@@ -1,13 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "CSL-ish Work (lenient pass)",
+  "title": "LSDMU Bibliography Entry (CSL-JSON + x-bache extension)",
   "type": "object",
   "additionalProperties": true,
   "required": [
     "id",
     "type",
     "title",
-    "issued"
+    "issued",
+    "x-bache"
   ],
   "definitions": {
     "name": {
@@ -65,11 +66,73 @@
       "required": [
         "date-parts"
       ]
+    },
+    "xbache": {
+      "type": "object",
+      "required": [
+        "namespace",
+        "citation_shorthand",
+        "topics",
+        "review_state",
+        "provenance"
+      ],
+      "properties": {
+        "namespace": {
+          "type": "string",
+          "enum": [
+            "bache"
+          ]
+        },
+        "citation_shorthand": {
+          "type": "string"
+        },
+        "topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "review_state": {
+          "type": "string",
+          "enum": [
+            "draft",
+            "steward-reviewed",
+            "ratified"
+          ]
+        },
+        "mentioned_in": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "provenance": {
+          "type": "object",
+          "properties": {
+            "entered_by": {
+              "type": "string"
+            },
+            "entered_at": {
+              "type": "string"
+            },
+            "notes": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "entered_by",
+            "entered_at"
+          ]
+        }
+      },
+      "additionalProperties": true
     }
   },
   "properties": {
     "id": {
-      "type": "string"
+      "type": "string",
+      "pattern": "^source:bache:LSDMU:bib:[a-z0-9\\-]+$"
     },
     "type": {
       "type": "string",
@@ -89,6 +152,9 @@
     "issued": {
       "$ref": "#/definitions/dateParts"
     },
+    "original-date": {
+      "$ref": "#/definitions/dateParts"
+    },
     "author": {
       "type": "array",
       "items": {
@@ -96,6 +162,18 @@
       }
     },
     "editor": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/name"
+      }
+    },
+    "interviewer": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/name"
+      }
+    },
+    "translator": {
       "type": "array",
       "items": {
         "$ref": "#/definitions/name"
@@ -128,20 +206,20 @@
     "page": {
       "type": "string"
     },
-    "URL": {
-      "type": "string"
-    },
     "DOI": {
       "type": "string"
     },
     "ISBN": {
       "type": "string"
     },
+    "URL": {
+      "type": "string"
+    },
     "language": {
       "type": "string"
     },
-    "source": {
-      "type": "string"
+    "x-bache": {
+      "$ref": "#/definitions/xbache"
     },
     "note": {
       "type": "string"
@@ -149,11 +227,16 @@
     "notes": {
       "type": "string"
     },
+    "source": {
+      "type": "string",
+      "$comment": "Deprecated — use x-bache.provenance.entered_by/entered_at instead."
+    },
     "topics": {
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "$comment": "Deprecated — use x-bache.topics instead."
     }
   }
 }

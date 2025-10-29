@@ -4,3 +4,4 @@ __pycache__/
 _manifests/
 .DS_Store
 _backups/
+citations/_cache/
