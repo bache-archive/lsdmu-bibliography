@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Trachsel",
+      "given": "Daniel"
+    }
+  ],
+  "id": "trachsel-2011-psychedelische-chemie",
+  "issued": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "language": "de",
+  "notes": "German-language reference text on psychedelic chemistry.",
+  "publisher": "Nachtschatten Verlag",
+  "publisher-place": "Solothurn, Switzerland",
+  "source": "LSDMU bibliography",
+  "title": "Psychedelische Chemie",
+  "topics": [
+    "psychedelics"
+  ],
+  "type": "book"
+}

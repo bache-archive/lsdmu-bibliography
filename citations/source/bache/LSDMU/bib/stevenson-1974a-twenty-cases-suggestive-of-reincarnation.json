@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:stevenson-1974a-twenty-cases-suggestive-of-reincarnation",
+  "type": "book",
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "title": "Twenty cases suggestive of reincarnation",
+  "edition": "2nd rev. ed.",
+  "issued": {
+    "date-parts": [
+      [
+        1974
+      ]
+    ]
+  },
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville, VA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Stevenson 1974a",
+    "topics": [
+      "reincarnation",
+      "afterlife"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

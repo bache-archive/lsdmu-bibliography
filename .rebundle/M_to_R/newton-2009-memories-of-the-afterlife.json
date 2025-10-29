@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Newton",
+      "given": "Michael"
+    }
+  ],
+  "id": "newton-2009-memories-of-the-afterlife",
+  "issued": {
+    "date-parts": [
+      [
+        2009
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Llewellyn",
+  "publisher-place": "St. Paul, Minn.",
+  "source": "LSDMU bibliography",
+  "title": "Memories of the Afterlife",
+  "topics": [
+    "afterlife",
+    "reincarnation",
+    "psychology"
+  ],
+  "type": "book"
+}

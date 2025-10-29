@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:bache-1985-reappraisal-teresa-avila-hysteria",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Bache",
+      "given": "Christopher"
+    }
+  ],
+  "title": "A reappraisal of Teresa of Avila’s supposed hysteria",
+  "container-title": "Journal of Religion and Health",
+  "issued": {
+    "date-parts": [
+      [
+        1985
+      ]
+    ]
+  },
+  "volume": "24",
+  "page": "21-30",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Bache 1985",
+    "topics": [
+      "mysticism",
+      "transpersonal-psychology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

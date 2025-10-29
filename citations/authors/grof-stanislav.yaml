@@ -1,13 +1,30 @@
 id: grof-stanislav
+entity_type: person
 full_name: Stanislav Grof
-aliases:
-- Grof, Stanislav
-lifespan: null
-nationality: null
+family: Grof
+given: Stanislav
+lifespan: 1931–2024
+nationality: Czech-American
 fields:
-- holotropic breathwork
-- psychedelic therapy
-- transpersonal psychology
-wikidata: Q233102
+- psychiatry
+- transpersonal-psychology
+wikidata: Q76122
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Grof
+  - S.
+  misspellings: []
+notable_works:
+- grof-1976-realms
+- grof-1980-lsd-psychotherapy
+- grof-1985-beyond-brain
+- grof-1988-adventure-self-discovery
+- grof-1998-cosmic-game
+- grof-2000-psychology-future
+- grof-2006-ultimate-journey
+notes: Psychiatrist and LSD pioneer; founder of transpersonal psychology and holotropic
+  breathwork.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

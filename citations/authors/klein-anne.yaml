@@ -1,10 +1,23 @@
 id: klein-anne
-full_name: Anne Klein
-aliases:
-- Klein, Anne
+entity_type: person
+full_name: Anne Carolyn Klein
+family: Klein
+given: Anne Carolyn
 lifespan: null
-nationality: null
-fields: []
-wikidata: null
+nationality: American
+fields:
+- buddhist-studies
+- philosophy
+wikidata: Q4745736
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Klein
+  - Anne
+  misspellings: []
+notable_works:
+- klein-1995-meeting-great-bliss-queen
+notes: Buddhist scholar and author of Meeting the Great Bliss Queen.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

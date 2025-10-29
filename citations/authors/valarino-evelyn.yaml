@@ -1,0 +1,23 @@
+id: valarino-evelyn
+entity_type: person
+full_name: Evelyn Valarino
+family: Valarino
+given: Evelyn
+lifespan: null
+nationality: Swiss
+fields:
+- psychology
+- near-death-studies
+wikidata: null
+orcid: null
+aliases:
+  variants:
+  - Valarino
+  - E.
+  misspellings: []
+notable_works:
+- ring-1998-lessons-from-the-light
+notes: Co-author with Kenneth Ring of Lessons from the Light (1998).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

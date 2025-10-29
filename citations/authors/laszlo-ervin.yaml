@@ -1,13 +1,27 @@
 id: laszlo-ervin
+entity_type: person
 full_name: Ervin Laszlo
-aliases:
-- Laszlo, Ervin
-lifespan: null
-nationality: null
+family: Laszlo
+given: Ervin
+lifespan: 1932–
+nationality: Hungarian
 fields:
-- cosmology
-- philosophy of science
-- systems science
-wikidata: Q452745
+- systems-theory
+- philosophy
+- consciousness-studies
+wikidata: Q303534
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - László
+  - Ervin
+  misspellings: []
+notable_works:
+- laszlo-1994-macroshift
+- laszlo-2004-science-and-akashic-field
+- laszlo-2017-intelligence-of-cosmos
+notes: Systems theorist and philosopher of science; developer of the Akashic Field
+  theory.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

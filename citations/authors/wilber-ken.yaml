@@ -1,12 +1,24 @@
 id: wilber-ken
+entity_type: person
 full_name: Ken Wilber
-aliases:
-- Wilber, Ken
-lifespan: null
-nationality: null
+family: Wilber
+given: Ken
+lifespan: 1949–
+nationality: American
 fields:
-- integral theory
-- transpersonal psychology
-wikidata: Q309829
+- philosophy
+- transpersonal-psychology
+- integral-theory
+wikidata: Q650357
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- wilber-1980-atman-project
+- wilber-1995-sex-ecology-spirituality
+notes: Philosopher and founder of Integral Theory, bridging psychology, spirituality,
+  and systems thinking.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

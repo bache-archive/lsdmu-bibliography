@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Huxley",
+      "given": "Aldous"
+    }
+  ],
+  "id": "huxley-1954-the-doors-of-perception",
+  "issued": {
+    "date-parts": [
+      [
+        1954
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Harper & Row",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "The Doors of Perception",
+  "topics": [
+    "psychedelics",
+    "mysticism",
+    "culture"
+  ],
+  "type": "book"
+}

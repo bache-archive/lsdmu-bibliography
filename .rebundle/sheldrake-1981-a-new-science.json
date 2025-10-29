@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Sheldrake",
+      "given": "Rupert"
+    }
+  ],
+  "id": "sheldrake-1981-a-new-science",
+  "issued": {
+    "date-parts": [
+      [
+        1981
+      ]
+    ]
+  },
+  "language": "en",
+  "notes": "Introduces the theory of morphic resonance.",
+  "publisher": "J. P. Tarcher",
+  "publisher-place": "Los Angeles",
+  "source": "LSDMU bibliography",
+  "title": "A New Science of Life",
+  "topics": [
+    "philosophy-of-mind"
+  ],
+  "type": "book"
+}

@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "St John",
+      "given": "Graham"
+    }
+  ],
+  "id": "st-john-2015-mystery-school-in-hyperspace",
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Evolver Editions",
+  "publisher-place": "Berkeley, CA",
+  "source": "LSDMU bibliography",
+  "title": "Mystery School in Hyperspace: A Cultural History of DMT",
+  "topics": [
+    "culture",
+    "dmt",
+    "psychedelics"
+  ],
+  "type": "book"
+}

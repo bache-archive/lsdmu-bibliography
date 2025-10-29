@@ -1,10 +1,22 @@
 id: waters-frank
+entity_type: person
 full_name: Frank Waters
-aliases:
-- Waters, Frank
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Waters
+given: Frank
+lifespan: 1902–1995
+nationality: American
+fields:
+- anthropology
+- spirituality
+- indigenous-studies
+wikidata: Q5480292
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- waters-1970-masked-gods
+notes: Author focused on Native American spirituality and cosmology.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

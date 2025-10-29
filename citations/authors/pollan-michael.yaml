@@ -1,13 +1,23 @@
 id: pollan-michael
+entity_type: person
 full_name: Michael Pollan
-aliases:
-- Pollan, Michael
-lifespan: null
-nationality: null
+family: Pollan
+given: Michael
+lifespan: 1955–
+nationality: American
 fields:
 - journalism
-- science writing
-- food studies
-wikidata: Q330560
+- psychedelics
+- food-studies
+wikidata: Q162154
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- pollan-2018-how-to-change-your-mind
+notes: Author and journalist; popularized modern psychedelic research through How
+  to Change Your Mind.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

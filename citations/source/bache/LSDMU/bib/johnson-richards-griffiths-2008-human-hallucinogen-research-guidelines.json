@@ -1,0 +1,45 @@
+{
+  "id": "source:bache:LSDMU:bib:johnson-richards-griffiths-2008-human-hallucinogen-research-guidelines",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Johnson",
+      "given": "Matthew"
+    },
+    {
+      "family": "Richards",
+      "given": "William"
+    },
+    {
+      "family": "Griffiths",
+      "given": "Roland"
+    }
+  ],
+  "title": "Human hallucinogen research: Guidelines for safety",
+  "container-title": "Journal of Psychopharmacology",
+  "issued": {
+    "date-parts": [
+      [
+        2008
+      ]
+    ]
+  },
+  "volume": "22",
+  "issue": "6",
+  "page": "603-20",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Johnson, Richards & Griffiths 2008",
+    "topics": [
+      "psychedelics",
+      "safety",
+      "therapy"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

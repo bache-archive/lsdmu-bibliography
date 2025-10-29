@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:bache-1981-emergence-perinatal-symptoms-buddhist-meditation",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Bache",
+      "given": "Christopher"
+    }
+  ],
+  "title": "On the emergence of perinatal symptoms in Buddhist meditation",
+  "container-title": "Journal for the Scientific Study of Religion",
+  "issued": {
+    "date-parts": [
+      [
+        1981
+      ]
+    ]
+  },
+  "volume": "20",
+  "page": "339-50",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Bache 1981",
+    "topics": [
+      "transpersonal-psychology",
+      "mysticism"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

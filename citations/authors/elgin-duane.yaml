@@ -1,12 +1,23 @@
 id: elgin-duane
+entity_type: person
 full_name: Duane Elgin
-aliases:
-- Elgin, Duane
-lifespan: null
-nationality: null
+family: Elgin
+given: Duane
+lifespan: 1940–
+nationality: American
 fields:
-- evolutionary consciousness
-- systems thinking
-wikidata: null
+- systems-theory
+- sustainability
+- spirituality
+wikidata: Q5312119
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- elgin-1993-awakening-earth
+- elgin-2001-promise-ahead
+notes: Author of Awakening Earth and advocate for conscious evolution.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

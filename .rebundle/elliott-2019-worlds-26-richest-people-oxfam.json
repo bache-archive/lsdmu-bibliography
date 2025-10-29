@@ -1,0 +1,28 @@
+{
+  "author": [
+    {
+      "family": "Elliott",
+      "given": "Larry"
+    }
+  ],
+  "container-title": "The Guardian",
+  "id": "elliott-2019-worlds-26-richest-people-oxfam",
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        20
+      ]
+    ]
+  },
+  "language": "en",
+  "notes": "News article; inequality context referenced in Bache’s discussions.",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "World’s 26 Richest People Own as much as Poorest 50%, Says Oxfam",
+  "topics": [
+    "policy",
+    "culture"
+  ],
+  "type": "webpage"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "source:bache:LSDMU:bib:blewett-chwelos-1959-handbook-therapeutic-use-lsd",
+  "type": "report",
+  "author": [
+    {
+      "family": "Blewett",
+      "given": "D. B."
+    },
+    {
+      "family": "Chwelos",
+      "given": "N."
+    }
+  ],
+  "title": "Handbook for the therapeutic use of lysergic acid diethylamide-25: Individual and group procedures",
+  "issued": {
+    "date-parts": [
+      [
+        1959
+      ]
+    ]
+  },
+  "original-date": {
+    "date-parts": [
+      [
+        2002
+      ]
+    ]
+  },
+  "publisher": "OCR edition by MAPS, edited by Erowid",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Blewett & Chwelos 1959/2002",
+    "topics": [
+      "lsd",
+      "therapy",
+      "protocol"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

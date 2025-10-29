@@ -1,0 +1,43 @@
+{
+  "id": "source:bache:LSDMU:bib:bache-2014-reflections-mystery-death-rebirth-lsd-therapy",
+  "type": "chapter",
+  "author": [
+    {
+      "family": "Bache",
+      "given": "Christopher"
+    }
+  ],
+  "title": "Reflections on the mystery of death and rebirth in LSD therapy",
+  "container-title": "Seeking the sacred with psychoactive substances, vol. 2",
+  "editor": [
+    {
+      "family": "Ellens",
+      "given": "J. Harold"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "page": "227-49",
+  "publisher": "Praeger",
+  "publisher-place": "Santa Barbara, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Bache 2014",
+    "topics": [
+      "lsd",
+      "mysticism",
+      "therapy"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

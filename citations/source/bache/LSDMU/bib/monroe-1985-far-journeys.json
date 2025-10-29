@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:monroe-1985-far-journeys",
+  "type": "book",
+  "author": [
+    {
+      "family": "Monroe",
+      "given": "Robert"
+    }
+  ],
+  "title": "Far journeys",
+  "issued": {
+    "date-parts": [
+      [
+        1985
+      ]
+    ]
+  },
+  "publisher": "Doubleday",
+  "publisher-place": "Garden City, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Monroe 1985",
+    "topics": [
+      "consciousness",
+      "afterlife"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "source:bache:LSDMU:bib:alverga-1999-forest-of-visions",
+  "type": "book",
+  "author": [
+    {
+      "family": "Alverga",
+      "given": "Alex Polari",
+      "non-dropping-particle": "de"
+    }
+  ],
+  "title": "Forest of visions",
+  "issued": {
+    "date-parts": [
+      [
+        1999
+      ]
+    ]
+  },
+  "publisher": "Park Street Press",
+  "publisher-place": "Rochester, VT",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Alverga 1999",
+    "topics": [
+      "ayahuasca",
+      "mysticism",
+      "participatory-spirituality"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

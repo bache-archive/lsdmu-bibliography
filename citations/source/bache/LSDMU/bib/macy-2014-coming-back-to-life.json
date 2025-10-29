@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:macy-2014-coming-back-to-life",
+  "type": "book",
+  "author": [
+    {
+      "family": "Macy",
+      "given": "Joanna"
+    }
+  ],
+  "title": "Coming back to life",
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "New Society Publishers",
+  "publisher-place": "Gabriola Island, BC",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Macy 2014",
+    "topics": [
+      "ecospirituality",
+      "activism"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,12 +1,23 @@
 id: hawken-paul
+entity_type: person
 full_name: Paul Hawken
-aliases:
-- Hawken, Paul
-lifespan: null
-nationality: null
+family: Hawken
+given: Paul
+lifespan: 1946–
+nationality: American
 fields:
 - environmentalism
+- business
 - sustainability
-wikidata: Q1442418
+wikidata: Q7130323
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- hawken-1993-ecology-of-commerce
+- hawken-2007-blessed-unrest
+notes: Environmentalist and author integrating business and ecology.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

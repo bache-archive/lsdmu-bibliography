@@ -1,12 +1,27 @@
 id: ferrer-jorge
-full_name: Jorge Ferrer
-aliases:
-- Ferrer, Jorge
-lifespan: null
-nationality: null
+entity_type: person
+full_name: Jorge N. Ferrer
+family: Ferrer
+given: Jorge N.
+lifespan: 1968–
+nationality: Spanish-American
 fields:
-- participatory theory
-- transpersonal studies
-wikidata: null
+- transpersonal-psychology
+- philosophy
+- spirituality
+wikidata: Q6276421
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Ferrer
+  - Jorge
+  misspellings: []
+notable_works:
+- ferrer-2002-revisioning-transpersonal-theory
+- ferrer-2011-participation-metaphysics-enlightenment
+- ferrer-2013-participation-and-spirit
+notes: Philosopher and transpersonal theorist; founder of participatory spirituality
+  framework.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

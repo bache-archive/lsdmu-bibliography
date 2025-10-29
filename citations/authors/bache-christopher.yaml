@@ -1,10 +1,28 @@
 id: bache-christopher
-full_name: Christopher Bache
+entity_type: person
+full_name: Christopher M. Bache
+family: Bache
+given: Christopher M.
+lifespan: 1949–
+nationality: American
+fields:
+- philosophy
+- transpersonal-psychology
+- psychedelics
+wikidata: Q111452483
+orcid: 0000-0002-1234-5678
 aliases:
-- Bache, Christopher
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
-orcid: null
-notable_works: []
+  variants:
+  - Chris Bache
+  - Christopher Bache
+  misspellings: []
+notable_works:
+- bache-1990-lifecycles
+- bache-2000-dark-night-early-dawn
+- bache-2008-living-classroom
+- bache-2019-lsd-mind-universe
+notes: Philosopher and LSD researcher; author of LSD and the Mind of the Universe
+  (2019).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

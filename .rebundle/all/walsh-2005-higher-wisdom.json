@@ -1,0 +1,29 @@
+{
+  "author": [
+    {
+      "family": "Walsh",
+      "given": "Roger"
+    },
+    {
+      "family": "Grob",
+      "given": "Charles"
+    }
+  ],
+  "id": "walsh-2005-higher-wisdom",
+  "issued": {
+    "date-parts": [
+      [
+        2005
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "source": "LSDMU bibliography",
+  "title": "Higher Wisdom",
+  "topics": [
+    "transpersonal"
+  ],
+  "type": "book"
+}

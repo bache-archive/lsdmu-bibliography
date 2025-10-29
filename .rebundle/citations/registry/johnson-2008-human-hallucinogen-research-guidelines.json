@@ -1,0 +1,37 @@
+{
+  "author": [
+    {
+      "family": "Johnson",
+      "given": "Matthew W."
+    },
+    {
+      "family": "Richards",
+      "given": "William A."
+    },
+    {
+      "family": "Griffiths",
+      "given": "Roland R."
+    }
+  ],
+  "container-title": "Journal of Psychopharmacology",
+  "id": "johnson-2008-human-hallucinogen-research-guidelines",
+  "issue": "6",
+  "issued": {
+    "date-parts": [
+      [
+        2008
+      ]
+    ]
+  },
+  "language": "en",
+  "page": "603–620",
+  "source": "LSDMU bibliography",
+  "title": "Human Hallucinogen Research: Guidelines for Safety",
+  "topics": [
+    "psychedelic-research",
+    "clinical",
+    "ethics"
+  ],
+  "type": "article-journal",
+  "volume": "22"
+}

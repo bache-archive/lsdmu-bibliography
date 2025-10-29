@@ -1,10 +1,23 @@
 id: berry-thomas
+entity_type: person
 full_name: Thomas Berry
-aliases:
-- Berry, Thomas
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Berry
+given: Thomas
+lifespan: 1914–2009
+nationality: American
+fields:
+- ecotheology
+- cosmology
+wikidata: Q779967
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- berry-1988-dream-of-the-earth
+- berry-1999-great-work
+notes: Cultural historian and eco-theologian, author of The Dream of the Earth (1988)
+  and The Great Work (1999).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,0 +1,41 @@
+{
+  "id": "source:bache:LSDMU:bib:underhill-1961-mysticism",
+  "type": "book",
+  "author": [
+    {
+      "family": "Underhill",
+      "given": "Evelyn"
+    }
+  ],
+  "title": "Mysticism",
+  "issued": {
+    "date-parts": [
+      [
+        1961
+      ]
+    ]
+  },
+  "original-date": {
+    "date-parts": [
+      [
+        1911
+      ]
+    ]
+  },
+  "publisher": "E. P. Dutton",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Underhill 1911/1961",
+    "topics": [
+      "mysticism",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "author": [
+    {
+      "family": "Forte",
+      "given": "Robert"
+    }
+  ],
+  "editor": [
+    {
+      "family": "Forte",
+      "given": "Robert"
+    }
+  ],
+  "id": "forte-1997-entheogens-and-the-future-of-religion",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Council on Spiritual Practices",
+  "publisher-place": "San Francisco",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "Entheogens and the Future of Religion",
+  "topics": [
+    "entheogens",
+    "religion"
+  ],
+  "type": "book"
+}

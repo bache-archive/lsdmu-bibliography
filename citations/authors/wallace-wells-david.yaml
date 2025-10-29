@@ -1,12 +1,23 @@
 id: wallace-wells-david
+entity_type: person
 full_name: David Wallace-Wells
-aliases:
-- Wallace-Wells, David
-lifespan: null
-nationality: null
+family: Wallace-Wells
+given: David
+lifespan: 1982–
+nationality: American
 fields:
 - journalism
-- climate change
-wikidata: Q61766571
+- climate-change
+wikidata: Q56249190
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Wallace Wells
+  - David
+  misspellings: []
+notable_works:
+- wallace-wells-2019-uninhabitable-earth
+notes: Journalist and author of The Uninhabitable Earth (2019) about climate catastrophe.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

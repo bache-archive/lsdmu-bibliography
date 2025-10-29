@@ -1,0 +1,21 @@
+id: leininger-andrea
+entity_type: person
+full_name: Andrea Leininger
+family: Leininger
+given: Andrea
+lifespan: null
+nationality: American
+fields:
+- memoir
+- reincarnation
+wikidata: null
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- leininger-2009-soul-survivor
+notes: Co-author with Bruce Leininger of Soul Survivor (2009).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

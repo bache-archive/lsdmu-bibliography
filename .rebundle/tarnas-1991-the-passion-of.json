@@ -1,0 +1,25 @@
+{
+  "author": [
+    {
+      "family": "Tarnas",
+      "given": "Richard"
+    }
+  ],
+  "id": "tarnas-1991-the-passion-of",
+  "issued": {
+    "date-parts": [
+      [
+        1991
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Harmony Books",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "The Passion of the Western Mind",
+  "topics": [
+    "culture"
+  ],
+  "type": "book"
+}

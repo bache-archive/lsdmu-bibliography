@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Eisenstein",
+      "given": "Charles"
+    }
+  ],
+  "id": "eisenstein-2007-the-ascent-of-humanity",
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Evolver Editions",
+  "publisher-place": "Berkeley, Calif.",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "The Ascent of Humanity",
+  "topics": [
+    "culture",
+    "ethics"
+  ],
+  "type": "book"
+}

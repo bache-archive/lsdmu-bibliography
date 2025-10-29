@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:smith-1964-do-drugs-have-religious-import",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Smith",
+      "given": "Huston"
+    }
+  ],
+  "title": "Do drugs have religious import?",
+  "container-title": "Journal of Philosophy",
+  "issued": {
+    "date-parts": [
+      [
+        1964
+      ]
+    ]
+  },
+  "volume": "61",
+  "page": "517-30",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Smith 1964",
+    "topics": [
+      "psychedelics",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

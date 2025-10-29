@@ -1,0 +1,36 @@
+{
+  "id": "source:bache:LSDMU:bib:bache-2015-death-rebirth-lsd-therapy-autobiographical-study",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Bache",
+      "given": "Christopher"
+    }
+  ],
+  "title": "Death and rebirth in LSD therapy: An autobiographical study",
+  "container-title": "Journal of Transpersonal Research",
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "volume": "7",
+  "issue": "1",
+  "page": "80-94",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Bache 2015",
+    "topics": [
+      "lsd",
+      "transpersonal-psychology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

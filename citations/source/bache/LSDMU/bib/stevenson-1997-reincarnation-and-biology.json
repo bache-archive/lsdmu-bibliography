@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:stevenson-1997-reincarnation-and-biology",
+  "type": "book",
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "title": "Reincarnation and biology",
+  "volume": "1-2",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville, VA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Stevenson 1997",
+    "topics": [
+      "reincarnation",
+      "biology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+id: paul-thomas
+entity_type: person
+full_name: Thomas Paul
+family: Paul
+given: Thomas
+lifespan: null
+nationality: American
+fields:
+- psychology
+- regression-therapy
+wikidata: null
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- netherton-1978-past-lives-therapy
+notes: Co-author of Past Lives Therapy with Morris Netherton (1978).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

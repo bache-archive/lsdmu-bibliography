@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Huxley",
+      "given": "Aldous"
+    }
+  ],
+  "id": "huxley-1977-moksha",
+  "issued": {
+    "date-parts": [
+      [
+        1977
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "J. P. Tarcher",
+  "publisher-place": "Los Angeles",
+  "source": "LSDMU bibliography",
+  "title": "Moksha",
+  "topics": [
+    "psychedelics",
+    "mysticism"
+  ],
+  "type": "book"
+}

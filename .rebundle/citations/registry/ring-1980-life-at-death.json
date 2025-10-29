@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Ring",
+      "given": "Kenneth"
+    }
+  ],
+  "id": "ring-1980-life-at-death",
+  "issued": {
+    "date-parts": [
+      [
+        1980
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Coward, McCann, and Geoghegan",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Life at Death",
+  "topics": [
+    "afterlife",
+    "psychology"
+  ],
+  "type": "book"
+}

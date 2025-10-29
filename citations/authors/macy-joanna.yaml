@@ -1,13 +1,23 @@
 id: macy-joanna
+entity_type: person
 full_name: Joanna Macy
-aliases:
-- Macy, Joanna
-lifespan: null
-nationality: null
+family: Macy
+given: Joanna
+lifespan: 1929–
+nationality: American
 fields:
-- systems theory
-- deep ecology
-- Buddhism
-wikidata: Q4964805
+- eco-philosophy
+- buddhism
+- systems-theory
+wikidata: Q1684917
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- macy-1991-world-as-lover
+- macy-2014-coming-back-to-life
+notes: Eco-philosopher integrating Buddhism, systems theory, and deep ecology.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:diamond-2005-collapse",
+  "type": "book",
+  "author": [
+    {
+      "family": "Diamond",
+      "given": "Jared"
+    }
+  ],
+  "title": "Collapse",
+  "issued": {
+    "date-parts": [
+      [
+        2005
+      ]
+    ]
+  },
+  "publisher": "Penguin",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Diamond 2005",
+    "topics": [
+      "ecology",
+      "future-studies"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

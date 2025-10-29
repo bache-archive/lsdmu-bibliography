@@ -1,10 +1,21 @@
 id: watkins-john
-full_name: John Watkins
-aliases:
-- Watkins, John
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+entity_type: person
+full_name: John G. Watkins
+family: Watkins
+given: John G.
+lifespan: 1913–2012
+nationality: American
+fields:
+- psychology
+- hypnotherapy
+wikidata: Q6262406
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- watkins-1987-hypnotherapeutic-techniques
+notes: Psychologist and pioneer of ego-state therapy.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

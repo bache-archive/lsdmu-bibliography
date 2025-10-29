@@ -1,13 +1,24 @@
 id: richards-william
-full_name: William Richards
-aliases:
-- Richards, William
-lifespan: null
-nationality: null
+entity_type: person
+full_name: William A. Richards
+family: Richards
+given: William A.
+lifespan: 1940–
+nationality: American
 fields:
-- clinical psychology
-- psychedelic therapy
+- psychedelic-therapy
 - psychology
-wikidata: null
+wikidata: Q7934677
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Richards
+  - W. A.
+  misspellings: []
+notable_works:
+- richards-2016-sacred-knowledge
+- pahnke-1966-implications-lsd-experimental-mysticism
+notes: Johns Hopkins researcher in psychedelic therapy and religious experience.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

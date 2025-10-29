@@ -1,0 +1,21 @@
+id: sherman-justin
+entity_type: person
+full_name: Justin Sherman
+family: Sherman
+given: Justin
+lifespan: null
+nationality: American
+fields:
+- psychology
+- editor
+wikidata: null
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- ferrer-2008-participatory-turn
+notes: Co-editor with Jorge Ferrer of The Participatory Turn (2008).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

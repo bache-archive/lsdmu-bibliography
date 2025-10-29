@@ -1,0 +1,25 @@
+{
+  "author": [
+    {
+      "family": "Diamond",
+      "given": "Jared"
+    }
+  ],
+  "id": "diamond-2005-collapse",
+  "issued": {
+    "date-parts": [
+      [
+        2005
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Penguin",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "Collapse",
+  "topics": [
+    "culture"
+  ],
+  "type": "book"
+}

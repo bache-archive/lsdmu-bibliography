@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:havens-1964-memo-religious-implications-consciousness-changing-drugs",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Havens",
+      "given": "Joseph"
+    }
+  ],
+  "title": "Memo on the religious implications of consciousness changing drugs",
+  "container-title": "Journal for the Scientific Study of Religion",
+  "issued": {
+    "date-parts": [
+      [
+        1964
+      ]
+    ]
+  },
+  "volume": "3",
+  "page": "216-26",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Havens 1964",
+    "topics": [
+      "psychedelics",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

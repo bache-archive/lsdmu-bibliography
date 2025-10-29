@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Stace",
+      "given": "Walter"
+    }
+  ],
+  "id": "stace-1960-mysticism-and-philosophy",
+  "issued": {
+    "date-parts": [
+      [
+        1960
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Macmillan Press",
+  "publisher-place": "London",
+  "source": "LSDMU bibliography",
+  "title": "Mysticism and Philosophy",
+  "topics": [
+    "mysticism",
+    "comparative-religion"
+  ],
+  "type": "book"
+}

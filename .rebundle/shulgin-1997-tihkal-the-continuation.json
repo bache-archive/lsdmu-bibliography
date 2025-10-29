@@ -1,0 +1,30 @@
+{
+  "author": [
+    {
+      "family": "Shulgin",
+      "given": "Alexander"
+    },
+    {
+      "family": "Shulgin",
+      "given": "Ann"
+    }
+  ],
+  "id": "shulgin-1997-tihkal-the-continuation",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "language": "en",
+  "notes": "Tryptamine synthesis, bioassays, and narrative.",
+  "publisher": "Transform Press",
+  "publisher-place": "Berkeley, CA",
+  "source": "LSDMU bibliography",
+  "title": "TIHKAL — The Continuation",
+  "topics": [
+    "psychedelics"
+  ],
+  "type": "book"
+}

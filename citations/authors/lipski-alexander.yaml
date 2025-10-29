@@ -1,12 +1,21 @@
 id: lipski-alexander
+entity_type: person
 full_name: Alexander Lipski
-aliases:
-- Lipski, Alexander
-lifespan: null
-nationality: null
+family: Lipski
+given: Alexander
+lifespan: 1913–2009
+nationality: Polish-American
 fields:
-- Hinduism
-- saints of India
-wikidata: null
+- religious-studies
+- indian-philosophy
+wikidata: Q4713212
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- lipski-2007-essential-sri-anandamayi-ma
+notes: Scholar of Indian philosophy and editor of The Essential Śrī Ānandamayī Mā.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

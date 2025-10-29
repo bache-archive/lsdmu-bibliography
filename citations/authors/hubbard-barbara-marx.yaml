@@ -1,10 +1,24 @@
 id: hubbard-barbara-marx
+entity_type: person
 full_name: Barbara Marx Hubbard
-aliases:
-- Hubbard, Barbara Marx
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Hubbard
+given: Barbara Marx
+lifespan: 1929–2019
+nationality: American
+fields:
+- conscious-evolution
+- spirituality
+wikidata: Q485634
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Hubbard
+  - Barbara M.
+  misspellings: []
+notable_works:
+- hubbard-1998-conscious-evolution
+- hubbard-2001-emergence
+notes: Futurist and visionary known for the concept of conscious evolution.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

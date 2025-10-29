@@ -1,0 +1,41 @@
+{
+  "id": "source:bache:LSDMU:bib:jung-1989-memories-dreams-reflections",
+  "type": "book",
+  "author": [
+    {
+      "family": "Jung",
+      "given": "Carl G."
+    }
+  ],
+  "title": "Memories, dreams, reflections",
+  "issued": {
+    "date-parts": [
+      [
+        1989
+      ]
+    ]
+  },
+  "original-date": {
+    "date-parts": [
+      [
+        1961
+      ]
+    ]
+  },
+  "publisher": "Vintage Books",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Jung 1961/1989",
+    "topics": [
+      "psychology",
+      "mysticism"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

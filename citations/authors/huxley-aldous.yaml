@@ -1,13 +1,23 @@
 id: huxley-aldous
+entity_type: person
 full_name: Aldous Huxley
-aliases:
-- Huxley, Aldous
-lifespan: null
-nationality: null
+family: Huxley
+given: Aldous
+lifespan: 1894–1963
+nationality: British
 fields:
 - literature
 - philosophy
-- psychedelics & culture
-wikidata: Q81447
+- psychedelics
+wikidata: Q44432
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- huxley-1954-doors-of-perception
+- huxley-1977-moksha
+notes: Novelist and philosopher whose writings on psychedelics shaped Western mysticism.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

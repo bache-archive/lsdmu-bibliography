@@ -1,0 +1,21 @@
+id: forte-robert
+entity_type: person
+full_name: Robert Forte
+family: Forte
+given: Robert
+lifespan: null
+nationality: American
+fields:
+- psychedelics
+- editor
+wikidata: Q123270290
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- forte-1997-entheogens-future-of-religion
+notes: Psychedelic historian and editor of Entheogens and the Future of Religion (1997).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

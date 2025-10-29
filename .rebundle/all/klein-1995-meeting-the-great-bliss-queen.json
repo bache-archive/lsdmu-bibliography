@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Klein",
+      "given": "Anne"
+    }
+  ],
+  "id": "klein-1995-meeting-the-great-bliss-queen",
+  "issued": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Beacon Press",
+  "publisher-place": "Boston",
+  "source": "LSDMU bibliography",
+  "title": "Meeting the Great Bliss Queen",
+  "topics": [
+    "buddhism",
+    "comparative-religion",
+    "mysticism"
+  ],
+  "type": "book"
+}

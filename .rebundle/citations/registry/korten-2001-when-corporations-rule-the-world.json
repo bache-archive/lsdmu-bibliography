@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Korten",
+      "given": "David"
+    }
+  ],
+  "id": "korten-2001-when-corporations-rule-the-world",
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Berrett-Koehler",
+  "publisher-place": "San Francisco",
+  "source": "LSDMU bibliography",
+  "title": "When Corporations Rule the World",
+  "topics": [
+    "policy",
+    "ecospirituality",
+    "culture"
+  ],
+  "type": "book"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "source:bache:LSDMU:bib:meadows-1992-beyond-the-limits",
+  "type": "book",
+  "author": [
+    {
+      "family": "Meadows",
+      "given": "Donella"
+    },
+    {
+      "family": "Meadows",
+      "given": "Dennis"
+    },
+    {
+      "family": "Randers",
+      "given": "Jorgen"
+    }
+  ],
+  "title": "Beyond the limits",
+  "issued": {
+    "date-parts": [
+      [
+        1992
+      ]
+    ]
+  },
+  "publisher": "Chelsea Green Publishing",
+  "publisher-place": "White River Junction, VT",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Meadows et al. 1992",
+    "topics": [
+      "ecology",
+      "systems-theory"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,10 +1,23 @@
 id: smith-huston
+entity_type: person
 full_name: Huston Smith
-aliases:
-- Smith, Huston
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Smith
+given: Huston
+lifespan: 1919–2016
+nationality: American
+fields:
+- religious-studies
+- comparative-religion
+wikidata: Q1636676
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- smith-1964-do-drugs-have-religious-import
+- smith-2000-cleansing-doors-of-perception
+notes: Philosopher of religion and scholar; explored psychedelics and mysticism in
+  comparative context.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

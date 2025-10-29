@@ -1,10 +1,21 @@
 id: almeder-robert
+entity_type: person
 full_name: Robert Almeder
-aliases:
-- Almeder, Robert
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Almeder
+given: Robert
+lifespan: 1939–2022
+nationality: American
+fields:
+- philosophy
+- philosophy-of-mind
+wikidata: Q7346273
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- almeder-1992-death-and-personal-survival
+notes: Philosopher noted for works on personal identity and reincarnation.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

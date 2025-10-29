@@ -1,9 +1,26 @@
 id: shulgin-alexander
-full_name: Alexander "Sasha" Shulgin
+entity_type: person
+full_name: Alexander Shulgin
+family: Shulgin
+given: Alexander
 lifespan: 1925–2014
 nationality: American
-fields: [psychedelic chemistry, psychopharmacology]
-identifiers:
-  orcid: null
-  wikidata: Q170068
-notes: "Chemist; author of PIHKAL/TIHKAL."
+fields:
+- chemistry
+- pharmacology
+- psychedelics
+wikidata: Q1366178
+orcid: null
+aliases:
+  variants:
+  - Shulgin
+  - Sasha
+  misspellings: []
+notable_works:
+- shulgin-1991-pihkal
+- shulgin-1997-tihkal
+notes: Chemist who synthesized and catalogued hundreds of psychoactive compounds;
+  co-author of PIHKAL and TIHKAL.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,0 +1,28 @@
+{
+  "author": [
+    {
+      "family": "Grof",
+      "given": "Stanislav"
+    }
+  ],
+  "id": "grof-2000-psychology-of-the-future",
+  "issued": {
+    "date-parts": [
+      [
+        2000
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "source": "LSDMU bibliography",
+  "title": "Psychology of the Future",
+  "topics": [
+    "psychedelic-research",
+    "lsd",
+    "transpersonal",
+    "psychology"
+  ],
+  "type": "book"
+}
