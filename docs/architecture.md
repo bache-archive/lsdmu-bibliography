@@ -2,7 +2,7 @@
 
 **Repository:** bache-archive/lsdmu-bibliography  
 **Version:** 1.0  
-**Maintained by:** Bache Archive Stewardship Team
+**Maintained by:** Bache Archive Project
 
 ---
 

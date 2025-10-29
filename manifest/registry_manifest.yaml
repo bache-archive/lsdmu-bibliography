@@ -26,7 +26,7 @@ validation:
   schema_version: "2025.10"
   checksum_manifest: "checksums/RELEASE-v1.0.sha256"
   changelog: "citations/author_fields_changelog.csv"
-  validated_by: "Bache Archive Stewardship Team"
+  validated_by: "Bache Archive Project"
 
 source_work:
   title: "LSD and the Mind of the Universe"
