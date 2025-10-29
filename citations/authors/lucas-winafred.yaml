@@ -1,10 +1,23 @@
 id: lucas-winafred
+entity_type: person
 full_name: Winafred Lucas
-aliases:
-- Lucas, Winafred
-lifespan: null
-nationality: null
-fields: []
+family: Lucas
+given: Winafred
+lifespan: 1920–2002
+nationality: American
+fields:
+- psychology
+- regression-therapy
 wikidata: null
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Lucas
+  - Winafred B.
+  misspellings: []
+notable_works:
+- lucas-1993-regression-therapy
+notes: Psychologist and editor of Regression Therapy volumes I & II.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

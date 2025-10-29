@@ -1,0 +1,26 @@
+{
+  "editor": [
+    {
+      "family": "Badiner",
+      "given": "Allen"
+    },
+    {
+      "family": "Grey",
+      "given": "Alex"
+    }
+  ],
+  "id": "badiner-2002-zig-zag-zen",
+  "issued": {
+    "date-parts": [
+      [
+        2002
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Chronicle Books",
+  "publisher-place": "San Francisco",
+  "source": "LSDMU bibliography (reconstructed from reference list)",
+  "title": "Zig Zag Zen",
+  "type": "book"
+}

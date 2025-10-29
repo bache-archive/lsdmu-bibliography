@@ -1,0 +1,23 @@
+id: fisher-joe
+entity_type: person
+full_name: Joe Fisher
+family: Fisher
+given: Joe
+lifespan: 1947–2001
+nationality: Canadian
+fields:
+- journalism
+- spirituality
+wikidata: Q6239779
+orcid: null
+aliases:
+  variants:
+  - Fisher
+  - J.
+  misspellings: []
+notable_works:
+- whitton-1986-life-between-life
+notes: Journalist and co-author of Life Between Life (1986) with Joel Whitton.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,0 +1,36 @@
+{
+  "id": "source:bache:LSDMU:bib:ferrer-2013-participation-and-spirit-interview",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Ferrer",
+      "given": "Jorge"
+    }
+  ],
+  "title": "Participation and spirit: An interview with Jorge N. Ferrer",
+  "container-title": "Journal of Transpersonal Research",
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "volume": "5",
+  "issue": "2",
+  "page": "97-111",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Ferrer 2013",
+    "topics": [
+      "participatory-spirituality",
+      "transpersonal-psychology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

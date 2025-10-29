@@ -1,10 +1,21 @@
 id: fiore-edith
+entity_type: person
 full_name: Edith Fiore
-aliases:
-- Fiore, Edith
+family: Fiore
+given: Edith
 lifespan: null
-nationality: null
-fields: []
+nationality: American
+fields:
+- hypnotherapy
+- regression-therapy
 wikidata: null
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- fiore-1978-you-have-been-here-before
+notes: Psychologist and pioneer in past-life regression therapy.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

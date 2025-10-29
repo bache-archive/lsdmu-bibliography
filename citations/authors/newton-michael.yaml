@@ -1,10 +1,23 @@
 id: newton-michael
+entity_type: person
 full_name: Michael Newton
-aliases:
-- Newton, Michael
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Newton
+given: Michael
+lifespan: 1931–2016
+nationality: American
+fields:
+- hypnotherapy
+- afterlife-research
+wikidata: Q6841235
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- newton-1995-journey-of-souls
+- newton-2000-destiny-of-souls
+- newton-2009-memories-of-afterlife
+notes: Hypnotherapist and author of influential afterlife regression books.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

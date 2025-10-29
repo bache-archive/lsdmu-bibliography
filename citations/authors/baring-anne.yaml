@@ -1,12 +1,22 @@
 id: baring-anne
+entity_type: person
 full_name: Anne Baring
-aliases:
-- Baring, Anne
-lifespan: null
-nationality: null
+family: Baring
+given: Anne
+lifespan: 1931–
+nationality: British
 fields:
-- divine feminine
 - mythology
-wikidata: Q17333608
+- spirituality
+wikidata: Q4755566
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- baring-2013-dream-of-the-cosmos
+notes: Author of The Dream of the Cosmos (2013), exploring the re-sacralization of
+  the feminine.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

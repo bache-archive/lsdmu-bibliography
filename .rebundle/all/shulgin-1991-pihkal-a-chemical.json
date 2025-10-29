@@ -1,0 +1,30 @@
+{
+  "author": [
+    {
+      "family": "Shulgin",
+      "given": "Alexander"
+    },
+    {
+      "family": "Shulgin",
+      "given": "Ann"
+    }
+  ],
+  "id": "shulgin-1991-pihkal-a-chemical",
+  "issued": {
+    "date-parts": [
+      [
+        1991
+      ]
+    ]
+  },
+  "language": "en",
+  "notes": "Phenethylamine synthesis, bioassays, and narrative.",
+  "publisher": "Transform Press",
+  "publisher-place": "Berkeley, CA",
+  "source": "LSDMU bibliography",
+  "title": "PIHKAL — A Chemical Love Story",
+  "topics": [
+    "psychedelics"
+  ],
+  "type": "book"
+}

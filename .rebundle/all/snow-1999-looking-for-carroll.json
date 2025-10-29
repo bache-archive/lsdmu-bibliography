@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Snow",
+      "given": "Robert"
+    }
+  ],
+  "id": "snow-1999-looking-for-carroll",
+  "issued": {
+    "date-parts": [
+      [
+        1999
+      ]
+    ]
+  },
+  "language": "en",
+  "notes": "Police captain’s case study often cited in reincarnation literature.",
+  "publisher": "Daybreak Books",
+  "publisher-place": "Emmaus, PA",
+  "source": "LSDMU bibliography",
+  "title": "Looking for Carroll Beckwith",
+  "topics": [
+    "reincarnation"
+  ],
+  "type": "book"
+}

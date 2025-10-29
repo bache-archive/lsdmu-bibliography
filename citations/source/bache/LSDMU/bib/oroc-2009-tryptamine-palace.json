@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:oroc-2009-tryptamine-palace",
+  "type": "book",
+  "author": [
+    {
+      "family": "Oroc",
+      "given": "James"
+    }
+  ],
+  "title": "Tryptamine palace",
+  "issued": {
+    "date-parts": [
+      [
+        2009
+      ]
+    ]
+  },
+  "publisher": "Park Street Press",
+  "publisher-place": "Rochester, VT",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Oroc 2009",
+    "topics": [
+      "psychedelics",
+      "mysticism"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

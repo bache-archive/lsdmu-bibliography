@@ -1,10 +1,22 @@
 id: houston-jean
+entity_type: person
 full_name: Jean Houston
-aliases:
-- Houston, Jean
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Houston
+given: Jean
+lifespan: 1937–
+nationality: American
+fields:
+- psychology
+- human-potential
+- spirituality
+wikidata: Q3161388
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- houston-2004-jump-time
+notes: Pioneer in the human potential movement; author of Jump Time (2004).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

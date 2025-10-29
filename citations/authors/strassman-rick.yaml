@@ -1,12 +1,24 @@
 id: strassman-rick
+entity_type: person
 full_name: Rick Strassman
-aliases:
-- Strassman, Rick
-lifespan: null
-nationality: null
+family: Strassman
+given: Rick
+lifespan: 1952–
+nationality: American
 fields:
 - psychiatry
-- DMT research
-wikidata: Q4354666
+- psychedelics
+wikidata: Q2206246
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Strassman
+  - R.
+  misspellings: []
+notable_works:
+- strassman-2001-dmt-spirit-molecule
+notes: Psychiatrist who conducted groundbreaking clinical DMT studies; author of The
+  Spirit Molecule.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

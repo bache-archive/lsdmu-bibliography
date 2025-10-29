@@ -1,0 +1,36 @@
+{
+  "author": [
+    {
+      "family": "Ferrer",
+      "given": "Jorge"
+    }
+  ],
+  "editor": [
+    {
+      "family": "Ferrer",
+      "given": "Jorge"
+    },
+    {
+      "family": "Sherman",
+      "given": "Justin"
+    }
+  ],
+  "id": "ferrer-2008-the-participatory-turn",
+  "issued": {
+    "date-parts": [
+      [
+        2008
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "The Participatory Turn",
+  "topics": [
+    "transpersonal",
+    "religion"
+  ],
+  "type": "book"
+}

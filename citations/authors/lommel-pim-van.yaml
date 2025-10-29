@@ -1,12 +1,23 @@
 id: lommel-pim-van
+entity_type: person
 full_name: Pim van Lommel
-aliases:
-- Lommel, Pim van
-lifespan: null
-nationality: null
+family: van Lommel
+given: Pim
+lifespan: 1943–
+nationality: Dutch
 fields:
 - cardiology
-- near-death studies
-wikidata: Q1017727
+- near-death-studies
+wikidata: Q578401
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Lommel
+  - Pim van
+  misspellings: []
+notable_works:
+- lommel-2010-consciousness-beyond-life
+notes: Cardiologist and researcher known for work on near-death experiences.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:nicol-2015-subtle-activism",
+  "type": "book",
+  "author": [
+    {
+      "family": "Nicol",
+      "given": "David"
+    }
+  ],
+  "title": "Subtle activism",
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Nicol 2015",
+    "topics": [
+      "consciousness",
+      "activism"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

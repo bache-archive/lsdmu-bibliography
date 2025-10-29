@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Pollan",
+      "given": "Michael"
+    }
+  ],
+  "id": "pollan-2018-how-to-change-your-mind",
+  "issued": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Penguin Press",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "How to Change Your Mind",
+  "topics": [
+    "psychedelics",
+    "culture"
+  ],
+  "type": "book"
+}

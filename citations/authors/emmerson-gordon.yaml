@@ -1,12 +1,21 @@
 id: emmerson-gordon
+entity_type: person
 full_name: Gordon Emmerson
-aliases:
-- Emmerson, Gordon
+family: Emmerson
+given: Gordon
 lifespan: null
-nationality: null
+nationality: Australian
 fields:
-- ego state therapy
-- psychotherapy
+- psychology
+- ego-state-therapy
 wikidata: null
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- emmerson-2007-ego-state-therapy
+notes: Psychologist known for Ego State Therapy methodology.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

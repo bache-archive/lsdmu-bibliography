@@ -1,9 +1,22 @@
 id: shulgin-ann
+entity_type: person
 full_name: Ann Shulgin
+family: Shulgin
+given: Ann
 lifespan: 1931–2022
 nationality: American
-fields: [psychedelic therapy, memoir]
-identifiers:
-  orcid: null
-  wikidata: Q4759145
-notes: "Co-author of TIHKAL; partner and collaborator of Alexander Shulgin."
+fields:
+- psychotherapy
+- psychedelics
+wikidata: Q972881
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- shulgin-1991-pihkal
+- shulgin-1997-tihkal
+notes: Psychotherapist and co-author of PIHKAL and TIHKAL with Alexander Shulgin.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

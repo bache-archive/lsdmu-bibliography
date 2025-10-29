@@ -1,0 +1,22 @@
+id: johnson-m
+entity_type: person
+full_name: M. Johnson
+family: Johnson
+given: M.
+lifespan: null
+nationality: American
+fields:
+- psychopharmacology
+- psychedelics
+wikidata: null
+orcid: null
+aliases:
+  variants:
+  - Matthew W. Johnson
+  misspellings: []
+notable_works:
+- johnson-2008-human-hallucinogen-research-guidelines
+notes: Co-author of Johns Hopkins guidelines for human hallucinogen research.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

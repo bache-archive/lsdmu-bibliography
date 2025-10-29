@@ -1,0 +1,31 @@
+{
+  "author": [
+    {
+      "family": "Pahnke",
+      "given": "Walter"
+    },
+    {
+      "family": "Richards",
+      "given": "William"
+    }
+  ],
+  "container-title": "Journal of Religion and Health",
+  "id": "pahnke-1966-implications-of-lsd-and-experimental-mysticism",
+  "issued": {
+    "date-parts": [
+      [
+        1966
+      ]
+    ]
+  },
+  "language": "en",
+  "page": "175–208",
+  "source": "LSDMU bibliography",
+  "title": "Implications of LSD and Experimental Mysticism",
+  "topics": [
+    "psychedelic-research",
+    "mysticism"
+  ],
+  "type": "article-journal",
+  "volume": "5"
+}

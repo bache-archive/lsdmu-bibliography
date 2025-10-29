@@ -1,0 +1,30 @@
+{
+  "author": [
+    {
+      "family": "Ring",
+      "given": "Kenneth"
+    },
+    {
+      "family": "Valarino",
+      "given": "Evelyn"
+    }
+  ],
+  "id": "ring-1998-lessons-from-the-light",
+  "issued": {
+    "date-parts": [
+      [
+        1998
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Moment Point Press",
+  "publisher-place": "Needham, Mass.",
+  "source": "LSDMU bibliography",
+  "title": "Lessons from the Light",
+  "topics": [
+    "afterlife",
+    "psychology"
+  ],
+  "type": "book"
+}

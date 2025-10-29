@@ -1,12 +1,21 @@
 id: harvey-andrew
+entity_type: person
 full_name: Andrew Harvey
-aliases:
-- Harvey, Andrew
-lifespan: null
-nationality: null
+family: Harvey
+given: Andrew
+lifespan: 1952–
+nationality: British
 fields:
+- spirituality
 - mysticism
-- sacred activism
-wikidata: Q4757251
+wikidata: Q4758321
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- harvey-2005-servant-of-transformed-future
+notes: Mystic and author focusing on sacred activism and divine love traditions.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

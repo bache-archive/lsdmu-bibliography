@@ -1,12 +1,24 @@
 id: wambach-helen
+entity_type: person
 full_name: Helen Wambach
-aliases:
-- Wambach, Helen
-lifespan: null
-nationality: null
+family: Wambach
+given: Helen
+lifespan: 1925–1986
+nationality: American
 fields:
-- hypnosis
-- past-life regression
-wikidata: null
+- psychology
+- reincarnation
+wikidata: Q5689237
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Wambach
+  - H.
+  misspellings: []
+notable_works:
+- wambach-1978-reliving-past-lives
+- wambach-1979-life-before-life
+notes: Psychologist and researcher conducting large-scale past-life regression studies.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

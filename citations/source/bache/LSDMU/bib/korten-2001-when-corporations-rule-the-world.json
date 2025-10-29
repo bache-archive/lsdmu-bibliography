@@ -1,0 +1,42 @@
+{
+  "id": "source:bache:LSDMU:bib:korten-2001-when-corporations-rule-the-world",
+  "type": "book",
+  "author": [
+    {
+      "family": "Korten",
+      "given": "David"
+    }
+  ],
+  "title": "When corporations rule the world",
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "original-date": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "publisher": "Berrett-Koehler",
+  "publisher-place": "San Francisco, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Korten 1995/2001",
+    "topics": [
+      "economics",
+      "ethics",
+      "future-studies"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

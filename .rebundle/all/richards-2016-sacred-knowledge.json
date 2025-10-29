@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Richards",
+      "given": "William"
+    }
+  ],
+  "id": "richards-2016-sacred-knowledge",
+  "issued": {
+    "date-parts": [
+      [
+        2016
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Columbia University Press",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Sacred Knowledge",
+  "topics": [
+    "psychedelic-research",
+    "religion"
+  ],
+  "type": "book"
+}

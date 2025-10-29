@@ -1,0 +1,22 @@
+id: trachsel-daniel
+entity_type: person
+full_name: Daniel Trachsel
+family: Trachsel
+given: Daniel
+lifespan: null
+nationality: Swiss
+fields:
+- chemistry
+- psychedelics
+wikidata: null
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- trachsel-2011-psychedelische-chemie
+notes: Chemist and author specializing in psychedelic chemistry; co-editor of Nachtschatten
+  publications.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

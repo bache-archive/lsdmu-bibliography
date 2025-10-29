@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "James",
+      "given": "William"
+    }
+  ],
+  "id": "james-2002-the-varieties-of-religious-experience",
+  "issued": {
+    "date-parts": [
+      [
+        2002
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Routledge",
+  "publisher-place": "London",
+  "source": "LSDMU bibliography",
+  "title": "The Varieties of Religious Experience",
+  "topics": [
+    "psychology",
+    "mysticism",
+    "religion"
+  ],
+  "type": "book"
+}

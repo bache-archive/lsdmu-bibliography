@@ -1,0 +1,35 @@
+{
+  "author": [
+    {
+      "family": "Meadows",
+      "given": "Donella"
+    },
+    {
+      "family": "Meadows",
+      "given": "Dennis"
+    },
+    {
+      "family": "Randers",
+      "given": "Jorgen"
+    }
+  ],
+  "id": "meadows-2004-limits-to-growth",
+  "issued": {
+    "date-parts": [
+      [
+        2004
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Chelsea Green Publishing",
+  "publisher-place": "White River Junction, Vt.",
+  "source": "LSDMU bibliography",
+  "title": "Limits to Growth",
+  "topics": [
+    "policy",
+    "ecospirituality",
+    "culture"
+  ],
+  "type": "book"
+}

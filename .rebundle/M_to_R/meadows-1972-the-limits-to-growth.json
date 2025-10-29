@@ -1,0 +1,35 @@
+{
+  "author": [
+    {
+      "family": "Meadows",
+      "given": "Donella"
+    },
+    {
+      "family": "Meadows",
+      "given": "Dennis"
+    },
+    {
+      "family": "Randers",
+      "given": "Jorgen"
+    }
+  ],
+  "id": "meadows-1972-the-limits-to-growth",
+  "issued": {
+    "date-parts": [
+      [
+        1972
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Universe Books",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "The Limits to Growth",
+  "topics": [
+    "policy",
+    "ecospirituality",
+    "culture"
+  ],
+  "type": "book"
+}

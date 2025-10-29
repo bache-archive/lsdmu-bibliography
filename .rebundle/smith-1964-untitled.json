@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Smith",
+      "given": "Huston"
+    }
+  ],
+  "container-title": "Journal of Philosophy",
+  "id": "smith-1964-untitled",
+  "issued": {
+    "date-parts": [
+      [
+        1964
+      ]
+    ]
+  },
+  "language": "en",
+  "page": "517–530",
+  "source": "LSDMU bibliography",
+  "title": "Do Drugs Have Religious Import?",
+  "topics": [
+    "religion",
+    "mysticism"
+  ],
+  "type": "article-journal"
+}

@@ -1,0 +1,23 @@
+id: dalai-lama
+entity_type: person
+full_name: His Holiness the Dalai Lama
+family: Dalai Lama
+given: null
+lifespan: 1935–
+nationality: Tibetan
+fields:
+- spirituality
+- buddhism
+wikidata: Q8409
+orcid: null
+aliases:
+  variants:
+  - Tenzin Gyatso
+  - 14th Dalai Lama
+  misspellings: []
+notable_works:
+- dalai-lama-2005-universe-in-a-single-atom
+notes: Tibetan spiritual leader and author of The Universe in a Single Atom (2005).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

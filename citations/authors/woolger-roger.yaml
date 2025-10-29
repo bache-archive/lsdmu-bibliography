@@ -1,10 +1,25 @@
 id: woolger-roger
-full_name: Roger Woolger
-aliases:
-- Woolger, Roger
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+entity_type: person
+full_name: Roger J. Woolger
+family: Woolger
+given: Roger J.
+lifespan: 1944–2011
+nationality: British
+fields:
+- psychotherapy
+- regression-therapy
+- spirituality
+wikidata: Q7362709
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Woolger
+  - Roger
+  misspellings: []
+notable_works:
+- woolger-1988-other-lives-other-selves
+notes: Psychotherapist and author integrating Jungian analysis and past-life regression
+  therapy.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

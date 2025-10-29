@@ -1,10 +1,21 @@
 id: hames-richard
+entity_type: person
 full_name: Richard Hames
-aliases:
-- Hames, Richard
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Hames
+given: Richard
+lifespan: 1946–
+nationality: Australian
+fields:
+- futures-studies
+- systems-thinking
+wikidata: Q22956806
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- hames-2010-real-global-emergency
+notes: Futurist and systems thinker; author of The Five Literacies of Global Leadership.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

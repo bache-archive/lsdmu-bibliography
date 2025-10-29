@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Strassman",
+      "given": "Rick"
+    }
+  ],
+  "id": "strassman-2001-dmt-the-spirit",
+  "issued": {
+    "date-parts": [
+      [
+        2001
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Park Street Press",
+  "publisher-place": "Rochester, VT",
+  "source": "LSDMU bibliography",
+  "title": "DMT: The Spirit Molecule",
+  "topics": [
+    "dmt",
+    "psychedelics"
+  ],
+  "type": "book"
+}

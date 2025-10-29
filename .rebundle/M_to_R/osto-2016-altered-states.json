@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Osto",
+      "given": "Douglas"
+    }
+  ],
+  "id": "osto-2016-altered-states",
+  "issued": {
+    "date-parts": [
+      [
+        2016
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Columbia University Press",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Altered States",
+  "topics": [
+    "buddhism",
+    "psychedelics",
+    "comparative-religion"
+  ],
+  "type": "book"
+}

@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Devereux",
+      "given": "Paul"
+    }
+  ],
+  "id": "devereux-1997-the-long-trip",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Penguin/Arkana",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "The Long Trip",
+  "topics": [
+    "culture",
+    "psychedelics"
+  ],
+  "type": "book"
+}

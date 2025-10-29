@@ -1,11 +1,21 @@
-id: grey
-full_name: Grey
-aliases: []
-lifespan: null
-nationality: null
+id: grey-alex
+entity_type: person
+full_name: Alex Grey
+family: Grey
+given: Alex
+lifespan: 1953–
+nationality: American
 fields:
-- Buddhism
-- psychedelics & art
-wikidata: null
+- art
+- mysticism
+wikidata: Q283762
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- badiner-2002-zig-zag-zen
+notes: Visionary artist and co-editor of Zig Zag Zen.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

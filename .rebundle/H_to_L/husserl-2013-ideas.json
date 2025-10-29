@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Husserl",
+      "given": "Edmund"
+    }
+  ],
+  "id": "husserl-2013-ideas",
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Routledge",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Ideas",
+  "topics": [
+    "philosophy-of-mind",
+    "mysticism"
+  ],
+  "type": "book"
+}

@@ -1,12 +1,23 @@
 id: alverga-alex-polari-de
+entity_type: person
 full_name: Alex Polari de Alverga
-aliases:
-- Alverga, Alex Polari de
+family: Alverga
+given: Alex Polari de
 lifespan: null
-nationality: null
+nationality: Brazilian
 fields:
-- ayahuasca studies
-- Santo Daime
+- ayahuasca
+- spirituality
 wikidata: null
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Polari de Alverga
+  - Alex
+  misspellings: []
+notable_works:
+- alverga-1999-forest-of-visions
+notes: Author of Forest of Visions (1999) — pioneer of Santo Daime literature.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

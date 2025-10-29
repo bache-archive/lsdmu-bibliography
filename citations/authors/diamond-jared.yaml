@@ -1,10 +1,22 @@
 id: diamond-jared
+entity_type: person
 full_name: Jared Diamond
-aliases:
-- Diamond, Jared
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Diamond
+given: Jared
+lifespan: 1937–
+nationality: American
+fields:
+- geography
+- anthropology
+wikidata: Q313871
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- diamond-2005-collapse
+notes: Author of Collapse and Guns, Germs, and Steel; studies societal evolution and
+  decline.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

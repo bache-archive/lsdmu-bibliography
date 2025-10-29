@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Hawken",
+      "given": "Paul"
+    }
+  ],
+  "id": "hawken-1993-the-ecology-of-commerce",
+  "issued": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "HarperCollins",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "The Ecology of Commerce",
+  "topics": [
+    "ecospirituality",
+    "policy",
+    "culture"
+  ],
+  "type": "book"
+}

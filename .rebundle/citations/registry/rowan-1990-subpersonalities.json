@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Rowan",
+      "given": "John"
+    }
+  ],
+  "id": "rowan-1990-subpersonalities",
+  "issued": {
+    "date-parts": [
+      [
+        1990
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Routledge",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Subpersonalities",
+  "topics": [
+    "psychology",
+    "transpersonal"
+  ],
+  "type": "book"
+}

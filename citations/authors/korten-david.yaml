@@ -1,10 +1,26 @@
 id: korten-david
-full_name: David Korten
-aliases:
-- Korten, David
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+entity_type: person
+full_name: David C. Korten
+family: Korten
+given: David C.
+lifespan: 1937–
+nationality: American
+fields:
+- economics
+- sustainability
+- social-justice
+wikidata: Q1182267
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Korten
+  - David
+  misspellings: []
+notable_works:
+- korten-1995-when-corporations-rule-the-world
+- korten-2006-great-turning
+notes: Economist and author known for The Great Turning and When Corporations Rule
+  the World.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

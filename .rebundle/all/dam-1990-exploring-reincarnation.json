@@ -1,0 +1,25 @@
+{
+  "author": [
+    {
+      "family": "Ten Dam",
+      "given": "Hans"
+    }
+  ],
+  "id": "dam-1990-exploring-reincarnation",
+  "issued": {
+    "date-parts": [
+      [
+        1990
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Viking Press",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Exploring Reincarnation",
+  "topics": [
+    "reincarnation"
+  ],
+  "type": "book"
+}

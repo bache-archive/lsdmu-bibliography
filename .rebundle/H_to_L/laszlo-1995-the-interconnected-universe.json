@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "id": "laszlo-1995-the-interconnected-universe",
+  "issued": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "World Scientific",
+  "publisher-place": "River Edge, N.J.",
+  "source": "LSDMU bibliography",
+  "title": "The Interconnected Universe",
+  "topics": [
+    "cosmology",
+    "ecospirituality",
+    "philosophy-of-mind"
+  ],
+  "type": "book"
+}

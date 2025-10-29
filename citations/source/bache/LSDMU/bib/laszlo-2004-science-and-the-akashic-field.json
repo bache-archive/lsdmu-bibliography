@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:laszlo-2004-science-and-the-akashic-field",
+  "type": "book",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "title": "Science and the akashic field",
+  "issued": {
+    "date-parts": [
+      [
+        2004
+      ]
+    ]
+  },
+  "publisher": "Inner Traditions",
+  "publisher-place": "Rochester, VT",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Laszlo 2004",
+    "topics": [
+      "consciousness",
+      "cosmology",
+      "systems-theory"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

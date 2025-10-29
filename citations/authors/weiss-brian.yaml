@@ -1,12 +1,24 @@
 id: weiss-brian
-full_name: Brian Weiss
-aliases:
-- Weiss, Brian
-lifespan: null
-nationality: null
+entity_type: person
+full_name: Brian L. Weiss
+family: Weiss
+given: Brian L.
+lifespan: 1944–
+nationality: American
 fields:
-- past-life regression
 - psychiatry
-wikidata: null
+- regression-therapy
+wikidata: Q2960811
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Weiss
+  - B. L.
+  misspellings: []
+notable_works:
+- weiss-1996-many-lives-many-masters
+notes: Psychiatrist and author of Many Lives, Many Masters (1996), a seminal book
+  on regression therapy.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

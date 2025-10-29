@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Fiore",
+      "given": "Edith"
+    }
+  ],
+  "id": "fiore-1978-you-have-been-here-before",
+  "issued": {
+    "date-parts": [
+      [
+        1978
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Ballantine Books",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "You Have Been Here Before",
+  "topics": [
+    "reincarnation",
+    "reincarnation"
+  ],
+  "type": "book"
+}

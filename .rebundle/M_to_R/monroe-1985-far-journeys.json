@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Monroe",
+      "given": "Robert"
+    }
+  ],
+  "id": "monroe-1985-far-journeys",
+  "issued": {
+    "date-parts": [
+      [
+        1985
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Doubleday",
+  "publisher-place": "Garden City, N.J.",
+  "source": "LSDMU bibliography",
+  "title": "Far Journeys",
+  "topics": [
+    "afterlife",
+    "psychology",
+    "mysticism"
+  ],
+  "type": "book"
+}

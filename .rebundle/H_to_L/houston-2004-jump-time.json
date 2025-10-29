@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Houston",
+      "given": "Jean"
+    }
+  ],
+  "id": "houston-2004-jump-time",
+  "issued": {
+    "date-parts": [
+      [
+        2004
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Sentient Publications",
+  "publisher-place": "Boulder, Colo.",
+  "source": "LSDMU bibliography",
+  "title": "Jump Time",
+  "topics": [
+    "culture",
+    "mysticism"
+  ],
+  "type": "book"
+}

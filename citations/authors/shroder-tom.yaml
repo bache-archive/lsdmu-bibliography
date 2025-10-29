@@ -1,10 +1,22 @@
 id: shroder-tom
+entity_type: person
 full_name: Tom Shroder
-aliases:
-- Shroder, Tom
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Shroder
+given: Tom
+lifespan: 1954–
+nationality: American
+fields:
+- journalism
+- psychedelics
+- biography
+wikidata: Q7816628
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- shroder-2014-acid-test
+notes: Journalist and author of Acid Test, chronicling modern psychedelic research.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

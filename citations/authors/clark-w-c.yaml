@@ -1,0 +1,22 @@
+id: clark-w-c
+entity_type: person
+full_name: W. C. Clark
+family: Clark
+given: W. C.
+lifespan: null
+nationality: American
+fields:
+- religious-studies
+- psychedelics
+wikidata: null
+orcid: null
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- clark-1964-religion-consciousness-expanding-substances
+- clark-1969-chemical-mysticism
+notes: Early researcher exploring religion and psychedelic consciousness.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

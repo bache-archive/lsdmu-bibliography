@@ -1,10 +1,23 @@
-id: elliot-larry
-full_name: Larry Elliot
-aliases:
-- Elliot, Larry
+id: elliott-larry
+entity_type: person
+full_name: Larry Elliott
+family: Elliott
+given: Larry
 lifespan: null
-nationality: null
-fields: []
-wikidata: null
+nationality: British
+fields:
+- journalism
+- economics
+wikidata: Q6489018
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Elliot
+  - Larry
+  misspellings: []
+notable_works:
+- elliott-2019-worlds-26-richest
+notes: Economics editor at The Guardian; author of inequality-focused journalism.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

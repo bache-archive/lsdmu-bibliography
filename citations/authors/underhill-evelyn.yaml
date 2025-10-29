@@ -1,0 +1,24 @@
+id: underhill-evelyn
+entity_type: person
+full_name: Evelyn Underhill
+family: Underhill
+given: Evelyn
+lifespan: 1875–1941
+nationality: British
+fields:
+- mysticism
+- theology
+wikidata: Q470747
+orcid: null
+aliases:
+  variants:
+  - Underhill
+  - E.
+  misspellings: []
+notable_works:
+- underhill-1911-mysticism
+notes: Author of Mysticism (1911), a foundational text in the study of Christian mystical
+  experience.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

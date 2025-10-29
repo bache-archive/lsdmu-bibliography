@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Ott",
+      "given": "Jonathan"
+    }
+  ],
+  "id": "ott-1993-pharmacotheon",
+  "issued": {
+    "date-parts": [
+      [
+        1993
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Natural Products Co.",
+  "publisher-place": "Kennewick, Wash.",
+  "source": "LSDMU bibliography",
+  "title": "Pharmacotheon",
+  "topics": [
+    "psychedelics",
+    "entheogens"
+  ],
+  "type": "book"
+}

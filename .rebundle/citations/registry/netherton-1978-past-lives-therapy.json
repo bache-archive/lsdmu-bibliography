@@ -1,0 +1,30 @@
+{
+  "author": [
+    {
+      "family": "Netherton",
+      "given": "Morris"
+    },
+    {
+      "family": "Paul",
+      "given": "Thomas"
+    }
+  ],
+  "id": "netherton-1978-past-lives-therapy",
+  "issued": {
+    "date-parts": [
+      [
+        1978
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "William Morrow Co.",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Past Lives Therapy",
+  "topics": [
+    "psychology",
+    "reincarnation"
+  ],
+  "type": "book"
+}

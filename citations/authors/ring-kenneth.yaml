@@ -1,12 +1,26 @@
 id: ring-kenneth
+entity_type: person
 full_name: Kenneth Ring
-aliases:
-- Ring, Kenneth
-lifespan: null
-nationality: null
+family: Ring
+given: Kenneth
+lifespan: 1935–
+nationality: American
 fields:
 - psychology
-- near-death studies
-wikidata: Q6391562
+- near-death-studies
+wikidata: Q6382456
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Ring
+  - K.
+  misspellings: []
+notable_works:
+- ring-1980-life-at-death
+- ring-1984-heading-toward-omega
+- ring-1998-lessons-from-the-light
+notes: Founding researcher in near-death studies and co-author of Lessons from the
+  Light.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

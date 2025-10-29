@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Smith",
+      "given": "Huston"
+    }
+  ],
+  "id": "smith-2000-cleansing-the-doors",
+  "issued": {
+    "date-parts": [
+      [
+        2000
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Jeremy Tarcher/Putnam",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Cleansing the Doors of Perception",
+  "topics": [
+    "religion",
+    "mysticism"
+  ],
+  "type": "book"
+}

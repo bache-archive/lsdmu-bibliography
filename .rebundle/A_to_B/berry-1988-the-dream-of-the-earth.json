@@ -1,0 +1,22 @@
+{
+  "author": [
+    {
+      "family": "Berry",
+      "given": "Thomas"
+    }
+  ],
+  "id": "berry-1988-the-dream-of-the-earth",
+  "issued": {
+    "date-parts": [
+      [
+        1988
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Sierra Club Books",
+  "publisher-place": "San Francisco",
+  "source": "LSDMU bibliography (reconstructed from reference list)",
+  "title": "The Dream of the Earth",
+  "type": "book"
+}

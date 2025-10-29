@@ -1,14 +1,23 @@
 id: stace-walter
-full_name: Walter Stace
-aliases:
-- Stace, Walter
-lifespan: null
-nationality: null
+entity_type: person
+full_name: Walter Terence Stace
+family: Stace
+given: Walter Terence
+lifespan: 1886–1967
+nationality: British
 fields:
-- comparative mysticism
-- mysticism
 - philosophy
-- philosophy of religion
-wikidata: Q433728
+- mysticism
+wikidata: Q1626638
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Stace
+  - W. T.
+  misspellings: []
+notable_works:
+- stace-1960-mysticism-and-philosophy
+notes: Philosopher who formulated classic typologies of mystical experience.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

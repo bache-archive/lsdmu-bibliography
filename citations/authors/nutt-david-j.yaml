@@ -1,0 +1,23 @@
+id: nutt-david-j
+entity_type: person
+full_name: David J. Nutt
+family: Nutt
+given: David J.
+lifespan: 1951–
+nationality: British
+fields:
+- psychopharmacology
+- neuroscience
+wikidata: Q1172250
+orcid: null
+aliases:
+  variants:
+  - Nutt
+  - David
+  misspellings: []
+notable_works:
+- carhart-harris-2016-paradoxical-psychological-effects-lsd
+notes: Leading researcher in drug policy and psychedelic science.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:berry-1988-dream-of-the-earth",
+  "type": "book",
+  "author": [
+    {
+      "family": "Berry",
+      "given": "Thomas"
+    }
+  ],
+  "title": "The dream of the earth",
+  "issued": {
+    "date-parts": [
+      [
+        1988
+      ]
+    ]
+  },
+  "publisher": "Sierra Club Books",
+  "publisher-place": "San Francisco, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Berry 1988",
+    "topics": [
+      "ecology",
+      "ecospirituality"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

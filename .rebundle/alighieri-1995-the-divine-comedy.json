@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "family": "Alighieri",
+      "given": "Dante"
+    }
+  ],
+  "id": "alighieri-1995-the-divine-comedy",
+  "issued": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Everyman’s Library",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "The Divine Comedy: Inferno, Purgatorio, Paradiso",
+  "topics": [
+    "classics",
+    "mysticism"
+  ],
+  "type": "book"
+}

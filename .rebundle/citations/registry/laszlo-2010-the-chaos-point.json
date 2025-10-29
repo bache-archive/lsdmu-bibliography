@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "id": "laszlo-2010-the-chaos-point",
+  "issued": {
+    "date-parts": [
+      [
+        2010
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Piatkus/Little, Brown",
+  "publisher-place": "London",
+  "source": "LSDMU bibliography",
+  "title": "The Chaos Point",
+  "topics": [
+    "cosmology",
+    "ecospirituality",
+    "philosophy-of-mind"
+  ],
+  "type": "book"
+}

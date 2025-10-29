@@ -1,0 +1,28 @@
+{
+  "author": [
+    {
+      "family": "Aurobindo",
+      "given": "Sri"
+    }
+  ],
+  "editor": [
+    {
+      "family": "McDermott",
+      "given": "Robert"
+    }
+  ],
+  "id": "aurobindo-1987-the-essential-aurobindo",
+  "issued": {
+    "date-parts": [
+      [
+        1987
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Lindisfarne Books",
+  "publisher-place": "Herndon, VA",
+  "source": "LSDMU bibliography (reconstructed from reference list)",
+  "title": "The Essential Aurobindo",
+  "type": "book"
+}

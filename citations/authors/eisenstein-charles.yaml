@@ -1,13 +1,22 @@
 id: eisenstein-charles
+entity_type: person
 full_name: Charles Eisenstein
-aliases:
-- Eisenstein, Charles
-lifespan: null
-nationality: null
+family: Eisenstein
+given: Charles
+lifespan: 1967–
+nationality: American
 fields:
-- culture
-- economics
+- philosophy
 - ecology
-wikidata: Q5077338
+- economics
+wikidata: Q5073032
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- eisenstein-2007-ascent-of-humanity
+notes: Philosopher and author exploring civilization, ecology, and sacred economics.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

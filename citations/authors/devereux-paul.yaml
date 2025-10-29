@@ -1,10 +1,24 @@
-id: deveraux-paul
-full_name: Paul Deveraux
-aliases:
-- Deveraux, Paul
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+id: devereux-paul
+entity_type: person
+full_name: Paul Devereux
+family: Devereux
+given: Paul
+lifespan: 1945–
+nationality: British
+fields:
+- archaeology
+- consciousness
+- sacred-landscape
+wikidata: Q3380667
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Deveraux
+  - Paul
+  misspellings: []
+notable_works:
+- devereux-1997-long-trip
+notes: Researcher of consciousness, earth mysteries, and sacred landscapes.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

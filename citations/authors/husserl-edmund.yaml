@@ -1,13 +1,21 @@
 id: husserl-edmund
+entity_type: person
 full_name: Edmund Husserl
-aliases:
-- Husserl, Edmund
-lifespan: null
-nationality: null
+family: Husserl
+given: Edmund
+lifespan: 1859–1938
+nationality: German
 fields:
-- continental philosophy
-- phenomenology
 - philosophy
-wikidata: Q58586
+- phenomenology
+wikidata: Q937
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- husserl-1931-ideas
+notes: Founder of phenomenology; influenced existential and transpersonal thought.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

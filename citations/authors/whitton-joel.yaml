@@ -1,0 +1,23 @@
+id: whitton-joel
+entity_type: person
+full_name: Joel L. Whitton
+family: Whitton
+given: Joel L.
+lifespan: null
+nationality: Canadian
+fields:
+- psychiatry
+- reincarnation-research
+wikidata: null
+orcid: null
+aliases:
+  variants:
+  - Whitton
+  - J.
+  misspellings: []
+notable_works:
+- whitton-1986-life-between-life
+notes: Psychiatrist and co-author of Life Between Life (1986).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

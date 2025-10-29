@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:watkins-1987-hypnotherapeutic-techniques",
+  "type": "book",
+  "author": [
+    {
+      "family": "Watkins",
+      "given": "John"
+    }
+  ],
+  "title": "Hypnotherapeutic techniques",
+  "issued": {
+    "date-parts": [
+      [
+        1987
+      ]
+    ]
+  },
+  "publisher": "Irvington Publishers",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Watkins 1987",
+    "topics": [
+      "therapy",
+      "psychology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

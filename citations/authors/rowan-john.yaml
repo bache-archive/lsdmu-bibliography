@@ -1,10 +1,21 @@
 id: rowan-john
+entity_type: person
 full_name: John Rowan
-aliases:
-- Rowan, John
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+family: Rowan
+given: John
+lifespan: 1925–2018
+nationality: British
+fields:
+- psychology
+- humanistic-psychotherapy
+wikidata: Q16983336
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- rowan-1990-subpersonalities
+notes: Psychologist who developed influential models of subpersonalities in therapy.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

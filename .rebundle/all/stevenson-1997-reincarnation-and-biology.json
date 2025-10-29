@@ -1,0 +1,25 @@
+{
+  "author": [
+    {
+      "family": "Stevenson",
+      "given": "Ian"
+    }
+  ],
+  "id": "stevenson-1997-reincarnation-and-biology",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "University Press of Virginia",
+  "publisher-place": "Charlottesville",
+  "source": "LSDMU bibliography",
+  "title": "Reincarnation and Biology (Vols. I & II)",
+  "topics": [
+    "reincarnation"
+  ],
+  "type": "book"
+}

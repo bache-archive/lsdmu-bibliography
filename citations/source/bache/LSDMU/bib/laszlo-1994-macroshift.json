@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:laszlo-1994-macroshift",
+  "type": "book",
+  "author": [
+    {
+      "family": "Laszlo",
+      "given": "Ervin"
+    }
+  ],
+  "title": "Macroshift",
+  "issued": {
+    "date-parts": [
+      [
+        1994
+      ]
+    ]
+  },
+  "publisher": "Berrett-Koehler",
+  "publisher-place": "San Francisco, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Laszlo 1994",
+    "topics": [
+      "systems-theory",
+      "future-studies"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

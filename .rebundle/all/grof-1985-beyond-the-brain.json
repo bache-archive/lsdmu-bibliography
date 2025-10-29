@@ -1,0 +1,28 @@
+{
+  "author": [
+    {
+      "family": "Grof",
+      "given": "Stanislav"
+    }
+  ],
+  "id": "grof-1985-beyond-the-brain",
+  "issued": {
+    "date-parts": [
+      [
+        1985
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "State University of New York Press",
+  "publisher-place": "Albany",
+  "source": "LSDMU bibliography",
+  "title": "Beyond the Brain",
+  "topics": [
+    "psychedelic-research",
+    "lsd",
+    "transpersonal",
+    "psychology"
+  ],
+  "type": "book"
+}

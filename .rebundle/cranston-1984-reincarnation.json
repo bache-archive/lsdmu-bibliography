@@ -1,0 +1,29 @@
+{
+  "author": [
+    {
+      "family": "Cranston",
+      "given": "Sylvia"
+    },
+    {
+      "family": "Williams",
+      "given": "Carey"
+    }
+  ],
+  "id": "cranston-1984-reincarnation",
+  "issued": {
+    "date-parts": [
+      [
+        1984
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Julian Press",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography (reconstructed C–G)",
+  "title": "Reincarnation",
+  "topics": [
+    "reincarnation"
+  ],
+  "type": "book"
+}

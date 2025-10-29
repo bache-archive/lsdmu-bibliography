@@ -1,10 +1,23 @@
-id: dam-hans
-full_name: Hans Dam
-aliases:
-- Dam, Hans
-lifespan: null
-nationality: null
-fields: []
+id: ten-dam-hans
+entity_type: person
+full_name: Hans Ten Dam
+family: Ten Dam
+given: Hans
+lifespan: 1948–
+nationality: Dutch
+fields:
+- regression-therapy
+- spirituality
 wikidata: null
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - TenDam
+  - Hans
+  misspellings: []
+notable_works:
+- ten-dam-1990-exploring-reincarnation
+notes: Dutch therapist and author of Exploring Reincarnation (1990).
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

@@ -1,12 +1,24 @@
 id: stevenson-ian
+entity_type: person
 full_name: Ian Stevenson
-aliases:
-- Stevenson, Ian
-lifespan: null
-nationality: null
+family: Stevenson
+given: Ian
+lifespan: 1918–2007
+nationality: Canadian-American
 fields:
 - psychiatry
-- reincarnation research
-wikidata: Q731300
+- reincarnation-research
+wikidata: Q1615286
 orcid: null
-notable_works: []
+aliases:
+  variants:
+  - Stevenson
+  - I.
+  misspellings: []
+notable_works:
+- stevenson-1974-twenty-cases
+- stevenson-1997-reincarnation-and-biology
+notes: Psychiatrist known for empirical research into children’s past-life memories.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

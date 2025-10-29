@@ -1,0 +1,34 @@
+{
+  "author": [
+    {
+      "family": "Leininger",
+      "given": "Bruce"
+    },
+    {
+      "family": "Leininger",
+      "given": "Andrea"
+    },
+    {
+      "family": "Gross",
+      "given": "Ken"
+    }
+  ],
+  "id": "leininger-2009-soul-survivor",
+  "issued": {
+    "date-parts": [
+      [
+        2009
+      ]
+    ]
+  },
+  "language": "en",
+  "publisher": "Grand Central Publishing",
+  "publisher-place": "New York",
+  "source": "LSDMU bibliography",
+  "title": "Soul Survivor",
+  "topics": [
+    "reincarnation",
+    "afterlife"
+  ],
+  "type": "book"
+}

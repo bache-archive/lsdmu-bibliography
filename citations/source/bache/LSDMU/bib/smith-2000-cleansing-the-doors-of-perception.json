@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:smith-2000-cleansing-the-doors-of-perception",
+  "type": "book",
+  "author": [
+    {
+      "family": "Smith",
+      "given": "Huston"
+    }
+  ],
+  "title": "Cleansing the doors of perception",
+  "issued": {
+    "date-parts": [
+      [
+        2000
+      ]
+    ]
+  },
+  "publisher": "Jeremy Tarcher/Putnam",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Smith 2000",
+    "topics": [
+      "psychedelics",
+      "religion",
+      "mysticism"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

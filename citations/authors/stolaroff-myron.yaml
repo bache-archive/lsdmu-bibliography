@@ -1,10 +1,22 @@
 id: stolaroff-myron
-full_name: Myron Stolaroff
-aliases:
-- Stolaroff, Myron
-lifespan: null
-nationality: null
-fields: []
-wikidata: null
+entity_type: person
+full_name: Myron J. Stolaroff
+family: Stolaroff
+given: Myron J.
+lifespan: 1920–2013
+nationality: American
+fields:
+- psychedelics
+- humanistic-psychology
+wikidata: Q6940412
 orcid: null
-notable_works: []
+aliases:
+  variants: []
+  misspellings: []
+notable_works:
+- stolaroff-1999-are-psychedelics-useful-in-buddhism
+notes: Engineer and researcher; contributed to psychedelic psychotherapy and meditation
+  studies.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29

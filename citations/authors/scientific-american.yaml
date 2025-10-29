@@ -1,0 +1,23 @@
+id: scientific-american
+entity_type: organization
+full_name: Scientific American
+family: null
+given: null
+lifespan: null
+nationality: American
+fields:
+- science
+- journalism
+wikidata: Q188088
+orcid: null
+aliases:
+  variants:
+  - SciAm
+  misspellings: []
+notable_works:
+- scientific-american-2014-end-the-ban-on-psychoactive-drug-research
+notes: Scientific magazine publishing editorials and research summaries; included
+  for citation completeness though not a person.
+review_state: draft
+curator: bibliography-team
+created_at: 2025-10-29
