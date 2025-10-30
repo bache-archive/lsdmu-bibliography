@@ -11,7 +11,7 @@ fields:
 - psychology
 - psychiatry
 - psychotherapy
-wikidata: Q123489309
+wikidata: Q136673193
 orcid: null
 aliases:
   variants:
@@ -19,11 +19,13 @@ aliases:
   - Duncan B. Blewett
   misspellings: []
 notable_works:
-- blewett-1959-handbook-therapeutic-lsd
+- blewett-1959-handbook-for-the-therapeutic-use-of-lsd-25
+- blewett-1969-the-frontiers-of-being
+- blewett-1981-dynamics-of-morale
+- blewett-1985-a-handbook-for-psychotronic-engineering
 notes: Canadian psychologist and LSD researcher; co-author of *The Handbook for the
   Therapeutic Use of LSD-25* (1959), among the earliest clinical manuals for psychedelic
   therapy.
-review_state: enriched
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
 updated_at: 2025-10-30
