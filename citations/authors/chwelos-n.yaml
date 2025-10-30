@@ -8,14 +8,20 @@ nationality: Canadian
 fields:
 - psychiatry
 - psychotherapy
-wikidata: null
-orcid: 0000-0002-0498-0443
+- psychopharmacology
+wikidata: Q136673052
+orcid: null
 aliases:
-  variants: []
+  variants:
+  - N Chwelos
   misspellings: []
 notable_works:
 - blewett-1959-handbook-therapeutic-lsd
-notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
-review_state: draft
+- q54037231-psychological-response-to-d-lysergic-acid-diethylamide
+- q34250203-use-of-d-lysergic-acid-diethylamide-in-the-treatment-of-alcoholism
+notes: Canadian psychiatrist involved in early LSD therapy research; co-author of
+  the 1959 *Handbook for the Therapeutic Use of LSD-25* and related studies with Humphry
+  Osmond and Abram Hoffer.
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30

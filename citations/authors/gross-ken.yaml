@@ -3,19 +3,33 @@ entity_type: person
 full_name: Ken Gross
 family: Gross
 given: Ken
-lifespan: null
+lifespan: 1940–2012
 nationality: American
 fields:
 - journalism
-- coauthor
-wikidata: Q112435518
+- biography
+- fiction
+wikidata: Q136673149
 orcid: null
 aliases:
-  variants: []
+  variants:
+  - Kenneth Gross
+  - K. Gross
   misspellings: []
 notable_works:
+- gross-1978-fist
+- gross-1984-im-not-at-all-like-you
+- gross-1990-one-tough-cop-the-bo-dietl-story
+- gross-1991-rough-justice
+- gross-1992-hell-bent
+- gross-1992-ross-perot-the-man-behind-the-myth
+- gross-1994-a-high-pressure-system
+- gross-1995-full-blown-rage
+- gross-1997-the-talk-show-defense
+- gross-2002-i-got-the-show-right-here
 - leininger-2009-soul-survivor
-notes: Journalist and co-author of Soul Survivor (2009).
-review_state: draft
+notes: American journalist and author (1940–2012), known for crime and biography writing
+  and as co-author of *Soul Survivor* (2009).
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30

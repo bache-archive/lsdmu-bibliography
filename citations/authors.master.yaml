@@ -58,7 +58,7 @@ authors:
   - ayahuasca
   - spirituality
   wikidata: Q106595653
-  orcid: 0000-0002-4502-7034
+  orcid: null
   aliases:
     variants:
     - Polari de Alverga
@@ -81,7 +81,7 @@ authors:
   - philosophy
   - spirituality
   - mysticism
-  wikidata: Q280236
+  wikidata: Q192207
   orcid: null
   aliases:
     variants:
@@ -127,7 +127,7 @@ authors:
   - transpersonal-psychology
   - psychedelics
   wikidata: Q111452483
-  orcid: 0000-0002-1234-5678
+  orcid: null
   aliases:
     variants:
     - Chris Bache
@@ -148,22 +148,23 @@ authors:
   full_name: Allan Hunt Badiner
   family: Badiner
   given: Allan Hunt
-  legacy_ids: ["badiner-allen"]
-  lifespan: "1950–"
+  legacy_ids:
+  - badiner-allen
+  lifespan: 1950–
   nationality: American
   fields:
-    - editor
-    - buddhism
+  - editor
+  - buddhism
   wikidata: Q113821714
   orcid: null
   aliases:
     variants:
-      - Allen Badiner
-      - Allan H. Badiner
-      - Allan Badiner
+    - Allen Badiner
+    - Allan H. Badiner
+    - Allan Badiner
     misspellings: []
   notable_works:
-    - badiner-2002-zig-zag-zen
+  - badiner-2002-zig-zag-zen
   notes: Co-editor of Zig Zag Zen (2002).
   review_state: draft
   curator: bibliography-team
@@ -240,26 +241,29 @@ authors:
   full_name: Duncan Blewett
   family: Blewett
   given: Duncan
-  legacy_ids: ["blewett-d-b"]
-  lifespan: "1910–2007"
+  legacy_ids:
+  - blewett-d-b
+  lifespan: 1910–2007
   nationality: Canadian
   fields:
-    - psychology
-    - psychiatry
-    - psychotherapy
-  wikidata: Q123489309
+  - psychology
+  - psychiatry
+  - psychotherapy
+  wikidata: Q136673193
   orcid: null
   aliases:
     variants:
-      - D. B. Blewett
-      - Duncan B. Blewett
+    - D. B. Blewett
+    - Duncan B. Blewett
     misspellings: []
   notable_works:
-    - blewett-1959-handbook-therapeutic-lsd
+  - blewett-1959-handbook-for-the-therapeutic-use-of-lsd-25
+  - blewett-1969-the-frontiers-of-being
+  - blewett-1981-dynamics-of-morale
+  - blewett-1985-a-handbook-for-psychotronic-engineering
   notes: Canadian psychologist and LSD researcher; co-author of *The Handbook for the Therapeutic Use of LSD-25* (1959), among the earliest clinical manuals for psychedelic therapy.
-  review_state: enriched
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
   updated_at: 2025-10-30
 - id: chwelos-n
   entity_type: person
@@ -273,7 +277,7 @@ authors:
   - psychotherapy
   - psychopharmacology
   wikidata: Q136673052
-  orcid: 0000-0002-0498-0443
+  orcid: null
   aliases:
     variants:
     - N Chwelos
@@ -282,7 +286,9 @@ authors:
   - blewett-1959-handbook-therapeutic-lsd
   - q54037231-psychological-response-to-d-lysergic-acid-diethylamide
   - q34250203-use-of-d-lysergic-acid-diethylamide-in-the-treatment-of-alcoholism
-  notes: Canadian psychiatrist involved in early LSD therapy research; co-author of the 1959 *Handbook for the Therapeutic Use of LSD-25* and related studies with Humphry Osmond and Abram Hoffer.
+  notes: Canadian psychiatrist involved in early LSD therapy research; co-author of
+    the 1959 *Handbook for the Therapeutic Use of LSD-25* and related studies with
+    Humphry Osmond and Abram Hoffer.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -318,13 +324,19 @@ authors:
   fields:
   - neuroscience
   - psychedelics
-  wikidata: Q55254205
-  orcid: 0000-0003-0592-6694
+  wikidata: Q49986629
+  orcid: 0000-0002-6062-7150
   aliases:
     variants: []
     misspellings: []
   notable_works:
-  - carhart-harris-2016-paradoxical-psychological-effects-lsd
+  - carhart-harris-2012-neural-correlates-psychedelic-state-fmri-psilocybin
+  - carhart-harris-2014-the-entropic-brain
+  - carhart-harris-2016-neural-correlates-lsd-experience-multimodal-neuroimaging
+  - carhart-harris-2016-psilocybin-psychological-support-treatment-resistant-depression
+  - carhart-harris-2018-psilocybin-treatment-resistant-depression-fmri-mechanisms
+  - carhart-harris-2019-rebus-and-the-anarchic-brain
+  - carhart-harris-2021-trial-of-psilocybin-versus-escitalopram-for-depression
   notes: Neuroscientist and pioneer in psychedelic brain research.
   review_state: draft
   curator: bibliography-team
@@ -362,7 +374,7 @@ authors:
   - psychedelics
   - psychopharmacology
   wikidata: Q136673055
-  orcid: 0000-0003-2151-0360
+  orcid: null
   aliases:
     variants:
     - M. Bolstridge
@@ -372,7 +384,8 @@ authors:
   - q24174843-neural-correlates-of-the-lsd-experience
   - q42377130-psilocybin-for-treatment-resistant-depression
   - q28005551-psilocybin-with-psychological-support
-  notes: British psychiatrist and researcher in psychedelic medicine; co-author on psilocybin and LSD neuroimaging studies with Carhart-Harris and Nutt groups.
+  notes: British psychiatrist and researcher in psychedelic medicine; co-author on
+    psilocybin and LSD neuroimaging studies with Carhart-Harris and Nutt groups.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -431,8 +444,8 @@ authors:
   fields:
   - reincarnation
   - theosophy
-  wikidata: Q7635532
-  orcid: 0000-0001-7535-9809
+  wikidata: Q112421631
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -453,7 +466,7 @@ authors:
   - reincarnation
   - spirituality
   wikidata: Q111692591
-  orcid: 0009-0000-8966-9525
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -473,7 +486,7 @@ authors:
   fields:
   - spirituality
   - buddhism
-  wikidata: Q8409
+  wikidata: Q17293
   orcid: null
   aliases:
     variants:
@@ -586,7 +599,7 @@ authors:
   - ecology
   - economics
   wikidata: Q5077338
-  orcid: 0000-0001-5506-5598
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -607,8 +620,8 @@ authors:
   - systems-theory
   - sustainability
   - spirituality
-  wikidata: Q5312119
-  orcid: 0000-0002-4338-6885
+  wikidata: Q5310326
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -655,7 +668,7 @@ authors:
   - journalism
   - economics
   wikidata: Q6490260
-  orcid: 0000-0002-3480-7211
+  orcid: null
   aliases:
     variants:
     - Elliot
@@ -760,7 +773,8 @@ authors:
   - fiore-2013-mistress-of-the-two-lands
   - fiore-2019-opening-the-closed-door
   - fiore-2021-ufo-abductions
-  notes: Clinical psychologist and pioneer in past-life regression therapy; credited on “Alien Nation” (1994, Q114920946).
+  notes: Clinical psychologist and pioneer in past-life regression therapy; credited
+    on “Alien Nation” (1994, Q114920946).
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -775,7 +789,7 @@ authors:
   - psychedelics
   - editor
   wikidata: Q112413870
-  orcid: 0009-0007-9575-2983
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -796,7 +810,7 @@ authors:
   fields:
   - sustainability
   - environmentalism
-  wikidata: Q7130342
+  wikidata: Q2754187
   orcid: null
   aliases:
     variants: []
@@ -848,7 +862,7 @@ authors:
   - futures-studies
   - systems-thinking
   wikidata: Q22956806
-  orcid: 0000-0001-8195-8808
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -901,7 +915,8 @@ authors:
   - havens-1965-the-journal-of-a-college-student
   - havens-1968-psychology-and-religion-a-contemporary-dialogue
   - havens-1978-fifth-yoga-the-way-of-relationships
-  notes: American writer and scholar in religious studies and psychology of religion; early contributor to discussions of psychedelic experience.
+  notes: American writer and scholar in religious studies and psychology of religion;
+    early contributor to discussions of psychedelic experience.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -961,7 +976,7 @@ authors:
   - conscious-evolution
   - spirituality
   wikidata: Q2900061
-  orcid: 0000-0002-4035-3164
+  orcid: null
   aliases:
     variants:
     - Hubbard
@@ -1051,7 +1066,7 @@ authors:
   - psychopharmacology
   - psychedelics
   wikidata: Q112698753
-  orcid: 0000-0003-1330-7100
+  orcid: null
   aliases:
     variants:
     - Matthew W. Johnson
@@ -1142,8 +1157,8 @@ authors:
   fields:
   - buddhist-studies
   - philosophy
-  wikidata: Q4745736
-  orcid: 0000-0002-5149-6953
+  wikidata: Q4768201
+  orcid: null
   aliases:
     variants:
     - Klein
@@ -1226,7 +1241,8 @@ authors:
     misspellings: []
   notable_works:
   - leininger-2009-soul-survivor
-  notes: American author and co-author of *Soul Survivor* (2009), chronicling his son’s apparent past-life memories.
+  notes: American author and co-author of *Soul Survivor* (2009), chronicling his
+    son’s apparent past-life memories.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -1282,7 +1298,8 @@ authors:
   - gross-1997-the-talk-show-defense
   - gross-2002-i-got-the-show-right-here
   - leininger-2009-soul-survivor
-  notes: American journalist and author (1940–2012), known for crime and biography writing and as co-author of *Soul Survivor* (2009).
+  notes: American journalist and author (1940–2012), known for crime and biography
+    writing and as co-author of *Soul Survivor* (2009).
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -1297,7 +1314,7 @@ authors:
   - religious-studies
   - indian-philosophy
   wikidata: Q128239637
-  orcid: 0000-0002-5550-0956
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -1354,7 +1371,8 @@ authors:
   - lucas-1993-regression-therapy-vol-2
   - lucas-1994-the-adventure-of-george-the-dinosaur
   - lucas-2022-through-my-looking-glass
-  notes: "American psychologist; editor of Regression Therapy (Vols. I–II); pioneer in past-life regression."
+  notes: American psychologist; editor of Regression Therapy (Vols. I–II); pioneer
+    in past-life regression.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -1370,7 +1388,7 @@ authors:
   - buddhism
   - systems-theory
   wikidata: Q4964805
-  orcid: 0000-0001-7927-2663
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -1392,7 +1410,7 @@ authors:
   - systems-analysis
   - sustainability
   wikidata: Q271226
-  orcid: 0000-0002-1222-6272
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -1414,7 +1432,7 @@ authors:
   - systems-analysis
   - sustainability
   wikidata: Q1189291
-  orcid: 0000-0003-3669-4414
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -1486,7 +1504,7 @@ authors:
   - consciousness-research
   - out-of-body-experiences
   wikidata: Q547798
-  orcid: 0000-0003-1572-4063
+  orcid: null
   aliases:
     variants:
     - Monroe
@@ -1610,7 +1628,8 @@ authors:
   - oroc-2009-tryptamine-palace
   - oroc-2018-the-new-psychedelic-revolution
   - oroc-2023-under-the-influence
-  notes: Australian writer and journalist on 5-MeO-DMT and entheogenic experience; author of *Tryptamine Palace*.
+  notes: Australian writer and journalist on 5-MeO-DMT and entheogenic experience;
+    author of *Tryptamine Palace*.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -1668,8 +1687,8 @@ authors:
   - psychiatry
   - theology
   - psychedelics
-  wikidata: Q7968797
-  orcid: 0000-0001-7355-4213
+  wikidata: Q7965779
+  orcid: null
   aliases:
     variants:
     - Pahnke
@@ -1716,7 +1735,7 @@ authors:
   - psychology
   - near-death-studies
   wikidata: Q285368
-  orcid: 0000-0003-3513-5143
+  orcid: null
   aliases:
     variants:
     - Ring
@@ -1742,7 +1761,7 @@ authors:
   - psychology
   - near-death-studies
   wikidata: Q95169971
-  orcid: 0000-0002-4938-9083
+  orcid: null
   aliases:
     variants:
     - Evelyn Valarino
@@ -1751,7 +1770,8 @@ authors:
     misspellings: []
   notable_works:
   - elsaesser-valarino-1997-on-the-other-side-of-life
-  notes: Swiss psychologist and author specializing in near-death studies; cofounder of IANDS–Switzerland and collaborator with Raymond Moody.
+  notes: Swiss psychologist and author specializing in near-death studies; cofounder
+    of IANDS–Switzerland and collaborator with Raymond Moody.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30
@@ -1834,7 +1854,7 @@ authors:
   - psychedelics
   - biography
   wikidata: Q7817571
-  orcid: 0000-0002-5009-5592
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -1905,7 +1925,7 @@ authors:
   - psychotherapy
   - psychedelics
   wikidata: Q2561145
-  orcid: 0000-0002-8507-453X
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -2021,7 +2041,7 @@ authors:
   - psychedelics
   - humanistic-psychology
   wikidata: Q6948497
-  orcid: 0000-0003-3290-5843
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -2114,7 +2134,7 @@ authors:
   fields:
   - regression-therapy
   - spirituality
-  wikidata: Q5677697
+  wikidata: Q136673207
   orcid: null
   aliases:
     variants:
@@ -2254,7 +2274,7 @@ authors:
   - psychology
   - transpersonal-psychology
   - psychiatry
-  wikidata: Q24062777
+  wikidata: Q3622980
   orcid: 0000-0002-7677-7583
   aliases:
     variants:
@@ -2303,7 +2323,7 @@ authors:
   - psychology
   - reincarnation
   wikidata: Q59532751
-  orcid: 0000-0001-7384-0412
+  orcid: null
   aliases:
     variants:
     - Wambach
@@ -2349,7 +2369,7 @@ authors:
   - psychology
   - hypnotherapy
   wikidata: Q6234628
-  orcid: 0000-0001-5099-1023
+  orcid: null
   aliases:
     variants: []
     misspellings: []
@@ -2394,7 +2414,7 @@ authors:
   - psychiatry
   - reincarnation-research
   wikidata: Q112381155
-  orcid: 0000-0002-8043-9229
+  orcid: null
   aliases:
     variants:
     - Whitton
@@ -2465,7 +2485,7 @@ authors:
   - regression-therapy
   - spirituality
   wikidata: Q13522547
-  orcid: 0000-0002-3071-0981
+  orcid: null
   aliases:
     variants:
     - Woolger
@@ -2523,7 +2543,8 @@ authors:
   - zinser-2011-soul-centered-healing
   - zinser-2013-the-practice-of-soul-centered-healing-vol-1
   - zinser-2016-the-practice-of-soul-centered-healing-vol-2
-  notes: Clinical psychologist and author of *Soul-Centered Healing*, integrating hypnosis and spirit-based therapy.
+  notes: Clinical psychologist and author of *Soul-Centered Healing*, integrating
+    hypnosis and spirit-based therapy.
   review_state: verified
   curator: bibliography-team
   created_at: 2025-10-30

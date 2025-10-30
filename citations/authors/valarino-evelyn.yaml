@@ -1,6 +1,6 @@
 id: valarino-evelyn
 entity_type: person
-full_name: Evelyn Valarino
+full_name: Evelyn Elsaesser Valarino
 family: Valarino
 given: Evelyn
 lifespan: null
@@ -8,16 +8,18 @@ nationality: Swiss
 fields:
 - psychology
 - near-death-studies
-wikidata: null
-orcid: 0000-0002-4938-9083
+wikidata: Q95169971
+orcid: null
 aliases:
   variants:
+  - Evelyn Valarino
+  - E. E. Valarino
   - Valarino
-  - E.
   misspellings: []
 notable_works:
-- ring-1998-lessons-from-the-light
-notes: Co-author with Kenneth Ring of Lessons from the Light (1998).
-review_state: draft
+- elsaesser-valarino-1997-on-the-other-side-of-life
+notes: Swiss psychologist and author specializing in near-death studies; cofounder
+  of IANDS–Switzerland and collaborator with Raymond Moody.
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30
