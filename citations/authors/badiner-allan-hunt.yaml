@@ -1,17 +1,22 @@
-id: badiner-allen
+id: badiner-allan-hunt
 entity_type: person
-full_name: Allen Badiner
+full_name: Allan Hunt Badiner
 family: Badiner
-given: Allen
-lifespan: null
+given: Allan Hunt
+legacy_ids:
+- badiner-allen
+lifespan: 1950–
 nationality: American
 fields:
 - editor
 - buddhism
-wikidata: null
+wikidata: Q113821714
 orcid: null
 aliases:
-  variants: []
+  variants:
+  - Allen Badiner
+  - Allan H. Badiner
+  - Allan Badiner
   misspellings: []
 notable_works:
 - badiner-2002-zig-zag-zen
@@ -19,3 +24,4 @@ notes: Co-editor of Zig Zag Zen (2002).
 review_state: draft
 curator: bibliography-team
 created_at: 2025-10-29
+updated_at: 2025-10-29

@@ -1,0 +1,29 @@
+id: blewett-duncan
+entity_type: person
+full_name: Duncan Blewett
+family: Blewett
+given: Duncan
+legacy_ids:
+- blewett-d-b
+lifespan: 1910–2007
+nationality: Canadian
+fields:
+- psychology
+- psychiatry
+- psychotherapy
+wikidata: Q123489309
+orcid: null
+aliases:
+  variants:
+  - D. B. Blewett
+  - Duncan B. Blewett
+  misspellings: []
+notable_works:
+- blewett-1959-handbook-therapeutic-lsd
+notes: Canadian psychologist and LSD researcher; co-author of *The Handbook for the
+  Therapeutic Use of LSD-25* (1959), among the earliest clinical manuals for psychedelic
+  therapy.
+review_state: enriched
+curator: bibliography-team
+created_at: 2025-10-29
+updated_at: 2025-10-30
