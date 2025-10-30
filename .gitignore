@@ -5,3 +5,5 @@ _manifests/
 .DS_Store
 _backups/
 citations/_cache/
+
+!citations/_manifests/*.csv
