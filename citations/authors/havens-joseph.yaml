@@ -3,19 +3,25 @@ entity_type: person
 full_name: Joseph Havens
 family: Havens
 given: Joseph
-lifespan: null
+lifespan: 1919–1994
 nationality: American
 fields:
 - religious-studies
+- psychology-of-religion
 - psychedelics
-wikidata: null
-orcid: 0009-0006-9141-4381
+wikidata: Q136673131
+orcid: null
 aliases:
-  variants: []
+  variants:
+  - J. Havens
   misspellings: []
 notable_works:
 - havens-1964-religious-implications-consciousness-changing-drugs
-notes: Early contributor to religious studies on psychedelic experience.
-review_state: draft
+- havens-1965-the-journal-of-a-college-student
+- havens-1968-psychology-and-religion-a-contemporary-dialogue
+- havens-1978-fifth-yoga-the-way-of-relationships
+notes: American writer and scholar in religious studies and psychology of religion;
+  early contributor to discussions of psychedelic experience.
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30

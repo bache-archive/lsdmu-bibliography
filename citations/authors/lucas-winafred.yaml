@@ -1,6 +1,6 @@
 id: lucas-winafred
 entity_type: person
-full_name: Winafred Lucas
+full_name: Winafred Blake Lucas
 family: Lucas
 given: Winafred
 lifespan: 1920–2002
@@ -8,16 +8,22 @@ nationality: American
 fields:
 - psychology
 - regression-therapy
-wikidata: null
-orcid: 0009-0009-0423-940X
+wikidata: Q136673154
+orcid: null
 aliases:
   variants:
+  - Winifred Blake Lucas
+  - Winafred B. Lucas
+  - Winafred Lucas
   - Lucas
-  - Winafred B.
   misspellings: []
 notable_works:
-- lucas-1993-regression-therapy
-notes: Psychologist and editor of Regression Therapy volumes I & II.
-review_state: draft
+- lucas-1993-regression-therapy-vol-1
+- lucas-1993-regression-therapy-vol-2
+- lucas-1994-the-adventure-of-george-the-dinosaur
+- lucas-2022-through-my-looking-glass
+notes: American psychologist; editor of Regression Therapy (Vols. I–II); pioneer in
+  past-life regression.
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30

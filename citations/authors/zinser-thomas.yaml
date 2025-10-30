@@ -9,15 +9,19 @@ fields:
 - psychotherapy
 - hypnosis
 - spirituality
-wikidata: null
-orcid: 0000-0002-0199-8947
+wikidata: Q136673161
+orcid: null
 aliases:
-  variants: []
+  variants:
+  - Tom Zinser
+  - Dr. Thomas Zinser
   misspellings: []
 notable_works:
 - zinser-2011-soul-centered-healing
-notes: Clinical psychologist and author of Soul-Centered Healing, integrating hypnosis
+- zinser-2013-the-practice-of-soul-centered-healing-vol-1
+- zinser-2016-the-practice-of-soul-centered-healing-vol-2
+notes: Clinical psychologist and author of *Soul-Centered Healing*, integrating hypnosis
   and spirit-based therapy.
-review_state: draft
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30

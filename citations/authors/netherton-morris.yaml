@@ -8,14 +8,19 @@ nationality: American
 fields:
 - psychotherapy
 - regression-therapy
-wikidata: null
-orcid: 0000-0002-5478-9073
+wikidata: Q136673155
+orcid: null
 aliases:
-  variants: []
+  variants:
+  - Morris N. Netherton
+  - M. Netherton
   misspellings: []
 notable_works:
 - netherton-1978-past-lives-therapy
-notes: Founder of Past Life Therapy; pioneer in regression therapy.
-review_state: draft
+- netherton-1996-past-life-discovery-and-integration
+- netherton-2014-strangers-in-the-land-of-confusion
+- netherton-2015-the-netherton-method-of-past-life-therapy-training-manual
+notes: American psychotherapist and author; founder of past-life therapy.
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30

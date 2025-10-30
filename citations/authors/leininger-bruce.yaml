@@ -3,19 +3,21 @@ entity_type: person
 full_name: Bruce Leininger
 family: Leininger
 given: Bruce
-lifespan: null
+lifespan: 1953–
 nationality: American
 fields:
 - reincarnation
 - personal-narrative
-wikidata: null
-orcid: 0000-0001-8691-576X
+wikidata: Q136673138
+orcid: null
 aliases:
-  variants: []
+  variants:
+  - B. Leininger
   misspellings: []
 notable_works:
 - leininger-2009-soul-survivor
-notes: Co-author of Soul Survivor, chronicling his son’s apparent past-life memories.
-review_state: draft
+notes: American author and co-author of *Soul Survivor* (2009), chronicling his son’s
+  apparent past-life memories.
+review_state: verified
 curator: bibliography-team
-created_at: 2025-10-29
+created_at: 2025-10-30
