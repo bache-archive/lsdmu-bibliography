@@ -884,7 +884,7 @@ authors:
   full_name: Joseph Havens
   family: Havens
   given: Joseph
-  lifespan: null
+  lifespan: 1919–1994
   nationality: American
   fields:
   - religious-studies
@@ -1213,22 +1213,23 @@ authors:
   full_name: Bruce Leininger
   family: Leininger
   given: Bruce
-  lifespan: null
+  lifespan: 1953–
   nationality: American
   fields:
   - reincarnation
   - personal-narrative
-  wikidata: null
-  orcid: 0000-0001-8691-576X
+  wikidata: Q136673138
+  orcid: null
   aliases:
-    variants: []
+    variants:
+    - B. Leininger
     misspellings: []
   notable_works:
   - leininger-2009-soul-survivor
-  notes: Co-author of Soul Survivor, chronicling his son’s apparent past-life memories.
-  review_state: draft
+  notes: American author and co-author of *Soul Survivor* (2009), chronicling his son’s apparent past-life memories.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: leininger-andrea
   entity_type: person
   full_name: Andrea Leininger
@@ -1239,38 +1240,52 @@ authors:
   fields:
   - memoir
   - reincarnation
-  wikidata: null
-  orcid: 0000-0001-8691-576X
+  wikidata: Q136673141
+  orcid: null
   aliases:
-    variants: []
+    variants:
+    - A. Leininger
     misspellings: []
   notable_works:
   - leininger-2009-soul-survivor
-  notes: Co-author with Bruce Leininger of Soul Survivor (2009).
-  review_state: draft
+  notes: Co-author with Bruce Leininger of *Soul Survivor* (2009).
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: gross-ken
   entity_type: person
   full_name: Ken Gross
   family: Gross
   given: Ken
-  lifespan: null
+  lifespan: 1940–2012
   nationality: American
   fields:
   - journalism
-  - coauthor
-  wikidata: Q112435518
+  - biography
+  - fiction
+  wikidata: Q136673149
   orcid: null
   aliases:
-    variants: []
+    variants:
+    - Kenneth Gross
+    - K. Gross
     misspellings: []
   notable_works:
+  - gross-1978-fist
+  - gross-1984-im-not-at-all-like-you
+  - gross-1990-one-tough-cop-the-bo-dietl-story
+  - gross-1991-rough-justice
+  - gross-1992-hell-bent
+  - gross-1992-ross-perot-the-man-behind-the-myth
+  - gross-1994-a-high-pressure-system
+  - gross-1995-full-blown-rage
+  - gross-1997-the-talk-show-defense
+  - gross-2002-i-got-the-show-right-here
   - leininger-2009-soul-survivor
-  notes: Journalist and co-author of Soul Survivor (2009).
-  review_state: draft
+  notes: American journalist and author (1940–2012), known for crime and biography writing and as co-author of *Soul Survivor* (2009).
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: lipski-alexander
   entity_type: person
   full_name: Alexander Lipski
