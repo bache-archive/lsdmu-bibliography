@@ -35,3 +35,19 @@
 - Defined baseline CSL-JSON structure and naming conventions
 - Established canonical directory layout (`citations/registry/`, `schema/`, `validation/`, `topics.yaml`)
 - Drafted project charter and README
+## 2025-10-30
+
+### Wikidata Enrichment
+- Minted new QIDs: N. Chwelos (Q136673052), Mark Bolstridge (Q136673055), Edith Fiore (Q136673082),
+  Joseph Havens (Q136673131), Bruce Leininger (Q136673138), Andrea Leininger (Q136673141),
+  Ken Gross (Q136673149), Winafred Blake Lucas (Q136673154), Morris Netherton (Q136673155),
+  James Oroc (Q136673158), Thomas Zinser (Q136673161), Duncan Blewett (Q136673193),
+  Hans Ten Dam (Q136673207).
+- Fixed mis-mapped QIDs: Roger Walsh → Q3622980, Anne C. Klein → Q4768201,
+  Paul Gilding → Q2754187, S. L. Cranston → Q112421631, Walter Pahnke → Q7965779.
+- Added missing en labels where needed (e.g., Dante Alighieri).
+
+### Audits
+- Ran human check (P31=Q5) across all person QIDs; resolved non-human outliers.
+- Regenerated enrichment summary.
+
