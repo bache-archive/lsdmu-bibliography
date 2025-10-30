@@ -271,17 +271,21 @@ authors:
   fields:
   - psychiatry
   - psychotherapy
-  wikidata: null
+  - psychopharmacology
+  wikidata: Q136673052
   orcid: 0000-0002-0498-0443
   aliases:
-    variants: []
+    variants:
+    - N Chwelos
     misspellings: []
   notable_works:
   - blewett-1959-handbook-therapeutic-lsd
-  notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
-  review_state: draft
+  - q54037231-psychological-response-to-d-lysergic-acid-diethylamide
+  - q34250203-use-of-d-lysergic-acid-diethylamide-in-the-treatment-of-alcoholism
+  notes: Canadian psychiatrist involved in early LSD therapy research; co-author of the 1959 *Handbook for the Therapeutic Use of LSD-25* and related studies with Humphry Osmond and Abram Hoffer.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: bowman-carol
   entity_type: person
   full_name: Carol Bowman
@@ -356,17 +360,22 @@ authors:
   fields:
   - psychiatry
   - psychedelics
-  wikidata: null
+  - psychopharmacology
+  wikidata: Q136673055
   orcid: 0000-0003-2151-0360
   aliases:
-    variants: []
+    variants:
+    - M. Bolstridge
     misspellings: []
   notable_works:
   - carhart-harris-2016-paradoxical-psychological-effects-lsd
-  notes: Co-author of LSD and depression clinical studies.
-  review_state: draft
+  - q24174843-neural-correlates-of-the-lsd-experience
+  - q42377130-psilocybin-for-treatment-resistant-depression
+  - q28005551-psilocybin-with-psychological-support
+  notes: British psychiatrist and researcher in psychedelic medicine; co-author on psilocybin and LSD neuroimaging studies with Carhart-Harris and Nutt groups.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: nutt-david-j
   entity_type: person
   full_name: David J. Nutt
@@ -737,17 +746,24 @@ authors:
   fields:
   - hypnotherapy
   - regression-therapy
-  wikidata: null
-  orcid: 0009-0005-4918-9785
+  - psychology
+  wikidata: Q136673082
+  orcid: null
   aliases:
-    variants: []
+    variants:
+    - Edith Fiore, Ph.D.
     misspellings: []
   notable_works:
   - fiore-1978-you-have-been-here-before
-  notes: Psychologist and pioneer in past-life regression therapy.
-  review_state: draft
+  - fiore-1987-the-unquiet-dead
+  - fiore-1989-encounters
+  - fiore-2013-mistress-of-the-two-lands
+  - fiore-2019-opening-the-closed-door
+  - fiore-2021-ufo-abductions
+  notes: Clinical psychologist and pioneer in past-life regression therapy; credited on “Alien Nation” (1994, Q114920946).
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: forte-robert
   entity_type: person
   full_name: Robert Forte
@@ -872,18 +888,23 @@ authors:
   nationality: American
   fields:
   - religious-studies
+  - psychology-of-religion
   - psychedelics
-  wikidata: null
-  orcid: 0009-0006-9141-4381
+  wikidata: Q136673131
+  orcid: null
   aliases:
-    variants: []
+    variants:
+    - J. Havens
     misspellings: []
   notable_works:
   - havens-1964-religious-implications-consciousness-changing-drugs
-  notes: Early contributor to religious studies on psychedelic experience.
-  review_state: draft
+  - havens-1965-the-journal-of-a-college-student
+  - havens-1968-psychology-and-religion-a-contemporary-dialogue
+  - havens-1978-fifth-yoga-the-way-of-relationships
+  notes: American writer and scholar in religious studies and psychology of religion; early contributor to discussions of psychedelic experience.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: hawken-paul
   entity_type: person
   full_name: Paul Hawken
