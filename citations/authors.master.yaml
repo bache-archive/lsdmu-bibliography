@@ -285,7 +285,7 @@ authors:
   notes: Canadian psychiatrist involved in early LSD therapy research; co-author of the 1959 *Handbook for the Therapeutic Use of LSD-25* and related studies with Humphry Osmond and Abram Hoffer.
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: bowman-carol
   entity_type: person
   full_name: Carol Bowman
@@ -339,7 +339,7 @@ authors:
   fields:
   - music-therapy
   - psychedelics
-  wikidata: null
+  wikidata: Q136673039
   orcid: 0000-0002-6987-9346
   aliases:
     variants: []
@@ -375,7 +375,7 @@ authors:
   notes: British psychiatrist and researcher in psychedelic medicine; co-author on psilocybin and LSD neuroimaging studies with Carhart-Harris and Nutt groups.
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: nutt-david-j
   entity_type: person
   full_name: David J. Nutt
@@ -763,7 +763,7 @@ authors:
   notes: Clinical psychologist and pioneer in past-life regression therapy; credited on “Alien Nation” (1994, Q114920946).
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: forte-robert
   entity_type: person
   full_name: Robert Forte
@@ -904,7 +904,7 @@ authors:
   notes: American writer and scholar in religious studies and psychology of religion; early contributor to discussions of psychedelic experience.
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: hawken-paul
   entity_type: person
   full_name: Paul Hawken
@@ -1229,7 +1229,7 @@ authors:
   notes: American author and co-author of *Soul Survivor* (2009), chronicling his son’s apparent past-life memories.
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: leininger-andrea
   entity_type: person
   full_name: Andrea Leininger
@@ -1251,7 +1251,7 @@ authors:
   notes: Co-author with Bruce Leininger of *Soul Survivor* (2009).
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: gross-ken
   entity_type: person
   full_name: Ken Gross
@@ -1285,7 +1285,7 @@ authors:
   notes: American journalist and author (1940–2012), known for crime and biography writing and as co-author of *Soul Survivor* (2009).
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: lipski-alexander
   entity_type: person
   full_name: Alexander Lipski
@@ -1354,10 +1354,10 @@ authors:
   - lucas-1993-regression-therapy-vol-2
   - lucas-1994-the-adventure-of-george-the-dinosaur
   - lucas-2022-through-my-looking-glass
-  notes: American psychologist (1920–2002) and editor of *Regression Therapy: A Handbook for Professionals* (Volumes I & II); pioneer in past-life regression research.
+  notes: "American psychologist; editor of Regression Therapy (Vols. I–II); pioneer in past-life regression."
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: macy-joanna
   entity_type: person
   full_name: Joanna Macy
@@ -1508,17 +1508,22 @@ authors:
   fields:
   - psychotherapy
   - regression-therapy
-  wikidata: null
-  orcid: 0000-0002-5478-9073
+  wikidata: Q136673155
+  orcid: null
   aliases:
-    variants: []
+    variants:
+    - Morris N. Netherton
+    - M. Netherton
     misspellings: []
   notable_works:
   - netherton-1978-past-lives-therapy
-  notes: Founder of Past Life Therapy; pioneer in regression therapy.
-  review_state: draft
+  - netherton-1996-past-life-discovery-and-integration
+  - netherton-2014-strangers-in-the-land-of-confusion
+  - netherton-2015-the-netherton-method-of-past-life-therapy-training-manual
+  notes: American psychotherapist and author; founder of past-life therapy.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  created_at: 2025-10-30
 - id: paul-thomas
   entity_type: person
   full_name: Thomas Paul
@@ -1594,19 +1599,21 @@ authors:
   fields:
   - psychedelics
   - journalism
-  wikidata: null
-  orcid: 0000-0002-8229-7842
+  wikidata: Q136673158
+  orcid: null
   aliases:
     variants:
     - Oroc
-    - J.
+    - J. Oroc
     misspellings: []
   notable_works:
   - oroc-2009-tryptamine-palace
-  notes: Writer on 5-MeO-DMT and entheogenic experience; author of Tryptamine Palace.
-  review_state: draft
+  - oroc-2018-the-new-psychedelic-revolution
+  - oroc-2023-under-the-influence
+  notes: Australian writer and journalist on 5-MeO-DMT and entheogenic experience; author of *Tryptamine Palace*.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  created_at: 2025-10-30
 - id: osto-douglas
   entity_type: person
   full_name: Douglas Osto
@@ -1747,7 +1754,7 @@ authors:
   notes: Swiss psychologist and author specializing in near-death studies; cofounder of IANDS–Switzerland and collaborator with Raymond Moody.
   review_state: verified
   curator: bibliography-team
-  updated_at: 2025-10-30
+  created_at: 2025-10-30
 - id: rowan-john
   entity_type: person
   full_name: John Rowan
@@ -2505,18 +2512,21 @@ authors:
   - psychotherapy
   - hypnosis
   - spirituality
-  wikidata: null
-  orcid: 0000-0002-0199-8947
+  wikidata: Q136673161
+  orcid: null
   aliases:
-    variants: []
+    variants:
+    - Tom Zinser
+    - Dr. Thomas Zinser
     misspellings: []
   notable_works:
   - zinser-2011-soul-centered-healing
-  notes: Clinical psychologist and author of Soul-Centered Healing, integrating hypnosis
-    and spirit-based therapy.
-  review_state: draft
+  - zinser-2013-the-practice-of-soul-centered-healing-vol-1
+  - zinser-2016-the-practice-of-soul-centered-healing-vol-2
+  notes: Clinical psychologist and author of *Soul-Centered Healing*, integrating hypnosis and spirit-based therapy.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  created_at: 2025-10-30
 - id: scientific-american
   entity_type: organization
   full_name: Scientific American
