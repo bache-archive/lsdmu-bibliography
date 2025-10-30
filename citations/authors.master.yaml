@@ -12,7 +12,7 @@ authors:
   fields:
   - psychology
   - spirituality
-  wikidata: Q2837888
+  wikidata: Q4647826
   orcid: null
   aliases:
     variants:
@@ -36,7 +36,7 @@ authors:
   fields:
   - philosophy
   - philosophy-of-mind
-  wikidata: Q7346273
+  wikidata: Q7344153
   orcid: null
   aliases:
     variants: []
@@ -57,7 +57,7 @@ authors:
   fields:
   - ayahuasca
   - spirituality
-  wikidata: null
+  wikidata: Q106595653
   orcid: 0000-0002-4502-7034
   aliases:
     variants:
@@ -104,7 +104,7 @@ authors:
   - philosophy
   - religious-studies
   - editor
-  wikidata: Q7346315
+  wikidata: Q91596953
   orcid: 0000-0002-4014-9964
   aliases:
     variants: []
@@ -143,27 +143,32 @@ authors:
   review_state: draft
   curator: bibliography-team
   created_at: 2025-10-29
-- id: badiner-allen
+- id: badiner-allan-hunt
   entity_type: person
-  full_name: Allen Badiner
+  full_name: Allan Hunt Badiner
   family: Badiner
-  given: Allen
-  lifespan: null
+  given: Allan Hunt
+  legacy_ids: ["badiner-allen"]
+  lifespan: "1950–"
   nationality: American
   fields:
-  - editor
-  - buddhism
-  wikidata: null
+    - editor
+    - buddhism
+  wikidata: Q113821714
   orcid: null
   aliases:
-    variants: []
+    variants:
+      - Allen Badiner
+      - Allan H. Badiner
+      - Allan Badiner
     misspellings: []
   notable_works:
-  - badiner-2002-zig-zag-zen
+    - badiner-2002-zig-zag-zen
   notes: Co-editor of Zig Zag Zen (2002).
   review_state: draft
   curator: bibliography-team
   created_at: 2025-10-29
+  updated_at: 2025-10-29
 - id: grey-alex
   entity_type: person
   full_name: Alex Grey
@@ -174,7 +179,7 @@ authors:
   fields:
   - art
   - mysticism
-  wikidata: Q283762
+  wikidata: Q725199
   orcid: 0000-0001-9659-6408
   aliases:
     variants: []
@@ -195,7 +200,7 @@ authors:
   fields:
   - mythology
   - spirituality
-  wikidata: Q4755566
+  wikidata: Q17333608
   orcid: 0009-0000-3760-7242
   aliases:
     variants: []
@@ -217,7 +222,7 @@ authors:
   fields:
   - ecotheology
   - cosmology
-  wikidata: Q779967
+  wikidata: Q349709
   orcid: 0000-0002-0314-4136
   aliases:
     variants: []
@@ -230,27 +235,32 @@ authors:
   review_state: draft
   curator: bibliography-team
   created_at: 2025-10-29
-- id: blewett-d-b
+- id: blewett-duncan
   entity_type: person
-  full_name: D. B. Blewett
+  full_name: Duncan Blewett
   family: Blewett
-  given: D. B.
-  lifespan: null
+  given: Duncan
+  legacy_ids: ["blewett-d-b"]
+  lifespan: "1910–2007"
   nationality: Canadian
   fields:
-  - psychiatry
-  - psychotherapy
-  wikidata: null
+    - psychology
+    - psychiatry
+    - psychotherapy
+  wikidata: Q123489309
   orcid: null
   aliases:
-    variants: []
+    variants:
+      - D. B. Blewett
+      - Duncan B. Blewett
     misspellings: []
   notable_works:
-  - blewett-1959-handbook-therapeutic-lsd
-  notes: Co-author of the 1959 Handbook for the Therapeutic Use of LSD-25.
-  review_state: draft
+    - blewett-1959-handbook-therapeutic-lsd
+  notes: Canadian psychologist and LSD researcher; co-author of *The Handbook for the Therapeutic Use of LSD-25* (1959), among the earliest clinical manuals for psychedelic therapy.
+  review_state: enriched
   curator: bibliography-team
   created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: chwelos-n
   entity_type: person
   full_name: N. Chwelos
@@ -282,7 +292,7 @@ authors:
   fields:
   - reincarnation
   - psychology
-  wikidata: Q5043103
+  wikidata: Q5044268
   orcid: null
   aliases:
     variants: []
@@ -367,7 +377,7 @@ authors:
   fields:
   - psychopharmacology
   - neuroscience
-  wikidata: Q1172250
+  wikidata: Q3277223
   orcid: 0000-0002-1286-1401
   aliases:
     variants:
@@ -390,7 +400,7 @@ authors:
   fields:
   - religious-studies
   - psychedelics
-  wikidata: null
+  wikidata: Q8006273
   orcid: 0000-0001-8994-5251
   aliases:
     variants: []
@@ -433,7 +443,7 @@ authors:
   fields:
   - reincarnation
   - spirituality
-  wikidata: null
+  wikidata: Q111692591
   orcid: 0009-0000-8966-9525
   aliases:
     variants: []
@@ -499,7 +509,7 @@ authors:
   - archaeology
   - consciousness
   - sacred-landscape
-  wikidata: Q3380667
+  wikidata: Q7150253
   orcid: 0000-0003-0221-8241
   aliases:
     variants:
@@ -522,7 +532,7 @@ authors:
   fields:
   - geography
   - anthropology
-  wikidata: Q313871
+  wikidata: Q205772
   orcid: null
   aliases:
     variants: []
@@ -543,7 +553,7 @@ authors:
   nationality: Austrian-American
   fields:
   - philosophy
-  wikidata: Q715103
+  wikidata: Q109269357
   orcid: 0000-0001-6228-1520
   aliases:
     variants: []
@@ -566,7 +576,7 @@ authors:
   - philosophy
   - ecology
   - economics
-  wikidata: Q5073032
+  wikidata: Q5077338
   orcid: 0000-0001-5506-5598
   aliases:
     variants: []
@@ -611,7 +621,7 @@ authors:
   - theology
   - psychology
   - psychedelics
-  wikidata: Q30514154
+  wikidata: Q6105942
   orcid: 0000-0002-7814-0834
   aliases:
     variants:
@@ -635,7 +645,7 @@ authors:
   fields:
   - journalism
   - economics
-  wikidata: Q6489018
+  wikidata: Q6490260
   orcid: 0000-0002-3480-7211
   aliases:
     variants:
@@ -658,7 +668,7 @@ authors:
   fields:
   - psychology
   - ego-state-therapy
-  wikidata: null
+  wikidata: Q108538768
   orcid: 0000-0003-1603-5120
   aliases:
     variants: []
@@ -680,7 +690,7 @@ authors:
   - transpersonal-psychology
   - philosophy
   - spirituality
-  wikidata: Q6276421
+  wikidata: Q6277981
   orcid: 0000-0002-2884-0269
   aliases:
     variants:
@@ -706,7 +716,7 @@ authors:
   fields:
   - psychology
   - editor
-  wikidata: null
+  wikidata: Q6318129
   orcid: 0000-0002-8165-9258
   aliases:
     variants: []
@@ -748,7 +758,7 @@ authors:
   fields:
   - psychedelics
   - editor
-  wikidata: Q123270290
+  wikidata: Q112413870
   orcid: 0009-0007-9575-2983
   aliases:
     variants: []
@@ -791,7 +801,7 @@ authors:
   fields:
   - psychiatry
   - transpersonal-psychology
-  wikidata: Q76122
+  wikidata: Q508620
   orcid: null
   aliases:
     variants:
@@ -842,7 +852,7 @@ authors:
   fields:
   - spirituality
   - mysticism
-  wikidata: Q4758321
+  wikidata: Q110221171
   orcid: 0000-0003-3082-0440
   aliases:
     variants: []
@@ -885,7 +895,7 @@ authors:
   - environmentalism
   - business
   - sustainability
-  wikidata: Q7130323
+  wikidata: Q1442418
   orcid: null
   aliases:
     variants: []
@@ -908,7 +918,7 @@ authors:
   - psychology
   - human-potential
   - spirituality
-  wikidata: Q3161388
+  wikidata: Q6170855
   orcid: null
   aliases:
     variants: []
@@ -929,7 +939,7 @@ authors:
   fields:
   - conscious-evolution
   - spirituality
-  wikidata: Q485634
+  wikidata: Q2900061
   orcid: 0000-0002-4035-3164
   aliases:
     variants:
@@ -953,7 +963,7 @@ authors:
   fields:
   - philosophy
   - phenomenology
-  wikidata: Q937
+  wikidata: Q58586
   orcid: null
   aliases:
     variants: []
@@ -975,7 +985,7 @@ authors:
   - literature
   - philosophy
   - psychedelics
-  wikidata: Q44432
+  wikidata: Q81447
   orcid: null
   aliases:
     variants: []
@@ -998,7 +1008,7 @@ authors:
   - psychology
   - philosophy
   - religion
-  wikidata: Q173746
+  wikidata: Q125249
   orcid: null
   aliases:
     variants: []
@@ -1019,7 +1029,7 @@ authors:
   fields:
   - psychopharmacology
   - psychedelics
-  wikidata: null
+  wikidata: Q112698753
   orcid: 0000-0003-1330-7100
   aliases:
     variants:
@@ -1041,7 +1051,7 @@ authors:
   fields:
   - psychedelic-therapy
   - psychology
-  wikidata: Q7934677
+  wikidata: Q112561306
   orcid: 0000-0003-0730-9249
   aliases:
     variants:
@@ -1065,7 +1075,7 @@ authors:
   fields:
   - psychopharmacology
   - psychedelics
-  wikidata: Q55645406
+  wikidata: Q85317587
   orcid: 0000-0001-5185-7854
   aliases:
     variants: []
@@ -1088,7 +1098,7 @@ authors:
   - psychology
   - analytical-psychology
   - mysticism
-  wikidata: Q91128
+  wikidata: Q41532
   orcid: null
   aliases:
     variants:
@@ -1135,7 +1145,7 @@ authors:
   - economics
   - sustainability
   - social-justice
-  wikidata: Q1182267
+  wikidata: Q722422
   orcid: null
   aliases:
     variants:
@@ -1161,7 +1171,7 @@ authors:
   - systems-theory
   - philosophy
   - consciousness-studies
-  wikidata: Q303534
+  wikidata: Q964137
   orcid: null
   aliases:
     variants:
@@ -1229,7 +1239,7 @@ authors:
   fields:
   - journalism
   - coauthor
-  wikidata: null
+  wikidata: Q112435518
   orcid: null
   aliases:
     variants: []
@@ -1250,7 +1260,7 @@ authors:
   fields:
   - religious-studies
   - indian-philosophy
-  wikidata: Q4713212
+  wikidata: Q128239637
   orcid: 0000-0002-5550-0956
   aliases:
     variants: []
@@ -1271,7 +1281,7 @@ authors:
   fields:
   - cardiology
   - near-death-studies
-  wikidata: Q578401
+  wikidata: Q598131
   orcid: null
   aliases:
     variants:
@@ -1286,7 +1296,7 @@ authors:
   created_at: 2025-10-29
 - id: lucas-winafred
   entity_type: person
-  full_name: Winafred Lucas
+  full_name: Winafred Blake Lucas
   family: Lucas
   given: Winafred
   lifespan: 1920–2002
@@ -1298,15 +1308,18 @@ authors:
   orcid: 0009-0009-0423-940X
   aliases:
     variants:
+    - Winifred Blake Lucas
+    - Winafred B. Lucas
+    - Winafred Lucas
     - Lucas
-    - Winafred B.
     misspellings: []
   notable_works:
   - lucas-1993-regression-therapy
-  notes: Psychologist and editor of Regression Therapy volumes I & II.
+  notes: American psychologist and editor of *Regression Therapy: A Handbook for Professionals* (Volumes I & II); pioneer in past-life regression research.
   review_state: draft
   curator: bibliography-team
   created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: macy-joanna
   entity_type: person
   full_name: Joanna Macy
@@ -1318,7 +1331,7 @@ authors:
   - eco-philosophy
   - buddhism
   - systems-theory
-  wikidata: Q1684917
+  wikidata: Q4964805
   orcid: 0000-0001-7927-2663
   aliases:
     variants: []
@@ -1340,7 +1353,7 @@ authors:
   fields:
   - systems-analysis
   - sustainability
-  wikidata: Q1177313
+  wikidata: Q271226
   orcid: 0000-0002-1222-6272
   aliases:
     variants: []
@@ -1362,7 +1375,7 @@ authors:
   fields:
   - systems-analysis
   - sustainability
-  wikidata: Q441901
+  wikidata: Q1189291
   orcid: 0000-0003-3669-4414
   aliases:
     variants: []
@@ -1386,7 +1399,7 @@ authors:
   - climate-science
   - economics
   - sustainability
-  wikidata: Q620268
+  wikidata: Q2271800
   orcid: 0000-0002-2214-684X
   aliases:
     variants:
@@ -1411,7 +1424,7 @@ authors:
   fields:
   - psychology
   - psychedelics
-  wikidata: Q1011899
+  wikidata: Q2277534
   orcid: null
   aliases:
     variants: []
@@ -1434,7 +1447,7 @@ authors:
   fields:
   - consciousness-research
   - out-of-body-experiences
-  wikidata: Q752116
+  wikidata: Q547798
   orcid: 0000-0003-1572-4063
   aliases:
     variants:
@@ -1478,7 +1491,7 @@ authors:
   fields:
   - psychology
   - regression-therapy
-  wikidata: null
+  wikidata: Q63460895
   orcid: null
   aliases:
     variants: []
@@ -1499,7 +1512,7 @@ authors:
   fields:
   - hypnotherapy
   - afterlife-research
-  wikidata: Q6841235
+  wikidata: Q38804385
   orcid: 0000-0003-1649-4116
   aliases:
     variants: []
@@ -1522,7 +1535,7 @@ authors:
   fields:
   - transpersonal-psychology
   - subtle-activism
-  wikidata: null
+  wikidata: Q102236531
   orcid: 0000-0003-0107-6990
   aliases:
     variants: []
@@ -1566,7 +1579,7 @@ authors:
   fields:
   - religious-studies
   - buddhism
-  wikidata: Q39179221
+  wikidata: Q101320534
   orcid: 0000-0001-8090-5982
   aliases:
     variants: []
@@ -1588,7 +1601,7 @@ authors:
   - ethnobotany
   - chemistry
   - psychedelics
-  wikidata: Q380525
+  wikidata: Q102367959
   orcid: 0009-0006-4328-4228
   aliases:
     variants: []
@@ -1635,7 +1648,7 @@ authors:
   - journalism
   - psychedelics
   - food-studies
-  wikidata: Q162154
+  wikidata: Q1138996
   orcid: 0000-0002-4328-1565
   aliases:
     variants: []
@@ -1657,7 +1670,7 @@ authors:
   fields:
   - psychology
   - near-death-studies
-  wikidata: Q6382456
+  wikidata: Q285368
   orcid: 0000-0003-3513-5143
   aliases:
     variants:
@@ -1675,7 +1688,7 @@ authors:
   created_at: 2025-10-29
 - id: valarino-evelyn
   entity_type: person
-  full_name: Evelyn Valarino
+  full_name: Evelyn Elsaesser Valarino
   family: Valarino
   given: Evelyn
   lifespan: null
@@ -1683,19 +1696,20 @@ authors:
   fields:
   - psychology
   - near-death-studies
-  wikidata: null
+  wikidata: Q95169971
   orcid: 0000-0002-4938-9083
   aliases:
     variants:
+    - Evelyn Valarino
+    - E. E. Valarino
     - Valarino
-    - E.
     misspellings: []
   notable_works:
-  - ring-1998-lessons-from-the-light
-  notes: Co-author with Kenneth Ring of Lessons from the Light (1998).
-  review_state: draft
+  - elsaesser-valarino-1997-on-the-other-side-of-life
+  notes: Swiss psychologist and author specializing in near-death studies; cofounder of IANDS–Switzerland and collaborator with Raymond Moody.
+  review_state: verified
   curator: bibliography-team
-  created_at: 2025-10-29
+  updated_at: 2025-10-30
 - id: rowan-john
   entity_type: person
   full_name: John Rowan
@@ -1706,7 +1720,7 @@ authors:
   fields:
   - psychology
   - humanistic-psychotherapy
-  wikidata: Q16983336
+  wikidata: Q113501203
   orcid: 0000-0002-5062-4044
   aliases:
     variants: []
@@ -1728,7 +1742,7 @@ authors:
   - consciousness
   - physics
   - philosophy
-  wikidata: Q7175104
+  wikidata: Q114922642
   orcid: null
   aliases:
     variants: []
@@ -1750,7 +1764,7 @@ authors:
   fields:
   - spirituality
   - philosophy
-  wikidata: Q306445
+  wikidata: Q633563
   orcid: null
   aliases:
     variants:
@@ -1774,7 +1788,7 @@ authors:
   - journalism
   - psychedelics
   - biography
-  wikidata: Q7816628
+  wikidata: Q7817571
   orcid: 0000-0002-5009-5592
   aliases:
     variants: []
@@ -1795,7 +1809,7 @@ authors:
   fields:
   - biology
   - philosophy-of-science
-  wikidata: Q937083
+  wikidata: Q349077
   orcid: null
   aliases:
     variants: []
@@ -1820,7 +1834,7 @@ authors:
   - chemistry
   - pharmacology
   - psychedelics
-  wikidata: Q1366178
+  wikidata: Q114972797
   orcid: 0000-0002-2660-5660
   aliases:
     variants:
@@ -1845,7 +1859,7 @@ authors:
   fields:
   - psychotherapy
   - psychedelics
-  wikidata: Q972881
+  wikidata: Q2561145
   orcid: 0000-0002-8507-453X
   aliases:
     variants: []
@@ -1867,7 +1881,7 @@ authors:
   fields:
   - religious-studies
   - comparative-religion
-  wikidata: Q1636676
+  wikidata: Q5950051
   orcid: 0000-0003-4218-4648
   aliases:
     variants: []
@@ -1890,7 +1904,7 @@ authors:
   fields:
   - law-enforcement
   - reincarnation
-  wikidata: null
+  wikidata: Q47112345
   orcid: null
   aliases:
     variants:
@@ -1914,7 +1928,7 @@ authors:
   fields:
   - philosophy
   - mysticism
-  wikidata: Q1626638
+  wikidata: Q433728
   orcid: null
   aliases:
     variants:
@@ -1937,7 +1951,7 @@ authors:
   fields:
   - psychiatry
   - reincarnation-research
-  wikidata: Q1615286
+  wikidata: Q731300
   orcid: 0000-0002-6920-3573
   aliases:
     variants:
@@ -1961,7 +1975,7 @@ authors:
   fields:
   - psychedelics
   - humanistic-psychology
-  wikidata: Q6940412
+  wikidata: Q6948497
   orcid: 0000-0003-3290-5843
   aliases:
     variants: []
@@ -1983,7 +1997,7 @@ authors:
   fields:
   - psychiatry
   - psychedelics
-  wikidata: Q2206246
+  wikidata: Q4354666
   orcid: 0000-0002-6979-1547
   aliases:
     variants:
@@ -2008,8 +2022,8 @@ authors:
   - anthropology
   - culture
   - psychedelics
-  wikidata: Q55245378
-  orcid: null
+  wikidata: Q112343626
+  orcid: 0000-0002-2020-5738
   aliases:
     variants:
     - St John
@@ -2032,7 +2046,7 @@ authors:
   - philosophy
   - cultural-history
   - archetypal-psychology
-  wikidata: Q1529745
+  wikidata: Q123928
   orcid: null
   aliases:
     variants: []
@@ -2055,7 +2069,7 @@ authors:
   fields:
   - regression-therapy
   - spirituality
-  wikidata: null
+  wikidata: Q5677697
   orcid: null
   aliases:
     variants:
@@ -2078,7 +2092,7 @@ authors:
   fields:
   - chemistry
   - psychedelics
-  wikidata: null
+  wikidata: Q89416133
   orcid: 0000-0001-8971-9473
   aliases:
     variants: []
@@ -2100,7 +2114,7 @@ authors:
   fields:
   - psychiatry
   - reincarnation-research
-  wikidata: Q6204526
+  wikidata: Q3244789
   orcid: 0009-0003-1895-4291
   aliases:
     variants:
@@ -2124,7 +2138,7 @@ authors:
   fields:
   - mysticism
   - theology
-  wikidata: Q470747
+  wikidata: Q454734
   orcid: null
   aliases:
     variants:
@@ -2148,7 +2162,7 @@ authors:
   fields:
   - analytical-psychology
   - mythology
-  wikidata: Q317920
+  wikidata: Q60236
   orcid: null
   aliases:
     variants:
@@ -2171,7 +2185,7 @@ authors:
   fields:
   - journalism
   - climate-change
-  wikidata: Q56249190
+  wikidata: Q61766571
   orcid: null
   aliases:
     variants:
@@ -2219,7 +2233,7 @@ authors:
   fields:
   - psychiatry
   - psychedelics
-  wikidata: Q61734706
+  wikidata: Q27916105
   orcid: 0000-0002-4863-2942
   aliases:
     variants:
@@ -2243,7 +2257,7 @@ authors:
   fields:
   - psychology
   - reincarnation
-  wikidata: Q5689237
+  wikidata: Q59532751
   orcid: 0000-0001-7384-0412
   aliases:
     variants:
@@ -2268,7 +2282,7 @@ authors:
   - anthropology
   - spirituality
   - indigenous-studies
-  wikidata: Q5480292
+  wikidata: Q100949175
   orcid: null
   aliases:
     variants: []
@@ -2289,7 +2303,7 @@ authors:
   fields:
   - psychology
   - hypnotherapy
-  wikidata: Q6262406
+  wikidata: Q6234628
   orcid: 0000-0001-5099-1023
   aliases:
     variants: []
@@ -2310,7 +2324,7 @@ authors:
   fields:
   - psychiatry
   - regression-therapy
-  wikidata: Q2960811
+  wikidata: Q1822419
   orcid: 0000-0003-1576-3556
   aliases:
     variants:
@@ -2334,7 +2348,7 @@ authors:
   fields:
   - psychiatry
   - reincarnation-research
-  wikidata: null
+  wikidata: Q112381155
   orcid: 0000-0002-8043-9229
   aliases:
     variants:
@@ -2357,7 +2371,7 @@ authors:
   fields:
   - journalism
   - spirituality
-  wikidata: Q6239779
+  wikidata: Q30126059
   orcid: null
   aliases:
     variants:
@@ -2381,7 +2395,7 @@ authors:
   - philosophy
   - transpersonal-psychology
   - integral-theory
-  wikidata: Q650357
+  wikidata: Q309829
   orcid: null
   aliases:
     variants: []
@@ -2405,7 +2419,7 @@ authors:
   - psychotherapy
   - regression-therapy
   - spirituality
-  wikidata: Q7362709
+  wikidata: Q13522547
   orcid: 0000-0002-3071-0981
   aliases:
     variants:

@@ -1,0 +1,40 @@
+authors:
+  - id: badiner-allan-hunt
+    entity_type: person
+    family: Badiner
+    given: Allan Hunt
+    full_name: Allan Hunt Badiner
+    aliases: ["Allen Badiner", "Allan H. Badiner"]
+    nationality: American
+    fields: ["editor", "Buddhism", "psychedelics"]
+    notable_works: ["badiner-2002-zig-zag-zen"]
+
+  - id: blewett-duncan
+    entity_type: person
+    family: Blewett
+    given: Duncan
+    full_name: Duncan Blewett
+    aliases: ["D. B. Blewett", "D.B. Blewett"]
+    nationality: Canadian
+    fields: ["psychiatry", "psychotherapy", "LSD therapy"]
+    notable_works: ["blewett-1959-handbook-therapeutic-lsd"]
+
+  - id: snow-robert
+    entity_type: person
+    family: Snow
+    given: Robert L.
+    full_name: Robert L. Snow
+    aliases: ["Robert Snow"]
+    nationality: American
+    fields: ["nonfiction", "reincarnation"]
+    notable_works: ["snow-1999-looking-for-carroll-beckwith"]
+
+  - id: ten-dam-hans
+    entity_type: person
+    family: Ten Dam
+    given: Hans
+    full_name: Hans Ten Dam
+    aliases: ["Hans TenDam", "Hans Tendam"]  # include spacing/typo variants
+    nationality: Dutch
+    fields: ["regression therapy", "reincarnation"]
+    notable_works: ["ten-dam-2013-deep-healing"]
