@@ -1,0 +1,41 @@
+{
+  "id": "source:bache:LSDMU:bib:husserl-2013-ideas",
+  "type": "book",
+  "author": [
+    {
+      "family": "Husserl",
+      "given": "Edmund"
+    }
+  ],
+  "title": "Ideas",
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "original-date": {
+    "date-parts": [
+      [
+        1931
+      ]
+    ]
+  },
+  "publisher": "Routledge",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Husserl 1931/2013",
+    "topics": [
+      "philosophy-of-science",
+      "consciousness"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:pollan-2018-how-to-change-your-mind",
+  "type": "book",
+  "author": [
+    {
+      "family": "Pollan",
+      "given": "Michael"
+    }
+  ],
+  "title": "How to change your mind",
+  "issued": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "publisher": "Penguin Press",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Pollan 2018",
+    "topics": [
+      "psychedelics",
+      "culture",
+      "science"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

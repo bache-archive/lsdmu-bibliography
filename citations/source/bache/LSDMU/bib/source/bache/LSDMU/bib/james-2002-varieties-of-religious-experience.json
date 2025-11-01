@@ -1,0 +1,41 @@
+{
+  "id": "source:bache:LSDMU:bib:james-2002-varieties-of-religious-experience",
+  "type": "book",
+  "author": [
+    {
+      "family": "James",
+      "given": "William"
+    }
+  ],
+  "title": "The varieties of religious experience",
+  "issued": {
+    "date-parts": [
+      [
+        2002
+      ]
+    ]
+  },
+  "original-date": {
+    "date-parts": [
+      [
+        1902
+      ]
+    ]
+  },
+  "publisher": "Routledge",
+  "publisher-place": "London, UK",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "James 1902/2002",
+    "topics": [
+      "mysticism",
+      "psychology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

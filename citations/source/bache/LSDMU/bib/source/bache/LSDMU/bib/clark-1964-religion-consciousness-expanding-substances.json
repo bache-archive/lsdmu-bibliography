@@ -1,0 +1,41 @@
+{
+  "id": "source:bache:LSDMU:bib:clark-1964-religion-consciousness-expanding-substances",
+  "type": "chapter",
+  "author": [
+    {
+      "family": "Clark",
+      "given": "W. C."
+    }
+  ],
+  "title": "Religion and the consciousness-expanding substances",
+  "container-title": "Religion ponders science",
+  "editor": [
+    {
+      "family": "Booth",
+      "given": "E."
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1964
+      ]
+    ]
+  },
+  "publisher": "Appleton-Century",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Clark 1964",
+    "topics": [
+      "psychedelics",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:bache-1990-lifecycles",
+  "type": "book",
+  "author": [
+    {
+      "family": "Bache",
+      "given": "Christopher"
+    }
+  ],
+  "title": "Lifecycles",
+  "issued": {
+    "date-parts": [
+      [
+        1990
+      ]
+    ]
+  },
+  "publisher": "Paragon House",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Bache 1990",
+    "topics": [
+      "transpersonal-psychology",
+      "consciousness"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

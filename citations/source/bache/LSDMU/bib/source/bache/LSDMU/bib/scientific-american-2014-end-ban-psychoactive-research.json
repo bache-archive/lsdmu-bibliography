@@ -1,0 +1,36 @@
+{
+  "id": "source:bache:LSDMU:bib:scientific-american-2014-end-ban-psychoactive-research",
+  "type": "article-magazine",
+  "author": [
+    {
+      "literal": "Scientific American Editorial Board"
+    }
+  ],
+  "title": "End the ban on psychoactive drug research",
+  "container-title": "Scientific American",
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        2
+      ]
+    ]
+  },
+  "page": "1-2",
+  "language": "en",
+  "URL": "https://www.scientificamerican.com/article/end-the-ban-on-psychoactive-drug-research/",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Scientific American 2014",
+    "topics": [
+      "science-policy",
+      "psychedelics",
+      "ethics"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

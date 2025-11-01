@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:eisenstein-2007-ascent-of-humanity",
+  "type": "book",
+  "author": [
+    {
+      "family": "Eisenstein",
+      "given": "Charles"
+    }
+  ],
+  "title": "The ascent of humanity",
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "publisher": "Evolver Editions",
+  "publisher-place": "Berkeley, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Eisenstein 2007",
+    "topics": [
+      "culture",
+      "ecology",
+      "future-studies"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:smith-1967-psychedelic-theophanies-and-the-religious-life",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Smith",
+      "given": "Huston"
+    }
+  ],
+  "title": "Psychedelic theophanies and the religious life",
+  "container-title": "Christianity and Crisis",
+  "issued": {
+    "date-parts": [
+      [
+        1967
+      ]
+    ]
+  },
+  "volume": "27",
+  "page": "144-48",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Smith 1967",
+    "topics": [
+      "psychedelics",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "source:bache:LSDMU:bib:netherton-paul-1978-past-lives-therapy",
+  "type": "book",
+  "author": [
+    {
+      "family": "Netherton",
+      "given": "Morris"
+    },
+    {
+      "family": "Paul",
+      "given": "Thomas"
+    }
+  ],
+  "title": "Past lives therapy",
+  "issued": {
+    "date-parts": [
+      [
+        1978
+      ]
+    ]
+  },
+  "publisher": "William Morrow Co.",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Netherton & Paul 1978",
+    "topics": [
+      "therapy",
+      "reincarnation"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:hawken-2007-blessed-unrest",
+  "type": "book",
+  "author": [
+    {
+      "family": "Hawken",
+      "given": "Paul"
+    }
+  ],
+  "title": "Blessed unrest",
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "publisher": "Penguin",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Hawken 2007",
+    "topics": [
+      "activism",
+      "ecology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

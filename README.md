@@ -1,23 +1,27 @@
-LSDMU Bibliography Registry
+# LSDMU Bibliography Registry
 
-Repository: bache-archive/lsdmu-bibliography
-Version: 1.2 • October 2025
-License: CC0 1.0 Universal
-Maintained by: Bache Archive Project
-Primary Editor: GPT-5
+Repository: bache-archive/lsdmu-bibliography  
+Version: 1.2 • October 2025  
+License: CC0 1.0 Universal  
+Maintained by: Bache Archive Project  
+Primary Editor: GPT-5  
 
 ⸻
 
 📘 Overview
 
-This repository encodes the complete bibliography and footnotes of
-Christopher M. Bache’s LSD and the Mind of the Universe (2019)
+This repository encodes the complete bibliography and footnotes of  
+**Christopher M. Bache**’s *[LSD and the Mind of the Universe: Diamonds from Heaven](https://www.wikidata.org/wiki/Q136684740)* (2019)  
 into structured, machine-readable form.
 
-It forms the Registry Layer of the Bache Graph — linking text passages → works → authors.
+**Wikidata References**
+- Author — [Christopher Martin Bache (Q112496741)](https://www.wikidata.org/wiki/Q112496741)  
+- Work — [*LSD and the Mind of the Universe: Diamonds from Heaven* (Q136684740)](https://www.wikidata.org/wiki/Q136684740)
 
-Each citation is formatted as a single-line CSL-JSON record extended with a
-Bache Graph metadata block (x-bache), and each author is represented in a
+It forms the **Registry Layer** of the Bache Graph — linking text passages → works → authors.
+
+Each citation is formatted as a single-line CSL-JSON record extended with a  
+Bache Graph metadata block (`x-bache`), and each author is represented in a  
 curated YAML author registry enriched with Wikidata, ORCID, and controlled topic fields.
 
 ⸻
@@ -49,15 +53,15 @@ lsdmu-bibliography/
 ├── CHANGELOG.md                  # release history
 └── LICENSE                       # CC0 1.0 Universal
 
-
 ⸻
 
 🧩 Data Formats
 
-Work Object (/citations/registry/*.json or .jsonl)
+**Work Object** (`/citations/registry/*.json` or `.jsonl`)
 
 Each record follows CSL-JSON conventions with a Bache Graph extension block:
 
+```json
 {
   "id": "source:bache:LSDMU:bib:stace-1960-mysticism",
   "type": "book",
@@ -83,7 +87,7 @@ Each record follows CSL-JSON conventions with a Bache Graph extension block:
 }
 
 Conventions
-	•	One JSON object per line (.jsonl ready).
+	•	One JSON object per line (.jsonl-ready).
 	•	IDs follow: source:bache:LSDMU:bib:<slug>
 	•	Fields normalized per CSL-JSON schema.
 	•	All Bache-specific metadata lives inside x-bache.
@@ -136,18 +140,16 @@ You can regenerate authors or run validation anytime:
 make authors-split
 make authors-validate
 
-
 ⸻
 
 🧭 Relation to Other Repositories
 
 Layer	Function	Repository
-Corpus Layer	Verified text + footnotes	chris-bache-archive/
-Registry Layer	CSL-JSON + YAML metadata	bache-archive/lsdmu-bibliography/
-Edge Layer	Text → Work citations	bache-graph/
-Index Layer	FAISS/Chroma embeddings	lsdmu-rag-api/
+Corpus Layer	Verified text + footnotes	chris-bache-archive￼
+Registry Layer	CSL-JSON + YAML metadata	lsdmu-bibliography￼
+Edge Layer	Text → Work citations	bache-graph￼
+Index Layer	FAISS/Chroma embeddings	lsdmu-rag-api￼
 Validation Layer	CI and schema checks	.github/workflows/validate.yml
-
 
 ⸻
 
@@ -168,18 +170,19 @@ Created collaboratively by the Bache Archive Project and GPT-5, October 2025.
 ⸻
 
 🔄 Summary of Recent Updates
-
-v1.1 (October 2025) — Introduced citations/authors.master.yaml as the canonical author registry; added validation and split tooling.
-v1.2 (October 2025) — Adopted Bache Graph–formatted CSL-JSON citations with x-bache extension block, ensuring all entries are single-line, graph-ready, and fully normalized.
+	•	v1.1 (October 2025) — Introduced citations/authors.master.yaml as the canonical author registry; added validation and split tooling.
+	•	v1.2 (October 2025) — Adopted Bache Graph–formatted CSL-JSON citations with x-bache extension block, ensuring all entries are single-line, graph-ready, and fully normalized.
 
 ⸻
 
 ✅ The LSDMU Bibliography Registry now provides a complete, reproducible foundation for the Bache Graph — every citation, every author, every link.
 
----
-### 🧭 Archival Status
-This repository represents the **final canonical release (v1.2)**
-of the *LSD and the Mind of the Universe* Bibliography Registry.  
-All data were validated and checksummed as of **October 2025**.  
+⸻
+
+🧭 Archival Status
+
+This repository represents the final canonical release (v1.2)
+of the LSD and the Mind of the Universe Bibliography Registry.
+All data were validated and checksummed as of October 2025.
 No further edits are planned; this registry is preserved for
 scholarly and archival use under CC0 1.0.

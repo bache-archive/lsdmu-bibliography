@@ -1,0 +1,38 @@
+{
+  "id": "source:bache:LSDMU:bib:shulgin-shulgin-1997-tihkal",
+  "type": "book",
+  "author": [
+    {
+      "family": "Shulgin",
+      "given": "Alexander"
+    },
+    {
+      "family": "Shulgin",
+      "given": "Ann"
+    }
+  ],
+  "title": "TIHKAL—The continuation",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "Transform Press",
+  "publisher-place": "Berkeley, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Shulgin & Shulgin 1997",
+    "topics": [
+      "psychedelics",
+      "pharmacology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

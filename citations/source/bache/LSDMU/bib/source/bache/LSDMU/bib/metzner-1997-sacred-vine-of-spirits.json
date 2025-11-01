@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:metzner-1997-sacred-vine-of-spirits",
+  "type": "book",
+  "editor": [
+    {
+      "family": "Metzner",
+      "given": "Ralph"
+    }
+  ],
+  "title": "Sacred vine of spirits: Ayahuasca",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "Park Street Press",
+  "publisher-place": "Rochester, VT",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Metzner 1997",
+    "topics": [
+      "ayahuasca",
+      "psychedelics",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

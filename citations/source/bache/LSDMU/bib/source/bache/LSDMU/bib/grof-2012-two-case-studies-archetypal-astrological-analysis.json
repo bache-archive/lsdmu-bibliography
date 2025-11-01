@@ -1,0 +1,36 @@
+{
+  "id": "source:bache:LSDMU:bib:grof-2012-two-case-studies-archetypal-astrological-analysis",
+  "type": "article-journal",
+  "author": [
+    {
+      "family": "Grof",
+      "given": "Stanislav"
+    }
+  ],
+  "title": "Two case studies: An archetypal astrological analysis of experiences in psychedelic sessions and spiritual emergencies",
+  "container-title": "Archai: The Journal of Archetypal Cosmology",
+  "issued": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
+  "volume": "4",
+  "page": "111-26",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Grof 2012",
+    "topics": [
+      "astrology",
+      "psychedelics",
+      "transpersonal-psychology"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

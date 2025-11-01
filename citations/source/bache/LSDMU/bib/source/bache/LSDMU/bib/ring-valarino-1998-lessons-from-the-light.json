@@ -1,0 +1,38 @@
+{
+  "id": "source:bache:LSDMU:bib:ring-valarino-1998-lessons-from-the-light",
+  "type": "book",
+  "author": [
+    {
+      "family": "Ring",
+      "given": "Kenneth"
+    },
+    {
+      "family": "Valarino",
+      "given": "Evelyn"
+    }
+  ],
+  "title": "Lessons from the light",
+  "issued": {
+    "date-parts": [
+      [
+        1998
+      ]
+    ]
+  },
+  "publisher": "Moment Point Press",
+  "publisher-place": "Needham, MA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Ring & Valarino 1998",
+    "topics": [
+      "near-death-experience",
+      "consciousness"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}
