@@ -186,3 +186,9 @@ of the LSD and the Mind of the Universe Bibliography Registry.
 All data were validated and checksummed as of October 2025.
 No further edits are planned; this registry is preserved for
 scholarly and archival use under CC0 1.0.
+
+
+---
+All Wikidata QIDs and identifiers in this repository are maintained in the canonical registry:
+[bache-archive-meta](https://github.com/bache-archive/bache-archive-meta)
+
