@@ -7,3 +7,7 @@ _backups/
 citations/_cache/
 
 !citations/_manifests/*.csv
+
+# Ignore all tar archives
+*.tar
+*.tar.gz

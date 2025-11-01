@@ -1,0 +1,39 @@
+{
+  "id": "source:bache:LSDMU:bib:badiner-grey-2002-zig-zag-zen",
+  "type": "book",
+  "editor": [
+    {
+      "family": "Badiner",
+      "given": "Allan"
+    },
+    {
+      "family": "Grey",
+      "given": "Alex"
+    }
+  ],
+  "title": "Zig zag zen",
+  "issued": {
+    "date-parts": [
+      [
+        2002
+      ]
+    ]
+  },
+  "publisher": "Chronicle Books",
+  "publisher-place": "San Francisco, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Badiner & Grey 2002",
+    "topics": [
+      "psychedelics",
+      "religion",
+      "culture"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

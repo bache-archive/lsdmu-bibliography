@@ -1,0 +1,38 @@
+{
+  "id": "source:bache:LSDMU:bib:cranston-williams-1984-reincarnation",
+  "type": "book",
+  "author": [
+    {
+      "family": "Cranston",
+      "given": "Sylvia"
+    },
+    {
+      "family": "Williams",
+      "given": "Carey"
+    }
+  ],
+  "title": "Reincarnation",
+  "issued": {
+    "date-parts": [
+      [
+        1984
+      ]
+    ]
+  },
+  "publisher": "Julian Press",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Cranston & Williams 1984",
+    "topics": [
+      "reincarnation",
+      "afterlife"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

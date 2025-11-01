@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:devereux-1997-long-trip",
+  "type": "book",
+  "author": [
+    {
+      "family": "Devereux",
+      "given": "Paul"
+    }
+  ],
+  "title": "The long trip",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "publisher": "Penguin/Arkana",
+  "publisher-place": "New York, NY",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Devereux 1997",
+    "topics": [
+      "psychedelics",
+      "culture"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

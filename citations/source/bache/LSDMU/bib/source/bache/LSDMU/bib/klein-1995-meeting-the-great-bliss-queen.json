@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:klein-1995-meeting-the-great-bliss-queen",
+  "type": "book",
+  "author": [
+    {
+      "family": "Klein",
+      "given": "Anne"
+    }
+  ],
+  "title": "Meeting the great bliss queen",
+  "issued": {
+    "date-parts": [
+      [
+        1995
+      ]
+    ]
+  },
+  "publisher": "Beacon Press",
+  "publisher-place": "Boston, MA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Klein 1995",
+    "topics": [
+      "dzogchen",
+      "buddhism",
+      "feminine-divine"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "source:bache:LSDMU:bib:metzner-2015-allies-for-awakening",
+  "type": "book",
+  "author": [
+    {
+      "family": "Metzner",
+      "given": "Ralph"
+    }
+  ],
+  "title": "Allies for awakening",
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "publisher": "Regent Press",
+  "publisher-place": "Berkeley, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Metzner 2015",
+    "topics": [
+      "psychedelics",
+      "consciousness"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}

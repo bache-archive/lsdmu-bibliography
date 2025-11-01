@@ -1,0 +1,35 @@
+{
+  "id": "source:bache:LSDMU:bib:ellens-2014-seeking-the-sacred-with-psychoactive-substances",
+  "type": "book",
+  "editor": [
+    {
+      "family": "Ellens",
+      "given": "J. Harold"
+    }
+  ],
+  "title": "Seeking the sacred with psychoactive substances",
+  "volume": "1-2",
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "publisher": "Praeger",
+  "publisher-place": "Santa Barbara, CA",
+  "language": "en",
+  "x-bache": {
+    "namespace": "bache",
+    "citation_shorthand": "Ellens 2014",
+    "topics": [
+      "psychedelics",
+      "religion"
+    ],
+    "review_state": "draft",
+    "provenance": {
+      "entered_by": "editor.hrl",
+      "entered_at": "2025-10-28"
+    }
+  }
+}
