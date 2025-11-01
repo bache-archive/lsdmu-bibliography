@@ -4,7 +4,10 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741"
+      }
     }
   ],
   "title": "The living classroom",
@@ -26,9 +29,13 @@
       "culture"
     ],
     "review_state": "draft",
+    "wikidata": "Q136684793",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "bache-archive-meta/wikidata.jsonld",
+      "meta_commit": "HEAD",
+      "resolved_at": "2025-11-01T00:00:00Z"
     }
   }
 }
