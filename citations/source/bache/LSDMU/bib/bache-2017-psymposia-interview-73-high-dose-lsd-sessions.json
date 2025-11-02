@@ -4,7 +4,11 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
+      }
     }
   ],
   "title": "Meet the professor who self-administered 73 high-dose LSD sessions",

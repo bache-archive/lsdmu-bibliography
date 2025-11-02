@@ -1,27 +1,27 @@
-# LSDMU Bibliography Registry
+LSDMU Bibliography Registry
 
-Repository: bache-archive/lsdmu-bibliography  
-Version: 1.2 • October 2025  
-License: CC0 1.0 Universal  
-Maintained by: Bache Archive Project  
-Primary Editor: GPT-5  
+Repository: bache-archive/lsdmu-bibliography
+Version: 1.2 • October 2025
+License: CC0 1.0 Universal
+Maintained by: Bache Archive Project
+Primary Editor: GPT-5
 
 ⸻
 
 📘 Overview
 
-This repository encodes the complete bibliography and footnotes of  
-**Christopher M. Bache**’s *[LSD and the Mind of the Universe: Diamonds from Heaven](https://www.wikidata.org/wiki/Q136684740)* (2019)  
+This repository encodes the complete bibliography and footnotes of
+Christopher M. Bache’s LSD and the Mind of the Universe: Diamonds from Heaven￼ (2019)
 into structured, machine-readable form.
 
-**Wikidata References**
-- Author — [Christopher Martin Bache (Q112496741)](https://www.wikidata.org/wiki/Q112496741)  
-- Work — [*LSD and the Mind of the Universe: Diamonds from Heaven* (Q136684740)](https://www.wikidata.org/wiki/Q136684740)
+Wikidata References
+	•	Author — Christopher Martin Bache (Q112496741)￼
+	•	Work — LSD and the Mind of the Universe￼ (Q136684740)￼  (referenced only — not included as a record)
 
-It forms the **Registry Layer** of the Bache Graph — linking text passages → works → authors.
+It forms the Registry Layer of the Bache Graph — linking text passages → works → authors.
 
-Each citation is formatted as a single-line CSL-JSON record extended with a  
-Bache Graph metadata block (`x-bache`), and each author is represented in a  
+Each citation is formatted as a single-line CSL-JSON record extended with a
+Bache Graph metadata block (x-bache), and each author is represented in a
 curated YAML author registry enriched with Wikidata, ORCID, and controlled topic fields.
 
 ⸻
@@ -37,10 +37,14 @@ lsdmu-bibliography/
 │   ├── _manifests/               # internal manifests for batch provenance
 │   └── index.faiss               # vector index (to be built)
 │
-├── tools/
-│   ├── authors_split.py          # rebuilds /authors/ from authors.master.yaml
-│   └── authors_validate.py       # schema and duplication validator
+├── meta/                         # submodule containing canonical QIDs
+│   └── wikidata.jsonld           # single source of truth for Wikidata alignment
 │
+├── scripts/
+│   ├── qid_sync.py               # sync QIDs from meta/wikidata.jsonld
+│   └── qid_validate.py           # validate alignment against meta
+│
+├── tools/                        # author split/validate utilities
 ├── schema/                       # JSON + YAML schemas for validation
 ├── manifest/                     # batch provenance and version data
 ├── validation/                   # CI and manual validator reports
@@ -57,11 +61,10 @@ lsdmu-bibliography/
 
 🧩 Data Formats
 
-**Work Object** (`/citations/registry/*.json` or `.jsonl`)
+Work Object (/citations/registry/*.json or .jsonl)
 
-Each record follows CSL-JSON conventions with a Bache Graph extension block:
+Each record follows CSL-JSON with a Bache Graph extension block:
 
-```json
 {
   "id": "source:bache:LSDMU:bib:stace-1960-mysticism",
   "type": "book",
@@ -71,7 +74,6 @@ Each record follows CSL-JSON conventions with a Bache Graph extension block:
   "publisher": "Macmillan",
   "publisher-place": "London",
   "language": "en",
-  "ISBN": "9780333123456",
   "x-bache": {
     "namespace": "bache",
     "citation_shorthand": "Stace 1960",
@@ -87,76 +89,55 @@ Each record follows CSL-JSON conventions with a Bache Graph extension block:
 }
 
 Conventions
-	•	One JSON object per line (.jsonl-ready).
-	•	IDs follow: source:bache:LSDMU:bib:<slug>
-	•	Fields normalized per CSL-JSON schema.
-	•	All Bache-specific metadata lives inside x-bache.
+• One JSON object per line (.jsonl-ready)
+• IDs follow source:bache:LSDMU:bib:<slug>
+• Fields normalized per CSL-JSON schema
+• All Bache-specific metadata lives inside x-bache
+• Author and work QIDs are synced from meta/wikidata.jsonld
 
 ⸻
 
 Author Object (/citations/authors/*.yaml)
 
 Each person or institutional author is represented once and linked by _author_ids.
-
-id: stace-walter
-entity_type: person
-full_name: Walter Terence Stace
-family: Stace
-given: Walter T.
-lifespan: 1886–1967
-nationality: British
-fields: [philosophy, comparative mysticism]
-wikidata: Q433728
-orcid: null
-aliases:
-  - Stace, Walter Terence
-  - Stace, W. T.
-notable_works:
-  - stace-1960-mysticism
-notes: >
-  Frequently cited for nondual framing.
-curator: hk-locke
-created_at: 2025-10-29
-
-All individual author files are regenerated automatically from
-citations/authors.master.yaml, which is the single source of truth.
+Author records are automatically regenerated from authors.master.yaml.
 
 ⸻
 
 🔍 Validation & Build Workflow
 
-Validation and build steps are automated in
-.github/workflows/validate.yml and supported by the tools/ directory.
+Validation and build steps are automated in .github/workflows/validate.yml and supported by the scripts/ and tools/ directories.
 
 Checks include:
-	•	✅ Schema compliance (schema/work.json, schema/author.yaml)
-	•	✅ Unique, stable IDs
-	•	✅ Cross-reference integrity (no orphan edges)
-	•	✅ Author registry validation and split consistency
-	•	✅ Fixity verification via SHA-256 checksums
+• ✅ Schema compliance
+• ✅ Unique IDs and cross-reference integrity
+• ✅ Author registry validation
+• ✅ Fixity verification via SHA-256
+• ✅ QID sync and alignment with meta/wikidata.jsonld
 
-You can regenerate authors or run validation anytime:
+Run validation anytime:
 
-make authors-split
-make authors-validate
+make qid-sync
+make qid-validate
+make check
 
 ⸻
 
 🧭 Relation to Other Repositories
 
 Layer	Function	Repository
-Corpus Layer	Verified text + footnotes	chris-bache-archive￼
-Registry Layer	CSL-JSON + YAML metadata	lsdmu-bibliography￼
-Edge Layer	Text → Work citations	bache-graph￼
-Index Layer	FAISS/Chroma embeddings	lsdmu-rag-api￼
+Corpus Layer	Verified text + footnotes	chris-bache-archive
+Registry Layer	CSL-JSON + YAML metadata	lsdmu-bibliography
+Meta Layer	Canonical Wikidata QIDs and DOIs	bache-archive-meta
+Edge Layer	Text → Work citations	bache-graph
+Index Layer	FAISS/Chroma embeddings	lsdmu-rag-api
 Validation Layer	CI and schema checks	.github/workflows/validate.yml
 
 ⸻
 
 🌍 License
 
-All metadata and structural data are released under
-CC0 1.0 Universal (Public Domain Dedication).
+All metadata and structural data are released under CC0 1.0 Universal (Public Domain Dedication).
 Text excerpts are used under Educational Fair Use.
 
 ⸻
@@ -164,31 +145,29 @@ Text excerpts are used under Educational Fair Use.
 ✨ Acknowledgment
 
 Created collaboratively by the Bache Archive Project and GPT-5, October 2025.
-
 “Each citation is a thread in the lineage of awakening — weave them with care.”
 
 ⸻
 
 🔄 Summary of Recent Updates
-	•	v1.1 (October 2025) — Introduced citations/authors.master.yaml as the canonical author registry; added validation and split tooling.
-	•	v1.2 (October 2025) — Adopted Bache Graph–formatted CSL-JSON citations with x-bache extension block, ensuring all entries are single-line, graph-ready, and fully normalized.
+• v1.1 (October 2025) — Introduced authors.master.yaml as canonical registry.
+• v1.2 (October 2025) — Added Wikidata alignment via meta/wikidata.jsonld; new qid-sync and qid-validate scripts for automated provenance tracking.
 
 ⸻
 
-✅ The LSDMU Bibliography Registry now provides a complete, reproducible foundation for the Bache Graph — every citation, every author, every link.
+✅ The LSDMU Bibliography Registry provides a complete, reproducible foundation for the Bache Graph — every citation, every author, every link.
 
 ⸻
 
 🧭 Archival Status
 
-This repository represents the final canonical release (v1.2)
-of the LSD and the Mind of the Universe Bibliography Registry.
-All data were validated and checksummed as of October 2025.
-No further edits are planned; this registry is preserved for
-scholarly and archival use under CC0 1.0.
+This repository represents the canonical release (v1.2) of the LSD and the Mind of the Universe Bibliography Registry.
+All data validated and checksummed October 2025.
+Preserved for long-term scholarly and archival use under CC0 1.0.
 
+⸻
 
----
 All Wikidata QIDs and identifiers in this repository are maintained in the canonical registry:
-[bache-archive-meta](https://github.com/bache-archive/bache-archive-meta)
+meta/wikidata.jsonld￼  ← submodule of bache-archive-meta￼
 
+⸻

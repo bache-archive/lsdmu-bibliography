@@ -4,10 +4,14 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
+      }
     }
   ],
-  "title": "Reincarnation and the akashic-field: A dialogue with Ervin Laszlo",
+  "title": "Reincarnation and the Akashic Field: A Dialogue with Ervin Laszlo",
   "container-title": "World Futures",
   "issued": {
     "date-parts": [
@@ -17,7 +21,7 @@
     ]
   },
   "volume": "62",
-  "page": "114-26",
+  "page": "114–126",
   "language": "en",
   "x-bache": {
     "namespace": "bache",
@@ -26,10 +30,13 @@
       "reincarnation",
       "consciousness"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }

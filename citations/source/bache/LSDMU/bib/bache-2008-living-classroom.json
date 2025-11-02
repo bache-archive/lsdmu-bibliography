@@ -6,11 +6,12 @@
       "family": "Bache",
       "given": "Christopher",
       "x-bache": {
-        "wikidata": "Q112496741"
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
       }
     }
   ],
-  "title": "The living classroom",
+  "title": "The Living Classroom",
   "issued": {
     "date-parts": [
       [
@@ -21,6 +22,7 @@
   "publisher": "State University of New York Press",
   "publisher-place": "Albany, NY",
   "language": "en",
+  "ISBN": "9780791476468",
   "x-bache": {
     "namespace": "bache",
     "citation_shorthand": "Bache 2008",
@@ -28,14 +30,14 @@
       "consciousness",
       "culture"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "wikidata": "Q136684793",
     "provenance": {
       "entered_by": "editor.hrl",
       "entered_at": "2025-10-28",
-      "meta_ref": "bache-archive-meta/wikidata.jsonld",
-      "meta_commit": "HEAD",
-      "resolved_at": "2025-11-01T00:00:00Z"
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }
