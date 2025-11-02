@@ -6,11 +6,12 @@
       "family": "Bache",
       "given": "Christopher",
       "x-bache": {
-        "wikidata": "Q112496741"
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
       }
     }
   ],
-  "title": "On the emergence of perinatal symptoms in Buddhist meditation",
+  "title": "On the Emergence of Perinatal Symptoms in Buddhist Meditation",
   "container-title": "Journal for the Scientific Study of Religion",
   "issued": {
     "date-parts": [
@@ -20,7 +21,7 @@
     ]
   },
   "volume": "20",
-  "page": "339-50",
+  "page": "339–350",
   "language": "en",
   "x-bache": {
     "namespace": "bache",
@@ -29,10 +30,13 @@
       "transpersonal-psychology",
       "mysticism"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }

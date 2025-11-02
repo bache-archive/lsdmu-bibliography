@@ -6,12 +6,13 @@
       "family": "Bache",
       "given": "Christopher",
       "x-bache": {
-        "wikidata": "Q112496741"
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
       }
     }
   ],
-  "title": "Expanding Grof’s concept of the perinatal: Deepening the inquiry into frightening NDEs",
-  "container-title": "Journal of Near Death Studies",
+  "title": "Expanding Grof’s Concept of the Perinatal: Deepening the Inquiry into Frightening NDEs",
+  "container-title": "Journal of Near-Death Studies",
   "issued": {
     "date-parts": [
       [
@@ -21,7 +22,7 @@
   },
   "volume": "15",
   "issue": "2",
-  "page": "115-39",
+  "page": "115–139",
   "language": "en",
   "x-bache": {
     "namespace": "bache",
@@ -30,10 +31,13 @@
       "near-death-experience",
       "transpersonal-psychology"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }

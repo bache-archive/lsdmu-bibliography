@@ -6,11 +6,12 @@
       "family": "Bache",
       "given": "Christopher",
       "x-bache": {
-        "wikidata": "Q112496741"
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
       }
     }
   ],
-  "title": "A reappraisal of Teresa of Avila’s supposed hysteria",
+  "title": "A Reappraisal of Teresa of Avila’s Supposed Hysteria",
   "container-title": "Journal of Religion and Health",
   "issued": {
     "date-parts": [
@@ -20,7 +21,7 @@
     ]
   },
   "volume": "24",
-  "page": "21-30",
+  "page": "21–30",
   "language": "en",
   "x-bache": {
     "namespace": "bache",
@@ -29,10 +30,13 @@
       "mysticism",
       "transpersonal-psychology"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }

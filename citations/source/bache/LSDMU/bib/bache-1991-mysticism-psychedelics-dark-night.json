@@ -6,11 +6,12 @@
       "family": "Bache",
       "given": "Christopher",
       "x-bache": {
-        "wikidata": "Q112496741"
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
       }
     }
   ],
-  "title": "Mysticism and psychedelics: The case of the Dark Night",
+  "title": "Mysticism and Psychedelics: The Case of the Dark Night",
   "container-title": "Journal of Religion and Health",
   "issued": {
     "date-parts": [
@@ -20,20 +21,23 @@
     ]
   },
   "volume": "30",
-  "page": "215-36",
+  "page": "215–236",
   "language": "en",
   "x-bache": {
     "namespace": "bache",
     "citation_shorthand": "Bache 1991",
     "topics": [
       "mysticism",
-      "lsd",
+      "LSD",
       "transpersonal-psychology"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }

@@ -6,12 +6,13 @@
       "family": "Bache",
       "given": "Christopher",
       "x-bache": {
-        "wikidata": "Q112496741"
+        "wikidata": "Q112496741",
+        "openalex": "A5045900737"
       }
     }
   ],
-  "title": "A perinatal interpretation of frightening NDEs: A dialogue with Kenneth Ring",
-  "container-title": "Journal of Near Death Studies",
+  "title": "A Perinatal Interpretation of Frightening NDEs: A Dialogue with Kenneth Ring",
+  "container-title": "Journal of Near-Death Studies",
   "issued": {
     "date-parts": [
       [
@@ -21,7 +22,7 @@
   },
   "volume": "13",
   "issue": "1",
-  "page": "25-45",
+  "page": "25–45",
   "language": "en",
   "x-bache": {
     "namespace": "bache",
@@ -30,10 +31,13 @@
       "near-death-experience",
       "transpersonal-psychology"
     ],
-    "review_state": "draft",
+    "review_state": "steward-reviewed",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "6d3606c",
+      "resolved_at": "2025-11-01T20:14:34Z"
     }
   }
 }
