@@ -4,7 +4,10 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741"
+      }
     }
   ],
   "title": "On the emergence of perinatal symptoms in Buddhist meditation",

@@ -4,7 +4,10 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741"
+      }
     }
   ],
   "title": "Lifecycles",
@@ -28,7 +31,11 @@
     "review_state": "draft",
     "provenance": {
       "entered_by": "editor.hrl",
-      "entered_at": "2025-10-28"
-    }
+      "entered_at": "2025-10-28",
+      "meta_ref": "meta/wikidata.jsonld",
+      "meta_commit": "c201c53",
+      "resolved_at": "2025-11-01T20:14:34Z"
+    },
+    "wikidata": "Q136684807"
   }
 }

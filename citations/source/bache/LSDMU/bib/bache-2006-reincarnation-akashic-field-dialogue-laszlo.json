@@ -4,7 +4,10 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741"
+      }
     }
   ],
   "title": "Reincarnation and the akashic-field: A dialogue with Ervin Laszlo",

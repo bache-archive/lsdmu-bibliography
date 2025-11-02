@@ -4,7 +4,10 @@
   "author": [
     {
       "family": "Bache",
-      "given": "Christopher"
+      "given": "Christopher",
+      "x-bache": {
+        "wikidata": "Q112496741"
+      }
     }
   ],
   "title": "The collective dynamics of contemplative practice",
