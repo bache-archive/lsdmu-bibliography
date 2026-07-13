@@ -2,7 +2,7 @@
 set -euo pipefail
 
 OLD="Bache Archive Stewardship Team"
-NEW="Bache Archive Project"
+NEW="Bache Archive maintainer"
 
 echo "🔍 Searching and replacing '${OLD}' → '${NEW}' ..."
 

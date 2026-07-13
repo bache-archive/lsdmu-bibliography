@@ -3,7 +3,7 @@ LSDMU Bibliography Registry
 Repository: bache-archive/lsdmu-bibliography
 Version: 1.2 • October 2025
 License: CC0 1.0 Universal
-Maintained by: Bache Archive Project
+Maintained by: Bache Archive maintainer
 Primary Editor: GPT-5
 
 ⸻
@@ -144,7 +144,7 @@ Text excerpts are used under Educational Fair Use.
 
 ✨ Acknowledgment
 
-Created collaboratively by the Bache Archive Project and GPT-5, October 2025.
+Created by the Bache Archive maintainer with GPT-5 assistance, October 2025.
 “Each citation is a thread in the lineage of awakening — weave them with care.”
 
 ⸻

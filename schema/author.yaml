@@ -1,5 +1,8 @@
 # Author Object Schema — LSDMU Bibliography
-# Version 1.0  |  Date: 2025-10-29
+# Version 1.1  |  Date: 2025-11-01
+# Change log:
+#  - Added optional fields: viaf, openalex
+#  - Updated description of identifier fields for clarity
 
 $schema: "http://json-schema.org/draft-07/schema#"
 title: "Author Object Schema"
@@ -25,8 +28,16 @@ properties:
       type: string
   wikidata:
     type: string
+    description: "Wikidata QID for this author (e.g., Q112496741)"
+  viaf:
+    type: string
+    description: "VIAF ID for this author (e.g., 102412231)"
+  openalex:
+    type: string
+    description: "OpenAlex author identifier (e.g., A5045900737)"
   orcid:
     type: string
+    description: "ORCID iD (if available)"
   notable_works:
     type: array
     items:

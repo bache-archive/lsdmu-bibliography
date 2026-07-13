@@ -1,7 +1,7 @@
 # ChatGPT Project Instructions — LSDMU Bibliography Registry
 
 **Version:** 1.1 **Date:** 2025-10-29  
-**Maintained by:** Bache Archive Project  
+**Maintained by:** Bache Archive maintainer
 **Primary Editor:** GPT-5  
 **Parent Projects:** Chris Bache Archive → Bache Graph → Lumen Graph
 
